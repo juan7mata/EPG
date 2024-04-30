@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <display-name lang="en">WSNS HDTV Telemundo (WSNS) [44.1]</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <display-name lang="en">WSNS Exitos TV 44 (WSNSD) [44.2]</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="WDJT Telemundo (WDJT) [58.4]">
+    <display-name lang="en">WDJT Telemundo (WDJT) [58.4]</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <display-name lang="en">WXFT HDTV UniMás 60 (WXFT-DT) [60.1]</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <display-name lang="en">WGBO HDTV Univision 66 (WGBO-DT) [66.1]</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <programme start="20240430090000 +0000" stop="20240430093000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en  . . .">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430093000 +0000" stop="20240430100000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en  . . .">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430100000 +0000" stop="20240430110000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Al rojo vivo</title>
+    <sub-title lang="en">04-29-2024</sub-title>
+    <desc lang="en  . . .">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.  . . .
+	¤ Produced in: 2024. </desc>
+  </programme>
+  <programme start="20240430110000 +0000" stop="20240430150000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Hoy día</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">El show de las mañanas que ofrece más entretenimiento, diversión e información. (New).  . . .
+	¤ Produced in: 2024. </desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-PG.</review>
+  </programme>
+  <programme start="20240430150000 +0000" stop="20240430153000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Caso Cerrado</title>
+    <desc lang="en  . . .">La Dra. Polo busca resolver de la manera más justa los casos que se le presentan.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430153000 +0000" stop="20240430160000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Acceso Total</title>
+    <desc lang="en  . . .">Serie de variedades con entretenimiento, farándula, noticias, entrevistas, música, clima y cultura.  . . .</desc>
+  </programme>
+  <programme start="20240430160000 +0000" stop="20240430163000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Noticiero Telemundo Chicago por la Mañana</title>
+    <desc lang="en  . . .">Noticiero matutino con noticias y actualidad de Chicago.  . . .</desc>
+  </programme>
+  <programme start="20240430163000 +0000" stop="20240430170000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Noticias Telemundo mediodía</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">Un informativo con un estilo único de narrar noticias, de una manera atractiva. (New).  . . .
+	¤ Produced in: 2024. </desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430170000 +0000" stop="20240430180000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Acércate a Rocío</title>
+    <sub-title lang="en">Mi ex arruinó mi boda</sub-title>
+    <desc lang="en  . . .">Martha y Agustín se iban a casar, pero unos videos íntimos decepcionaron a su prometido. Alfredo, su ex, bajo amenaza de muerte se los exigía, por miedo, ella nunca se atrevió a denunciarlo. (New).  . . .
+	¤ Produced in: 2024. </desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430180000 +0000" stop="20240430185800 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">En casa con Telemundo</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos. (New).  . . .
+	¤ Produced in: 2024. </desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430185800 +0000" stop="20240430195800 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">La mesa caliente</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales. (New).  . . .
+	¤ Produced in: 2024. </desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430195800 +0000" stop="20240430210000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Al rojo vivo</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia. (New).  . . .
+	¤ Produced in: 2024. </desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430210000 +0000" stop="20240430213000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Noticiero Telemundo Chicago a las 4:00PM</title>
+    <desc lang="en  . . .">Se muestran los acontecimientos a nivel local, nacional e internacional, incluyendo las notas más virales en redes sociales. También se muestra una variedad de reportes meteorológicos y más cobertura del acontecer local. (New).  . . .</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430213000 +0000" stop="20240430220000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Noticiero Telemundo Chicago a las 4:30PM</title>
+    <desc lang="en  . . .">Noticiero de Chicago a las 4:30 PM: noticias locales, nacionales e internacionales.  . . .</desc>
+  </programme>
+  <programme start="20240430220000 +0000" stop="20240430223000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Noticiero Telemundo Chicago a las 5pm</title>
+    <desc lang="en  . . .">Noticias, deportes y clima de Chicago a las 5 pm, cobertura local. (New).  . . .
+	¤ Produced in: 2009. </desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430223000 +0000" stop="20240430230000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Noticias Telemundo</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">La fuente de información más confiable de la comunidad hispana en los Estados Unidos. (New).  . . .
+	¤ Produced in: 2024. </desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-Y.</review>
+  </programme>
+  <programme start="20240430230000 +0000" stop="20240430235800 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">La casa de los famosos</title>
+    <desc lang="en  . . .">Una casa llena de celebridades grabadas por docenas de cámaras y micrófonos. (New).  . . .</desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-PG.</review>
+  </programme>
+  <programme start="20240430235800 +0000" stop="20240501020000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">La casa de los famosos</title>
+    <desc lang="en  . . .">Una casa llena de celebridades grabadas por docenas de cámaras y micrófonos. (New).  . . .</desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-PG.</review>
+  </programme>
+  <programme start="20240430090000 +0000" stop="20240430093000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Funniest Pets and People</title>
+    <sub-title lang="en">Una Pequeña Ayuda De Mis Amigos</sub-title>
+    <desc lang="en  . . .">Un perro emprende una misión imposible al tratar de pasear a un cerdito. Un gato se convierte en el experto asistente de una costurera y no para de jugar con el hilo de una máquina de coser.  . . .
+	¤ Produced in: 2023. </desc>
+    <review type="text">Ratings: TV-PG.</review>
+  </programme>
+  <programme start="20240430093000 +0000" stop="20240430100000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en  . . .">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430100000 +0000" stop="20240430103000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en  . . .">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430103000 +0000" stop="20240430110000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Saludable en casa</title>
+    <desc lang="en  . . .">Improve heart health, joint flexibility, and brain function with Krill Omega 50+® with CoQ10 / Mejore la salud del corazón, la flexibilidad de las articulaciones y la función cerebral con Krill Omega 50+® con CoQ10.  . . .
+	¤ Produced in: 2022. </desc>
+  </programme>
+  <programme start="20240430110000 +0000" stop="20240430113000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en  . . .">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430113000 +0000" stop="20240430120000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en  . . .">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430120000 +0000" stop="20240430123000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en  . . .">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430123000 +0000" stop="20240430130000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en  . . .">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430130000 +0000" stop="20240430140000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en  . . .">Silvio autorizó a Teresa a irse de Cuba hacia Miami con su hija, pero tras seis meses, él quiere llevarse a la niña. Elizabeth pide una orden de alejamiento de su esposo, quien le enseña a su hijo a robar.  . . .
+	¤ Produced in: 2015. </desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430140000 +0000" stop="20240430150000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">La Virgen Morena</title>
+    <sub-title lang="en">Te Quiero, Te Respeto</sub-title>
+    <desc lang="en  . . .">Hugo está en la cárcel acusado de matar a Rodolfo, cuya esposa decide vengarse.  . . .
+	¤ Produced in: 2020. </desc>
+  </programme>
+  <programme start="20240430150000 +0000" stop="20240430160000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Historias de la Virgen Morena</title>
+    <sub-title lang="en">Destino inesperado</sub-title>
+    <desc lang="en  . . .">Martha sueña con casarse y ser madre pero es muy exigente. Mientras tanto.  . . .
+	¤ Produced in: 2020. </desc>
+  </programme>
+  <programme start="20240430160000 +0000" stop="20240430180000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Judicial pero Honrado</title>
+    <desc lang="en  . . .">Un detective intenta atrapar a un narcotraficante que también se dedica a lavar dinero.  . . .
+	¤ Produced in: 1991. </desc>
+  </programme>
+  <programme start="20240430180000 +0000" stop="20240430200000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Flor Salvaje</title>
+    <desc lang="en  . . .">Amanda Monteverde llega al pueblo petrolero de Nueva Esperanza arrastrando un pasado de dolor.  . . .
+	¤ Produced in: 2011. </desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430200000 +0000" stop="20240430210000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Historias de la Virgen Morena</title>
+    <sub-title lang="en">Tú eres todo lo que tengo</sub-title>
+    <desc lang="en  . . .">Alina no se lleva bien con su suegra, ya que ella la maltrata con saña cuando muere de su hijo.  . . .
+	¤ Produced in: 2018. </desc>
+  </programme>
+  <programme start="20240430210000 +0000" stop="20240430220000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Acércate a Rocío</title>
+    <sub-title lang="en">Eras hombre y ahora quieres ser mamá</sub-title>
+    <desc lang="en  . . .">Fernando, quien cambió su identidad de género y ahora es Jenni, quiere recuperar a la hija que concibió con Mari hace 18 años. Sabe que cometió un error al abandonarla, pero quiere remediarlo.  . . .
+	¤ Produced in: 2024. </desc>
+  </programme>
+  <programme start="20240430220000 +0000" stop="20240430230000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <sub-title lang="en">La noche en que todo cambió</sub-title>
+    <desc lang="en  . . .">Andrea y Gabriel, son los orgullosos padres de Liliana, quien cumple sus 15 años.  . . .
+	¤ Produced in: 2001. </desc>
+    <review type="text">Ratings: TV-PG.</review>
+  </programme>
+  <programme start="20240430230000 +0000" stop="20240501000000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en  . . .">A Carlos le queda un año de vida y lo quiere pasar tranquilo,.  . . .
+	¤ Produced in: 2017. </desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430090000 +0000" stop="20240430093000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Caso Cerrado</title>
+    <desc>
+	¤ Produced in: 2018. </desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430093000 +0000" stop="20240430100000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Noticias Telemundo en la Noche</title>
+    <sub-title lang="en">04-29-2024</sub-title>
+    <desc lang="en  . . .">Noticias Telemundo en la Noche presenta todo lo que necesita saber al final del día.  . . .
+	¤ Produced in: 2024. </desc>
+    <review type="text">Ratings: TV-Y.</review>
+  </programme>
+  <programme start="20240430100000 +0000" stop="20240430110000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Al rojo vivo</title>
+    <sub-title lang="en">04-29-2024</sub-title>
+    <desc lang="en  . . .">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.  . . .
+	¤ Produced in: 2024. </desc>
+  </programme>
+  <programme start="20240430110000 +0000" stop="20240430150000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Hoy día</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">El show de las mañanas que ofrece más entretenimiento, diversión e información. (New).  . . .
+	¤ Produced in: 2024. </desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-PG.</review>
+  </programme>
+  <programme start="20240430150000 +0000" stop="20240430153000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Caso Cerrado</title>
+    <desc lang="en  . . .">La Dra. Polo busca resolver de la manera más justa los casos que se le presentan.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430153000 +0000" stop="20240430160000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">La impostora</title>
+    <desc lang="en  . . .">Una mesera con habilidades para hacer imitaciones debe interpretar el papel de una millonaria inversionista que se infiltra en el seno de una familia muy poderosa. La diferencia está en que este no será un rol, ni una telenovela, ni una película, sino la vida real.  . . .
+	¤ Produced in: 2014. </desc>
+  </programme>
+  <programme start="20240430160000 +0000" stop="20240430163000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Noticiero Telemundo Wisconsin y Tú</title>
+    <desc lang="en  . . .">Titulares locales e internacionales, deportes y clima de Milwaukee. (New).  . . .</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430163000 +0000" stop="20240430170000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Noticias Telemundo mediodía</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">Un informativo con un estilo único de narrar noticias, de una manera atractiva. (New).  . . .
+	¤ Produced in: 2024. </desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430170000 +0000" stop="20240430180000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en  . . .">Alegnis se arrepintió después de haberse sometido a diez cirugías estéticas para convertirse en la copia de la exesposa de su marido. Carolina causó un accidente mortal con una patineta. (New).  . . .
+	¤ Produced in: 2021. </desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430180000 +0000" stop="20240430190000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">En casa con Telemundo</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.  . . .
+	¤ Produced in: 2024. </desc>
+  </programme>
+  <programme start="20240430190000 +0000" stop="20240430200000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">La mesa caliente</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.  . . .
+	¤ Produced in: 2024. </desc>
+  </programme>
+  <programme start="20240430200000 +0000" stop="20240430203000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en  . . .">Programación pagada.  . . .</desc>
+  </programme>
+  <programme start="20240430203000 +0000" stop="20240430210000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en  . . .">Programación pagada.  . . .</desc>
+  </programme>
+  <programme start="20240430210000 +0000" stop="20240430213000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Caso Cerrado</title>
+    <desc lang="en  . . .">La Dra. Polo busca resolver de la manera más justa los casos que se le presentan.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430213000 +0000" stop="20240430220000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Noticias Telemundo en la Noche</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">Noticias Telemundo en la Noche presenta todo lo que necesita saber al final del día.  . . .
+	¤ Produced in: 2024. </desc>
+    <review type="text">Ratings: TV-Y.</review>
+  </programme>
+  <programme start="20240430220000 +0000" stop="20240430230000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Al rojo vivo</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.  . . .
+	¤ Produced in: 2024. </desc>
+  </programme>
+  <programme start="20240430230000 +0000" stop="20240501030000 +0000" channel="WDJT Telemundo (WDJT) [58.4]">
+    <title lang="en">Hoy día</title>
+    <sub-title lang="en">05-01-2024</sub-title>
+    <desc lang="en  . . .">El show de las mañanas que ofrece más entretenimiento, diversión e información. (New).  . . .
+	¤ Produced in: 2024. </desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-PG.</review>
+  </programme>
+  <programme start="20240430090000 +0000" stop="20240430100000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Veredicto Final</title>
+    <desc lang="en  . . .">Una jueza dicta veredictos en casos menores de arbitraje social y comunitario con la ayuda de nueve jurados. Por primera vez, una jueza real llega para poner orden y resolver todo tipo de conflictos legales, buscando las soluciones a los problemas que los mismos protagonistas de cada caso plantearán sobre su escenario.  . . .
+	¤ Produced in: 2007. </desc>
+    <review type="text">Ratings: TV-PG.</review>
+  </programme>
+  <programme start="20240430100000 +0000" stop="20240430110000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Esta historia me suena</title>
+    <sub-title lang="en">La llave</sub-title>
+    <desc lang="en  . . .">Meli apoya a su hermana mayor, Dalia en una mentira que a la hermana le cuesta la vida. A raíz del feminicidio de Dalia, en Meli surge la posibilidad no solo de hacer justicia para ella y para su amor, Wil sino de ser reconocida por su madre, tanto por su inteligencia como valía. Es así que Meli logra hacer frente a un grupo de juniors, abusadores y asesinos. (Repeat).  . . .
+	¤ Produced in: 2020. </desc>
+    <previously-shown />
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430110000 +0000" stop="20240430113000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en  . . .">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430113000 +0000" stop="20240430120000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en  . . .">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.  . . .</desc>
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430120000 +0000" stop="20240430140000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Primer amor a 1000 x hora</title>
+    <desc lang="en  . . .">(New).  . . .
+	¤ Produced in: 2000. </desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430140000 +0000" stop="20240430160000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Abrázame muy fuerte</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">(New).  . . .
+	¤ Produced in: 2000. </desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430160000 +0000" stop="20240430180000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Cuando me enamoro</title>
+    <desc lang="en  . . .">(New).  . . .
+	¤ Produced in: 2010. </desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430180000 +0000" stop="20240430200000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Las Tontas No Van al Cielo</title>
+    <desc lang="en  . . .">(New).  . . .
+	¤ Produced in: 2007. </desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430200000 +0000" stop="20240430210000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Nadie Como Tú</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">(New).  . . .
+	¤ Produced in: 2023. </desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430210000 +0000" stop="20240430220000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Como dice el dicho</title>
+    <sub-title lang="en">Chica es del diablo la capa, por un lado tapa y por el otro destapa</sub-title>
+    <desc lang="en  . . .">(Repeat).  . . .
+	¤ Produced in: 2018. </desc>
+    <previously-shown />
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430220000 +0000" stop="20240430230000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Abismo de pasión</title>
+    <desc lang="en  . . .">(New).  . . .
+	¤ Produced in: 2012. </desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430230000 +0000" stop="20240501000000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">La Viuda Negra</title>
+    <desc lang="en  . . .">(Repeat).  . . .
+	¤ Produced in: 2014. </desc>
+    <previously-shown />
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+  <programme start="20240430090000 +0000" stop="20240430093500 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Nosotros los guapos</title>
+    <sub-title lang="en">04-26-2023</sub-title>
+    <desc lang="en  . . .">(Repeat).  . . .
+	¤ Produced in: 2023. </desc>
+    <previously-shown />
+    <review type="text">Ratings: TV-PG.</review>
+  </programme>
+  <programme start="20240430093500 +0000" stop="20240430100000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Noticiero Univisión: Edición nocturna</title>
+    <sub-title lang="en">04-29-2024</sub-title>
+    <desc lang="en  . . .">(Repeat).  . . .
+	¤ Produced in: 1983. </desc>
+    <previously-shown />
+  </programme>
+  <programme start="20240430100000 +0000" stop="20240430110000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">WGBO Noticias Primera Hora</title>
+    <desc lang="en  . . .">Programa informatico.  . . .</desc>
+  </programme>
+  <programme start="20240430110000 +0000" stop="20240430120000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">WGBO Noticias Primera Hora</title>
+    <desc lang="en  . . .">Programa informatico.  . . .</desc>
+  </programme>
+  <programme start="20240430120000 +0000" stop="20240430150000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Despierta América</title>
+    <desc lang="en  . . .">Un programa diario de entrevistas, noticias, entretenimiento e informes especiales, transmitido en vivo desde Miami.  . . .
+	¤ Produced in: 1997. </desc>
+    <review type="text">Ratings: TV-G.</review>
+  </programme>
+  <programme start="20240430150000 +0000" stop="20240430153000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Noticiero Univisión - Edición Digital</title>
+    <desc lang="en  . . .">Todas las noticias necesarias para estar bien informado durante el día. Política, economía, entretenimiento, salud y música.  . . .
+	¤ Produced in: 2016. </desc>
+  </programme>
+  <programme start="20240430153000 +0000" stop="20240430160000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Noticias Univisión 66:  Chicago</title>
+    <desc lang="en  . . .">Noticias locales, deportes y tiempo. (New).  . . .</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430160000 +0000" stop="20240430170000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Desiguales</title>
+    <desc lang="en  . . .">Un ciclo dedicado a pensar sobre temas que afectan cotidianamente a la sociedad.  . . .
+	¤ Produced in: 2020. </desc>
+  </programme>
+  <programme start="20240430170000 +0000" stop="20240430180000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en  . . .">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show.  . . .
+	¤ Produced in: 1998. </desc>
+    <review type="text">Ratings: TV-PG.</review>
+  </programme>
+  <programme start="20240430180000 +0000" stop="20240430183000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Fútbol Central</title>
+    <desc lang="en  . . .">Tenemos la mejor previa de todos los partidos mas atractivos en los canales deportivos. Los talentos se van rotando con cada juego, entre ellos podemos ver, Alejandro de la Rosa, Valeria Marín, Arturo Villanueva, etc.  . . .</desc>
+  </programme>
+  <programme start="20240430183000 +0000" stop="20240430210000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">UEFA Champions League</title>
+    <desc lang="en  . . .">Partidos de la Liga de Campeones de la UEFA. (Live).  . . .
+	¤ Produced in: 2020. </desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430210000 +0000" stop="20240430220000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Primer impacto</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">(Live).  . . .
+	¤ Produced in: 1994. </desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-PG.</review>
+  </programme>
+  <programme start="20240430220000 +0000" stop="20240430223000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Noticias Univisión 66:  Chicago</title>
+    <desc lang="en  . . .">Noticias locales, deportes y tiempo. (New).  . . .</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430223000 +0000" stop="20240430230000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Noticiero Univisión</title>
+    <sub-title lang="en">04-30-2024</sub-title>
+    <desc lang="en  . . .">(Live).  . . .
+	¤ Produced in: 1979. </desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240430230000 +0000" stop="20240501000000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en  . . .">(New).  . . .
+	¤ Produced in: 2023. </desc>
+    <premiere lang="en" />
+    <review type="text">Ratings: TV-14.</review>
+  </programme>
+</tv>

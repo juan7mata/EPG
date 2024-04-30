@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" site="tvguide.com">
+  <channels>
+    <channel update="i" site="tvguide.com" site_id="9100005199" xmltv_id="AFN Satellite">AFN Satellite</channel>
+    <channel update="i" site="tvguide.com" site_id="9133006334" xmltv_id="AT&amp;T - U-verse Chicago">AT&amp;T - U-verse Chicago</channel>
+    <channel update="i" site="tvguide.com" site_id="9133007882" xmltv_id="Comcast Oswego-Aurora">Comcast Oswego-Aurora</channel>
+    <channel update="i" site="tvguide.com" site_id="9100005455" xmltv_id="Comcast Plano">Comcast Plano</channel>
+    <channel update="i" site="tvguide.com" site_id="9133000303" xmltv_id="RCN Chicago">RCN Chicago</channel>
+    <channel update="i" site="tvguide.com" site_id="9133008423" xmltv_id="Sling TV">Sling TV</channel>
+    <channel update="i" site="tvguide.com" site_id="9133001695" xmltv_id="Sling TV Chicago">Sling TV Chicago</channel>
+    <channel update="i" site="tvguide.com" site_id="9133000209" xmltv_id="DirecTV">DirecTV</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008436" xmltv_id="DirecTV Chicago">DirecTV Chicago</channel>
+    <channel update="i" site="tvguide.com" site_id="9133005457" xmltv_id="Dish Network">Dish Network</channel>
+    <channel update="i" site="tvguide.com" site_id="9133006948" xmltv_id="Dish Network Chicago">Dish Network Chicago</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756" xmltv_id="Broadcast TV Chicago">Broadcast TV Chicago</channel>
+    <channel update="i" site="tvguide.com" site_id="9133000617" xmltv_id="Broadcast TV Sugar Grove">Broadcast TV Sugar Grove</channel>
+    <channel update="i" site="tvguide.com" site_id="9100010031" xmltv_id="Locast Chicago">Locast Chicago</channel>
+  </channels>
+</site>

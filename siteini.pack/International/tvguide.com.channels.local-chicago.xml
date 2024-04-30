@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" site="tvguide.com">
+  <channels>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233001663" xmltv_id="WBBM HDTV (WBBMDT) [2.1]">WBBM HDTV (WBBMDT) [2.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233002539" xmltv_id="WBBM Start TV (DECADES) [2.2]">WBBM Start TV (DECADES) [2.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233009020" xmltv_id="WBBM DABL (WBBM3) [2.3]">WBBM DABL (WBBM3) [2.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9266002001" xmltv_id="WBBM FAVE TV (WBBMDT4) [2.4]">WBBM FAVE TV (WBBMDT4) [2.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9266044099" xmltv_id="WBBM Comet (WBBMDT5) [2.5]">WBBM Comet (WBBMDT5) [2.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233003841" xmltv_id="WCHU NewsNet (WCHU) [3.1]">WCHU NewsNet (WCHU) [3.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200003619" xmltv_id="WCHU Sports News Highlights (WCHU-LD2) [3.2]">WCHU Sports News Highlights (WCHU-LD2) [3.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9266006005" xmltv_id="WCHU ShopHQ (WCHU-LD3) [3.3]">WCHU ShopHQ (WCHU-LD3) [3.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233011230" xmltv_id="WTMJ HDTV (WTMJ) [4.1]">WTMJ HDTV (WTMJ) [4.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200018298" xmltv_id="WTMJ Bounce (BOUNCE) [4.2]">WTMJ Bounce (BOUNCE) [4.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200000668" xmltv_id="WTMJ GRIT (GRIT) [4.3]">WTMJ GRIT (GRIT) [4.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233005187" xmltv_id="WTMJ QVC2 (COURT TV) [4.4]">WTMJ QVC2 (COURT TV) [4.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233003375" xmltv_id="WTMJ ION Mystery (MYSTERY) [4.5]">WTMJ ION Mystery (MYSTERY) [4.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233005445" xmltv_id="WMAQ HDTV (WMAQHD) [5.1]">WMAQ HDTV (WMAQHD) [5.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233003645" xmltv_id="WMAQ Cozi TV (COZI) [5.2]">WMAQ Cozi TV (COZI) [5.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200006561" xmltv_id="WMAQ NBC LX Home (WMAQDT3) [5.3]">WMAQ NBC LX Home (WMAQDT3) [5.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9266030001" xmltv_id="WMAQ Oxygen (WMAQDT4) [5.4]">WMAQ Oxygen (WMAQDT4) [5.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200017901" xmltv_id="WITI HDTV (WITIDT) [6.1]">WITI HDTV (WITIDT) [6.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233011595" xmltv_id="WITI Antenna TV (WITI2) [6.2]">WITI Antenna TV (WITI2) [6.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233013223" xmltv_id="WLS HDTV (ABC7 HD) [7.1]">WLS HDTV (ABC7 HD) [7.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200002352" xmltv_id="WLS Localish (WLS2) [7.2]">WLS Localish (WLS2) [7.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200006412" xmltv_id="WLS Charge! (WLSDT3) [7.3]">WLS Charge! (WLSDT3) [7.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9266056145" xmltv_id="WILC Daystar (WILC-CD) [8.1]">WILC Daystar (WILC-CD) [8.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200083056" xmltv_id="WILC Daystar Espanol (WILC-CD2) [8.2]">WILC Daystar Espanol (WILC-CD2) [8.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9266056144" xmltv_id="WILC Daystar Reflections (WILC-CD3) [8.3]">WILC Daystar Reflections (WILC-CD3) [8.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200019857" xmltv_id="WGN Local Chicago HDTV (WGNHD) [9.1]">WGN Local Chicago HDTV (WGNHD) [9.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200011748" xmltv_id="WGN Antenna TV (Antenna) [9.2]">WGN Antenna TV (Antenna) [9.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200012620" xmltv_id="WGN Grit TV (WGNDT3) [9.3]">WGN Grit TV (WGNDT3) [9.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200019595" xmltv_id="WGN Rewind TV (REWIND) [9.4]">WGN Rewind TV (REWIND) [9.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9266017026" xmltv_id="WGN TBD (WGNDT5) [9.5]">WGN TBD (WGNDT5) [9.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200012482" xmltv_id="WMVS HDTV (WMVSH) [10.1]">WMVS HDTV (WMVSH) [10.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200013502" xmltv_id="WMVS HDTV (WMVS) [10.11]">WMVS HDTV (WMVS) [10.11]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233002962" xmltv_id="WMVS World Channel (WORLD) [10.12]">WMVS World Channel (WORLD) [10.12]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233001127" xmltv_id="MPTV PBS Kids (WMVS3) [10.13]">MPTV PBS Kids (WMVS3) [10.13]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200009780" xmltv_id="MPTV Create (WMVS2) [10.2]">MPTV Create (WMVS2) [10.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233006782" xmltv_id="MPTV PBS Kids (WMVT3) [10.3]">MPTV PBS Kids (WMVT3) [10.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233007992" xmltv_id="WTTW HDTV (WTTW-HD) [11.1]">WTTW HDTV (WTTW-HD) [11.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233005484" xmltv_id="WTTW Prime (WTTWP) [11.2]">WTTW Prime (WTTWP) [11.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233013373" xmltv_id="WTTW Create (WTTWC) [11.3]">WTTW Create (WTTWC) [11.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233003730" xmltv_id="WTTW PBS Kids (WTTWDT4) [11.4]">WTTW PBS Kids (WTTWDT4) [11.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200002936" xmltv_id="WTTW World (WTTWDT5) [11.5]">WTTW World (WTTWDT5) [11.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200019869" xmltv_id="WISN HDTV (WISN) [12.1]">WISN HDTV (WISN) [12.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200010067" xmltv_id="WISN True Crime Network (TRUCRIME) [12.2]">WISN True Crime Network (TRUCRIME) [12.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9266030050" xmltv_id="WISN Shop LC (SHOPLC) [12.3]">WISN Shop LC (SHOPLC) [12.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233050104" xmltv_id="WISN Story Television (STORY) [12.4]">WISN Story Television (STORY) [12.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233054037" xmltv_id="WISN TheGrio.TV (GRIO) [12.5]">WISN TheGrio.TV (GRIO) [12.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233009952" xmltv_id="WOCK Shop LC HDTV (MMAX) [13.1]">WOCK Shop LC HDTV (MMAX) [13.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200000688" xmltv_id="KBC (KBCTV) [13.2]">KBC (KBCTV) [13.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200009796" xmltv_id="WOCK NTDTV (WOCKCD3) [13.3]">WOCK NTDTV (WOCKCD3) [13.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200009484" xmltv_id="WOCK CGTN News (WOCK-CD4) [13.4]">WOCK CGTN News (WOCK-CD4) [13.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200009795" xmltv_id="WOCK CCTV Documentary (WOCK-CD5) [13.5]">WOCK CCTV Documentary (WOCK-CD5) [13.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200021538" xmltv_id="WOCK SonLife (WOCK-CD6) [13.6]">WOCK SonLife (WOCK-CD6) [13.6]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200004040" xmltv_id="WOCK Arirang (WOCK-CD7) [13.7]">WOCK Arirang (WOCK-CD7) [13.7]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200019892" xmltv_id="WTVO HDTV (WTVOH) [17.1]">WTVO HDTV (WTVOH) [17.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200016053" xmltv_id="Rockford's My Network TV (RMNTV) [17.2]">Rockford's My Network TV (RMNTV) [17.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200021412" xmltv_id="WTVO Laff TV (LAFF) [17.3]">WTVO Laff TV (LAFF) [17.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200010980" xmltv_id="WTVO Grit TV (GRIT) [17.4]">WTVO Grit TV (GRIT) [17.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200016051" xmltv_id="WVTV HDTV (WVTVDT) [18.1]">WVTV HDTV (WVTVDT) [18.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200015421" xmltv_id="WMKE Court TV (WMKECD) [21.1]">WMKE Court TV (WMKECD) [21.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200014132" xmltv_id="WMKE Infomercials (WMKE-CD2) [21.2]">WMKE Infomercials (WMKE-CD2) [21.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200006143" xmltv_id="WMKE Infomercials (WMKE-CD3) [21.3]">WMKE Infomercials (WMKE-CD3) [21.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200019755" xmltv_id="WMKE Shop LC (WMKE-CD4) [21.4]">WMKE Shop LC (WMKE-CD4) [21.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200011349" xmltv_id="WMKE Infomercials (WMKE-CD5) [21.5]">WMKE Infomercials (WMKE-CD5) [21.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200002137" xmltv_id="WMKE QVC2 (WMKE-CD6) [21.6]">WMKE QVC2 (WMKE-CD6) [21.6]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233001560" xmltv_id="WMKE LATV (WMKE-CD7) [21.7]">WMKE LATV (WMKE-CD7) [21.7]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233015100" xmltv_id="WMKE Majestad TV (WMKE-CD8) [21.8]">WMKE Majestad TV (WMKE-CD8) [21.8]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200015411" xmltv_id="WRJK Diya TV (WRJK-LP) [22.1]">WRJK Diya TV (WRJK-LP) [22.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200034004" xmltv_id="WRJK HSN (WRJK-LP11) [22.11]">WRJK HSN (WRJK-LP11) [22.11]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233029005" xmltv_id="WRJK QVC2 (WRJK-LP12) [22.12]">WRJK QVC2 (WRJK-LP12) [22.12]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233012556" xmltv_id="WRJK Corner Stone TV (WRJK-LP2) [22.3]">WRJK Corner Stone TV (WRJK-LP2) [22.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233006391" xmltv_id="WRJK FNX (WRJK-LP4) [22.4]">WRJK FNX (WRJK-LP4) [22.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233014548" xmltv_id="WRJK ACE TV (WRJK-LP5) [22.5]">WRJK ACE TV (WRJK-LP5) [22.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233001038" xmltv_id="WRJK AWE Plus (WRJK-LP6) [22.6]">WRJK AWE Plus (WRJK-LP6) [22.6]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233001039" xmltv_id="WRJK One America Plus (WRJK-LP7) [22.7]">WRJK One America Plus (WRJK-LP7) [22.7]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233001381" xmltv_id="WRJK Newsnet (WRJK-LP8) [22.8]">WRJK Newsnet (WRJK-LP8) [22.8]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200027007" xmltv_id="WRJK Fun Roads (WRJK-LP9) [22.9]">WRJK Fun Roads (WRJK-LP9) [22.9]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233009953" xmltv_id="WWME MeTV (Me-TV) [23.1]">WWME MeTV (Me-TV) [23.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233013706" xmltv_id="WWME Heroes &amp; Icons (H&amp;I) [23.2]">WWME Heroes &amp; Icons (H&amp;I) [23.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233000319" xmltv_id="WWME MeTV (Me-TV) [23.3]">WWME MeTV (Me-TV) [23.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233015677" xmltv_id="WPVN Visión Latina HDTV (WPVN-LD) [24.1]">WPVN Visión Latina HDTV (WPVN-LD) [24.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200006785" xmltv_id="WPVN ULFN (WPVNDT2) [24.2]">WPVN ULFN (WPVNDT2) [24.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233007084" xmltv_id="WPVN Swaag TV (WPVN-LD3) [24.3]">WPVN Swaag TV (WPVN-LD3) [24.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200012184" xmltv_id="WPVN The365 (WPVN-LD4) [24.4]">WPVN The365 (WPVN-LD4) [24.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200014644" xmltv_id="WPVN MBC (WIN-TV) [24.5]">WPVN MBC (WIN-TV) [24.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233011727" xmltv_id="WPVN Law and Crime (MC-TV) [24.6]">WPVN Law and Crime (MC-TV) [24.6]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233010019" xmltv_id="WPVN beIN Sports Xtra (WPVN-LD7) [24.7]">WPVN beIN Sports Xtra (WPVN-LD7) [24.7]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233059007" xmltv_id="WPVN Outlaw (WPVN-LD8) [24.8]">WPVN Outlaw (WPVN-LD8) [24.8]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200027011" xmltv_id="WESV Almavision (W31EZ-D) [25.1]">WESV Almavision (W31EZ-D) [25.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200027021" xmltv_id="WESV HSN2 (W31EZ-D2) [25.2]">WESV HSN2 (W31EZ-D2) [25.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200027014" xmltv_id="WESV Shop LC (W31EZ-D3) [25.3]">WESV Shop LC (W31EZ-D3) [25.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200036002" xmltv_id="WESV Infomercials (W31EZ-D4) [25.4]">WESV Infomercials (W31EZ-D4) [25.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9266004015" xmltv_id="WESV LATV (W31EZ-D5) [25.5]">WESV LATV (W31EZ-D5) [25.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200002318" xmltv_id="WCIU CW26 (WCIUDT) [26.1]">WCIU CW26 (WCIUDT) [26.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200012746" xmltv_id="WCIU The U HDTV (WCIUDT2HD) [26.2]">WCIU The U HDTV (WCIUDT2HD) [26.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200004365" xmltv_id="WWME MeTV (ME-TV) [26.3]">WWME MeTV (ME-TV) [26.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233005686" xmltv_id="WMEU Heroes &amp; Icons (METOO) [26.4]">WMEU Heroes &amp; Icons (METOO) [26.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200016321" xmltv_id="WCIU Story Television (STORY) [26.5]">WCIU Story Television (STORY) [26.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200006044" xmltv_id="WCIU Catchy Comedy (DECADES) [26.6]">WCIU Catchy Comedy (DECADES) [26.6]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233012213" xmltv_id="WLPD JUCE TV/Smile (WLPD) [30.1]">WLPD JUCE TV/Smile (WLPD) [30.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200062013" xmltv_id="WSPY TBN Inspire (WLPD2) [30.2]">WSPY TBN Inspire (WLPD2) [30.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200011503" xmltv_id="WFLD HDTV (WFLDDT) [32.1]">WFLD HDTV (WFLDDT) [32.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200003063" xmltv_id="WFLD Movies! (Movie) [32.2]">WFLD Movies! (Movie) [32.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233012989" xmltv_id="WFLD Buzzr (BUZZR) [32.3]">WFLD Buzzr (BUZZR) [32.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233010988" xmltv_id="WFLD TheGrio.TV (GRIO) [32.4]">WFLD TheGrio.TV (GRIO) [32.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233056105" xmltv_id="WFLD FOX Weather (WFLDDT5) [32.5]">WFLD FOX Weather (WFLDDT5) [32.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200021168" xmltv_id="WEDE (WEDE-CD) [34.1]">WEDE (WEDE-CD) [34.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200019714" xmltv_id="WEDE Retro TV (WEDE-CD2) [34.2]">WEDE Retro TV (WEDE-CD2) [34.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233009166" xmltv_id="WWTO TBN HDTV (WWTO) [35.1]">WWTO TBN HDTV (WWTO) [35.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200015179" xmltv_id="WWTO Merit Street Media HDTV (WWTO2) [35.2]">WWTO Merit Street Media HDTV (WWTO2) [35.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233002605" xmltv_id="WWTO Smile (WWTODT3) [35.3]">WWTO Smile (WWTODT3) [35.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233009992" xmltv_id="WWTO Positiv (WWTO4) [35.4]">WWTO Positiv (WWTO4) [35.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200006239" xmltv_id="WCPX ION HDTV (ION HD) [38.1]">WCPX ION HDTV (ION HD) [38.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233005458" xmltv_id="WCPX Bounce (WCPXDT2) [38.2]">WCPX Bounce (WCPXDT2) [38.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200008830" xmltv_id="WCPX Court TV (COURTTV) [38.3]">WCPX Court TV (COURTTV) [38.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200007122" xmltv_id="WCPX Laff (LAFF) [38.4]">WCPX Laff (LAFF) [38.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233004269" xmltv_id="WCPX Defy TV (DEFYTFV) [38.5]">WCPX Defy TV (DEFYTFV) [38.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200018689" xmltv_id="WCPX Scripps News (WCPXDT6) [38.6]">WCPX Scripps News (WCPXDT6) [38.6]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9266020012" xmltv_id="WCPX Jewelry TV (NEWSY) [38.7]">WCPX Jewelry TV (NEWSY) [38.7]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233057007" xmltv_id="WCPX HSN2 (WCPXDT8) [38.8]">WCPX HSN2 (WCPXDT8) [38.8]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9266044028" xmltv_id="WESV Estrella TV (WESV-LD6) [40.1]">WESV Estrella TV (WESV-LD6) [40.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200030004" xmltv_id="WESV Estrella News HDTV (WESV) [40.2]">WESV Estrella News HDTV (WESV) [40.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200011619" xmltv_id="WYZZ HDTV (WYZZH) [43.1]">WYZZ HDTV (WYZZH) [43.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233013665" xmltv_id="WYZZ Merit Street Media (WYZZDT2) [43.2]">WYZZ Merit Street Media (WYZZDT2) [43.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233015656" xmltv_id="WYZZ get (Great Entertainment Television) (WYZZDT3) [43.3]">WYZZ get (Great Entertainment Television) (WYZZDT3) [43.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233013201" xmltv_id="WSNS HDTV Telemundo (WSNS) [44.1]">WSNS HDTV Telemundo (WSNS) [44.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233000374" xmltv_id="WSNS Exitos TV 44 (WSNSD) [44.2]">WSNS Exitos TV 44 (WSNSD) [44.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233007727" xmltv_id="WMEU The U HDTV (WMEU) [48.1]">WMEU The U HDTV (WMEU) [48.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200016774" xmltv_id="WMEU Start TV (WMEU) [48.2]">WMEU Start TV (WMEU) [48.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200017583" xmltv_id="WMEU Catchy Comedy (WMEU) [48.3]">WMEU Catchy Comedy (WMEU) [48.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233008921" xmltv_id="WMEU MeTV+ (METV+) [48.4]">WMEU MeTV+ (METV+) [48.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200002290" xmltv_id="WPWR My Network TV HDTV (WPWRDT) [50.1]">WPWR My Network TV HDTV (WPWRDT) [50.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200017983" xmltv_id="WPXE HDTV (ION HD) [55.1]">WPXE HDTV (ION HD) [55.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200002443" xmltv_id="WPXE Bounce (BOUNCE) [55.2]">WPXE Bounce (BOUNCE) [55.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200004493" xmltv_id="WPXE Court TV (COURTTV) [55.3]">WPXE Court TV (COURTTV) [55.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200007125" xmltv_id="WPXE Grit (GRIT) [55.4]">WPXE Grit (GRIT) [55.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233013981" xmltv_id="WPXE Defy TV (DEFYTV) [55.5]">WPXE Defy TV (DEFYTV) [55.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233056095" xmltv_id="WPXE QVC (WPXEDT8) [55.8]">WPXE QVC (WPXEDT8) [55.8]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200006304" xmltv_id="WYINDT (LAKED) [56.1]">WYINDT (LAKED) [56.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233006837" xmltv_id="WYINDT2 NHK World-Japan (NHKW) [56.2]">WYINDT2 NHK World-Japan (NHKW) [56.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200014855" xmltv_id="WDCI Daystar Television (DAYSTAR) [57.1]">WDCI Daystar Television (DAYSTAR) [57.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233067032" xmltv_id="WDCI Daystar Espanol (WDCI-LD2) [57.2]">WDCI Daystar Espanol (WDCI-LD2) [57.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9266044111" xmltv_id="WDCI-3 (WDCI-LD3) [57.3]">WDCI-3 (WDCI-LD3) [57.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200011502" xmltv_id="WDJT HDTV (WDJTHD) [58.1]">WDJT HDTV (WDJTHD) [58.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233003632" xmltv_id="WBME MeTV (WDJT-DT2) [58.2]">WBME MeTV (WDJT-DT2) [58.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233005560" xmltv_id="WMLW-LD (WMLW-LD) [58.3]">WMLW-LD (WMLW-LD) [58.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200006652" xmltv_id="WDJT Telemundo (WDJT) [58.4]">WDJT Telemundo (WDJT) [58.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233006879" xmltv_id="WDJT Start TV (WDJT5) [58.5]">WDJT Start TV (WDJT5) [58.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233022007" xmltv_id="WCHU TheGrio.TV (GRIO) [59.2]">WCHU TheGrio.TV (GRIO) [59.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233006850" xmltv_id="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">WXFT HDTV UniMás 60 (WXFT-DT) [60.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233010564" xmltv_id="WXFT ION Mystery (MYSTERY) [60.2]">WXFT ION Mystery (MYSTERY) [60.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233010204" xmltv_id="WXFT Quest (QUEST) [60.3]">WXFT Quest (QUEST) [60.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233010820" xmltv_id="WCHU Jewelry TV (JEWEL) [61.1]">WCHU Jewelry TV (JEWEL) [61.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233013222" xmltv_id="WJYSDT (WJYS-DT) [62.1]">WJYSDT (WJYS-DT) [62.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233009006" xmltv_id="WJYS MCTV (WJYSDT10) [62.10]">WJYS MCTV (WJYSDT10) [62.10]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233013608" xmltv_id="WJYS The Nest (WJYSDT2) [62.2]">WJYS The Nest (WJYSDT2) [62.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200017690" xmltv_id="WJYS Prism3 (Prism3) [62.3]">WJYS Prism3 (Prism3) [62.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233012564" xmltv_id="WJYS PRISM2 (PRISM2) [62.4]">WJYS PRISM2 (PRISM2) [62.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200019644" xmltv_id="WJYS MCTV (MCTV) [62.6]">WJYS MCTV (MCTV) [62.6]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200014002" xmltv_id="WJYS Jewelry TV (MCTV) [62.7]">WJYS Jewelry TV (MCTV) [62.7]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200004103" xmltv_id="WJYS HSN (WJYSDT8) [62.8]">WJYS HSN (WJYSDT8) [62.8]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200014089" xmltv_id="WJYS HSN (WJYSDT9) [62.9]">WJYS HSN (WJYSDT9) [62.9]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200011628" xmltv_id="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">WGBO HDTV Univision 66 (WGBO-DT) [66.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200010073" xmltv_id="WGBO LAFF TV (WGBO) [66.2]">WGBO LAFF TV (WGBO) [66.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200010137" xmltv_id="WGBO get (Great Entertainment Television) (WGBODT3) [66.3]">WGBO get (Great Entertainment Television) (WGBODT3) [66.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200017640" xmltv_id="WGBO True Crime Network (TRUCRIME) [66.4]">WGBO True Crime Network (TRUCRIME) [66.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9200021537" xmltv_id="WGBO Grit TV (WGBO) [66.5]">WGBO Grit TV (WGBO) [66.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100003756##9233032002" xmltv_id="WGBO Twist (WGBODT6) [66.6]">WGBO Twist (WGBODT6) [66.6]</channel>
+  </channels>
+</site>

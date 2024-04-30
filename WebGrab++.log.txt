@@ -1,0 +1,28 @@
+﻿[        ] 
+[        ]       WebGrab+Plus/w MDB & REX Postprocess -- version  V5.1.0.0 -- build 2      
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]  thanks to Paul Weterings, Mat8861, Blackbear199 and all the contributing users 
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 30/04/2024 12:45:40
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 10.0.22000.0
+[  Debug ] Environment: 7.0.10
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: WG.common.timezone.timezonesdata.txt
+[  Debug ] Reading config file: C:\Users\juan7\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
+[  Info  ] Checking License ..
+[  Info  ] For License request/update data, see WGLicense.log.txt
+[        ] Job finished at 30/04/2024 12:45:40 done in 0s
+[Critical] 
+Object reference not set to an instance of an object.
+[Critical] 
+   at  . ..ctor(String)
+   at  .‥. (String[])
+[Critical] Unhandled Exception
+[Critical] For detailed info, see log file C:\Users\juan7\AppData\Local\WebGrab+Plus\WebGrab++.log.txt
+[Critical] Execution stopped
