@@ -40,137 +40,6 @@
     <display-name lang="en">Astro Supersport 5 HD</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
-  <programme start="20240501090000 +0000" stop="20240501093000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501093000 +0000" stop="20240501100000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501100000 +0000" stop="20240501110000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Al rojo vivo</title>
-    <sub-title lang="en">04-30-2024</sub-title>
-    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20240501110000 +0000" stop="20240501150000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Hoy día</title>
-    <sub-title lang="en">05-01-2024</sub-title>
-    <desc lang="en">El show de las mañanas que ofrece más entretenimiento, diversión e información. (New).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240501150000 +0000" stop="20240501153000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Caso Cerrado</title>
-    <sub-title lang="en">Niño asesino</sub-title>
-    <desc lang="en">Un niño irrespetuoso y violento, es capaz de amenazar de muerte a su propia madre. Iveth prepara yogures con fluidos vaginales, Yailyn le da uno a su hija y la contagia de herpes.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501153000 +0000" stop="20240501160000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Acceso Total</title>
-    <desc lang="en">Serie de variedades con entretenimiento, farándula, noticias, entrevistas, música, clima y cultura.(n)</desc>
-  </programme>
-  <programme start="20240501160000 +0000" stop="20240501163000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Noticiero Telemundo Chicago por la Mañana</title>
-    <desc lang="en">Noticiero matutino con noticias y actualidad de Chicago.(n)</desc>
-  </programme>
-  <programme start="20240501163000 +0000" stop="20240501170000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Noticias Telemundo mediodía</title>
-    <sub-title lang="en">05-01-2024</sub-title>
-    <desc lang="en">Un informativo con un estilo único de narrar noticias, de una manera atractiva. (New).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240501170000 +0000" stop="20240501180000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Acércate a Rocío</title>
-    <sub-title lang="en">Por una chismosa mi hijo está en la cárcel</sub-title>
-    <desc lang="en">Yolanda responsabiliza a Ana Lilia de que su hijo Marco esté preso, ella haya perdido su trabajo y de que su hija Marisol no reciba la pensión alimenticia de sus dos hijos. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240501180000 +0000" stop="20240501185800 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">En casa con Telemundo</title>
-    <sub-title lang="en">05-01-2024</sub-title>
-    <desc lang="en">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos. (New).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240501185800 +0000" stop="20240501195800 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">La mesa caliente</title>
-    <sub-title lang="en">05-01-2024</sub-title>
-    <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales. (New).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240501195800 +0000" stop="20240501210000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Al rojo vivo</title>
-    <sub-title lang="en">05-01-2024</sub-title>
-    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia. (New).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240501210000 +0000" stop="20240501213000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Noticiero Telemundo Chicago a las 4:00PM</title>
-    <desc lang="en">Se muestran los acontecimientos a nivel local, nacional e internacional, incluyendo las notas más virales en redes sociales. También se muestra una variedad de reportes meteorológicos y más cobertura del acontecer local. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240501213000 +0000" stop="20240501220000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Noticiero Telemundo Chicago a las 4:30PM</title>
-    <desc lang="en">Noticiero de Chicago a las 4:30 PM: noticias locales, nacionales e internacionales.(n)</desc>
-  </programme>
-  <programme start="20240501220000 +0000" stop="20240501223000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Noticiero Telemundo Chicago a las 5pm</title>
-    <desc lang="en">Noticias, deportes y clima de Chicago a las 5 pm, cobertura local. (New).(n)</desc>
-    <date>2009</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240501223000 +0000" stop="20240501230000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">Noticias Telemundo</title>
-    <sub-title lang="en">05-01-2024</sub-title>
-    <desc lang="en">La fuente de información más confiable de la comunidad hispana en los Estados Unidos. (New).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20240501230000 +0000" stop="20240501235800 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">La casa de los famosos</title>
-    <desc lang="en">Una casa llena de celebridades grabadas por docenas de cámaras y micrófonos. (New).(n)</desc>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240501235800 +0000" stop="20240502020000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">La casa de los famosos</title>
-    <desc lang="en">Una casa llena de celebridades grabadas por docenas de cámaras y micrófonos. (New).(n)</desc>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240502020000 +0000" stop="20240502030000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
-    <title lang="en">El Señor de los Cielos</title>
-    <desc lang="en">Las fuerzas están alineadas, Almenar y Casillas están a punto de ponerse a prueba, Diego es la carnada. Alfaro a cargo de los refuerzos llega con una novedad, el objetivo debe ser otro. (New).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240502030000 +0000" stop="20240502033500 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
     <title lang="en">Noticiero Telemundo Chicago a las 10pm</title>
     <desc lang="en">Resumen de noticias, deportes y clima de Chicago a las 10 pm. (New).(n)</desc>
@@ -566,147 +435,235 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240501090000 +0000" stop="20240501093000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Funniest Pets and People</title>
-    <sub-title lang="en">Ataque De Las Burbujas Asesinas</sub-title>
-    <desc lang="en">Dos perros asombran al atrapar burbujas en el aire como expertos atletas de una liga canina. Un chihuahua destaca con sus aullidos en un acto de ópera. Además, un gato se divierte con Elmo.(n)</desc>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240501093000 +0000" stop="20240501100000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+  <programme start="20240504020000 +0000" stop="20240504030000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">El Señor de los Cielos</title>
+    <desc lang="en">Casillas exige transmitir la entrevista de Rosales a toda hora, mientras Belén quiere a su hija de vuelta. Aurelio está convencido de que Amanda está mejor con él que con sus padres. (New).(n)</desc>
+    <date>2024</date>
+    <premiere lang="en" />
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240501100000 +0000" stop="20240501103000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+  <programme start="20240504030000 +0000" stop="20240504033500 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Noticiero Telemundo Chicago a las 10pm</title>
+    <desc lang="en">Resumen de noticias, deportes y clima de Chicago a las 10 pm. (New).(n)</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240504033500 +0000" stop="20240504040000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Noticias Telemundo en la Noche</title>
+    <sub-title lang="en">05-02-2024</sub-title>
+    <desc lang="en">Noticias Telemundo en la Noche presenta todo lo que necesita saber al final del día. (New).(n)</desc>
+    <date>2024</date>
+    <premiere lang="en" />
     <rating system="MPAA">
-      <value>TV-14</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20240501103000 +0000" stop="20240501110000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Joint Gel</title>
-    <desc lang="en">Joint Gel delivers support for joint comfort &amp; flexibility with a patented matrix of krill oil, astaxanthin, and hyaluronic acid - in as few as 7 days!(n)</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20240501110000 +0000" stop="20240501113000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501113000 +0000" stop="20240501120000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501120000 +0000" stop="20240501123000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501123000 +0000" stop="20240501130000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501130000 +0000" stop="20240501140000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Caso Cerrado</title>
-    <desc lang="en">La doctora Polo brinda su apoyo en la resolución de casos complejos y polémicos. Con su actitud carismática y sus veredictos sensatos, ella busca mantener la paz entre relaciones, dando su punto de vista. En esta oportunidad, la abogada aborda: En la calle y El carro saltarín.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501140000 +0000" stop="20240501150000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Historias de la Virgen Morena</title>
-    <sub-title lang="en">La larga espera</sub-title>
-    <desc lang="en">Catalina y Pedro se aman, pero el padre de ella se opone.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20240501150000 +0000" stop="20240501160000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Historias de la Virgen Morena</title>
-    <sub-title lang="en">Te llevaré en mi corazón</sub-title>
-    <desc lang="en">Graciela vive amargada por la muerte de su hijo y su hermana trata de ayudarla.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20240501160000 +0000" stop="20240501180000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Rancho Alegre</title>
-    <desc lang="en">El hijo de un ranchero, residente de la ciudad por muchos años, tiene que reunir su antigua dureza para ayudar a su familia que está en peligro. Raúl de Anda, Carmen Conde.(n)</desc>
-    <date>1941</date>
-  </programme>
-  <programme start="20240501180000 +0000" stop="20240501200000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Flor Salvaje</title>
-    <desc lang="en">Amanda Monteverde llega al pueblo petrolero de Nueva Esperanza arrastrando un pasado de dolor.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501200000 +0000" stop="20240501210000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Historias de la Virgen Morena</title>
-    <sub-title lang="en">Amor a manos llenas</sub-title>
-    <desc lang="en">Azucena y Francisco tienen un hijo, pero la madre de ella decide dar al bebé en adopción.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20240501210000 +0000" stop="20240501220000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+  <programme start="20240504040000 +0000" stop="20240504050000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
     <title lang="en">Acércate a Rocío</title>
-    <sub-title lang="en">Mientras yo paría, la amante de mi esposo también</sub-title>
-    <desc lang="en">Joselyn y Bruno son pareja, ella se siente burlada, descubrió que durante años él le fue infiel con Adriana, su confidente y una de sus mejores amigas. Ella alega que no es la única culpable.(n)</desc>
+    <sub-title lang="en">Por una calentura, contagié a mi mujer</sub-title>
+    <desc lang="en">Jorge contagia a su mujer con el virus del papiloma humano, después de tener relaciones con una prostituta. Guadalupe, su esposa desde hace 33 años, no lo perdona, él cree que exagera.(n)</desc>
     <date>2024</date>
   </programme>
-  <programme start="20240501220000 +0000" stop="20240501230000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Lo que callamos las mujeres</title>
-    <sub-title lang="en">Amarte A Ti Misma</sub-title>
-    <desc lang="en">Rosa vive al lado de su esposo Tomás, quien es un golpeador y manipulador.(n)</desc>
-    <date>2000</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240501230000 +0000" stop="20240502000000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+  <programme start="20240504050000 +0000" stop="20240504060000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
     <title lang="en">Caso cerrado</title>
-    <desc lang="en">Lili es despedida de su trabajo como mesera porque ha tenido una erección en horario laboral.(n)</desc>
+    <desc lang="en">Kelvin y Lorena son esposos y periodistas, ella lo envía a entrevistar a un narcotraficante, pero lo secuestran y casi muere. Sharon contrata a Pedro para que le pegue, pero todo sale mal.(n)</desc>
     <date>2019</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240502000000 +0000" stop="20240502010000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Caso cerrado</title>
-    <desc lang="en">Con apenas dos años, la hija de Yanexis tiene sangrado menstrual y es rechazada en la guardería.(n)</desc>
+  <programme start="20240504060000 +0000" stop="20240504063000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504063000 +0000" stop="20240504070000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504070000 +0000" stop="20240504073000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504073000 +0000" stop="20240504080000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504080000 +0000" stop="20240504083000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504083000 +0000" stop="20240504090000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504090000 +0000" stop="20240504093000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504093000 +0000" stop="20240504100000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504100000 +0000" stop="20240504103000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504103000 +0000" stop="20240504110000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504110000 +0000" stop="20240504113000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504113000 +0000" stop="20240504120000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504120000 +0000" stop="20240504123000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Un equipo: El poder del deporte</title>
+    <sub-title lang="en">Un Pasado Histórico</sub-title>
+    <desc lang="en">Anécdotas y aportes alcanzados en el campo de golf Langston. Lane Johnson, de los Philadelphia Eagles, revela cómo le afectó su ansiedad. También, Jack Grealish sorprende a su mayor fanático. (New).(n)</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20240504123000 +0000" stop="20240504130000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Exploracion Planeta Tierra Con Dylan Dryer</title>
+    <desc lang="en">Un viaje extraordinario por las regiones tropicales más singulares del planeta, destinos que brindan un hogar a tantas criaturas exóticas que se han establecido en este hermoso territorio. (New).(n)</desc>
+    <date>2019</date>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240504130000 +0000" stop="20240504133000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">El viajero con Josh García</title>
+    <desc lang="en">Las tradiciones multiculturales de la capital taiwanesa. El antiguo arte de las marionetas y un plato aromático de tofu, forman parte de este recorrido. Degustamos el famoso elíxir de Taipéi.(n)</desc>
+    <date>2018</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20240504133000 +0000" stop="20240504140000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">El viajero con Josh García</title>
+    <desc lang="en">Un recorrido por Hawaii para aprender sobre sus costumbres y las tradiciones en torno a los coloridos collares de Oahu. Un reconocido chef comparte sus experiencias y prepara un plato asiático.(n)</desc>
+    <date>2018</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20240504140000 +0000" stop="20240504143000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Pequeños en la Naturaleza</title>
+    <sub-title lang="en">Alas Famosas</sub-title>
+    <desc lang="en">Un viaje espectacular a través de los cielos para apreciar la impresionante diversidad y belleza de las aves más grandes, salvajes y singulares en los diferentes rincones del planeta. (New).(n)</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20240504143000 +0000" stop="20240504150000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Harlem Globetrotters: Ganando con la Comunidad</title>
+    <sub-title lang="en">De Regreso Al Dulce Hogar</sub-title>
+    <desc lang="en">El entrenador Lou se une al equipo para valorar el legado de los Harlem Globetrotters desde sus humildes comienzos en Chicago. Torch y Jet se divierten al unirse a un programa artístico. (New).(n)</desc>
+    <date>2023</date>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240504150000 +0000" stop="20240504153000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504153000 +0000" stop="20240504160000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504160000 +0000" stop="20240504183000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Fútbol: Premier League</title>
+    <sub-title lang="en">Manchester City vs. Wolves</sub-title>
+    <desc lang="en">Manchester City vs. Wolves. Desde Etihad Stadium. (Live).(n)</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240504183000 +0000" stop="20240504190000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Caso Cerrado</title>
     <date>2019</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240502010000 +0000" stop="20240502020000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Caso cerrado</title>
-    <desc lang="en">Tania cumplió el deseo de su hijo: lo embalsamó y lo expuso como estatua en la sala.(n)</desc>
-    <date>2019</date>
+  <programme start="20240504190000 +0000" stop="20240504210000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Shanghai Knights</title>
+    <desc lang="en">Owen Wilson y Jackie Chan en una comedia llena de acción mezclada con las artes marciales. Un aguacil (Chan) busca al asesino de su padre en la Inglaterra de 1880 con la ayuda de su amigo (Wilson), un exladrón. Su rastro los dirige a dos maleantes que buscan tomar el poder en Inglaterra y la China.(n)</desc>
+    <date>2003</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240502020000 +0000" stop="20240502030000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
-    <title lang="en">Lo que callamos las mujeres</title>
-    <sub-title lang="en">Reflejos</sub-title>
-    <desc lang="en">Consuelo no sabe cómo impedir que su marido, Erasmo, corra a su hija Nereida porque está embarazada.(n)</desc>
-    <date>2015</date>
+  <programme start="20240504210000 +0000" stop="20240504220000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Acércate a Rocío</title>
+    <desc lang="en">Hablar de los problemas es el primer paso para superarlos, por eso, Rocío trae un programa único para hablar de todo lo que preocupa y, en conjunto, encontrar una solución.(n)</desc>
+  </programme>
+  <programme start="20240504220000 +0000" stop="20240504223000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Noticiero Telemundo Chicago: Fin de semana</title>
+    <desc lang="en">Noticias del fin de semana en Chicago, actualidad y eventos. (New).(n)</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240504223000 +0000" stop="20240504230000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Noticias Telemundo fin de semana</title>
+    <sub-title lang="en">05-04-2024</sub-title>
+    <desc lang="en">Noticias Telemundo Fin de Semana es la fuente de información más confiable. (New).(n)</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240504230000 +0000" stop="20240505010000 +0000" channel="WSNS HDTV Telemundo (WSNS) [44.1]">
+    <title lang="en">Death Race</title>
+    <desc lang="en">En el futuro, las prisiones son entidades privadas. Para financiarse se celebra 'La Carrera de la Muerte', una competición automovilística en la que reclusos corren entre ellos utilizando coches armados. Quien consigue sobrevivir y ganar cinco carreras, consigue la libertad.(n)</desc>
+    <date>2008</date>
     <rating system="MPAA">
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20240502030000 +0000" stop="20240502040000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
@@ -928,122 +885,11 @@
   <programme start="20240503160000 +0000" stop="20240504040000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
     <title lang="en">Cine y series</title>
   </programme>
-  <programme start="20240501090000 +0000" stop="20240501093500 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">Nosotros Los Guapos</title>
-    <sub-title lang="en">03-10-2023</sub-title>
-    <desc lang="en">(Repeat).(n)</desc>
-    <date>2016</date>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme start="20240504040000 +0000" stop="20240504160000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Cine y series</title>
   </programme>
-  <programme start="20240501093500 +0000" stop="20240501100000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">Noticiero Univisión: Edición nocturna</title>
-    <sub-title lang="en">04-30-2024</sub-title>
-    <desc lang="en">(Repeat).(n)</desc>
-    <date>1983</date>
-    <previously-shown />
-  </programme>
-  <programme start="20240501100000 +0000" stop="20240501110000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">WGBO Noticias Primera Hora</title>
-    <desc lang="en">Programa informatico.(n)</desc>
-  </programme>
-  <programme start="20240501110000 +0000" stop="20240501120000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">WGBO Noticias Primera Hora</title>
-    <desc lang="en">Programa informatico.(n)</desc>
-  </programme>
-  <programme start="20240501120000 +0000" stop="20240501150000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">Despierta América</title>
-    <desc lang="en">Un programa diario de entrevistas, noticias, entretenimiento e informes especiales, transmitido en vivo desde Miami.(n)</desc>
-    <date>1997</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240501150000 +0000" stop="20240501153000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">Noticiero Univisión - Edición Digital</title>
-    <desc lang="en">Todas las noticias necesarias para estar bien informado durante el día. Política, economía, entretenimiento, salud y música.(n)</desc>
-    <date>2016</date>
-  </programme>
-  <programme start="20240501153000 +0000" stop="20240501160000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">Noticias Univisión 66:  Chicago</title>
-    <desc lang="en">Noticias locales, deportes y tiempo. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240501160000 +0000" stop="20240501170000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">Desiguales</title>
-    <desc lang="en">Un ciclo dedicado a pensar sobre temas que afectan cotidianamente a la sociedad.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20240501170000 +0000" stop="20240501180000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">El gordo y la flaca</title>
-    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show.(n)</desc>
-    <date>1998</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240501180000 +0000" stop="20240501183000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">Fútbol Central</title>
-    <desc lang="en">Tenemos la mejor previa de todos los partidos mas atractivos en los canales deportivos. Los talentos se van rotando con cada juego, entre ellos podemos ver, Alejandro de la Rosa, Valeria Marín, Arturo Villanueva, etc.(n)</desc>
-  </programme>
-  <programme start="20240501183000 +0000" stop="20240501210000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">UEFA Champions League</title>
-    <desc lang="en">Partidos de la Liga de Campeones de la UEFA. (Live).(n)</desc>
-    <date>2020</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240501210000 +0000" stop="20240501220000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">Primer Impacto</title>
-    <desc lang="en">(Live).(n)</desc>
-    <date>1994</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240501220000 +0000" stop="20240501223000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">Noticias Univisión 66:  Chicago</title>
-    <desc lang="en">Noticias locales, deportes y tiempo. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240501223000 +0000" stop="20240501230000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">Noticiero Univisión</title>
-    <sub-title lang="en">05-01-2024</sub-title>
-    <desc lang="en">(Live).(n)</desc>
-    <date>1979</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240501230000 +0000" stop="20240502000000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2023</date>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240502000000 +0000" stop="20240502010000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">Tu Vida Es Mi Vida</title>
-    <sub-title lang="en">05-01-2024</sub-title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2023</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240502010000 +0000" stop="20240502020000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">Mujer</title>
-    <sub-title lang="en">01-05-2024</sub-title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2017</date>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240502020000 +0000" stop="20240502030000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
-    <title lang="en">El amor no tiene receta</title>
-    <sub-title lang="en">05-01-2024</sub-title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
+  <programme start="20240504160000 +0000" stop="20240505040000 +0000" channel="WSNS Exitos TV 44 (WSNSD) [44.2]">
+    <title lang="en">Cine y series</title>
   </programme>
   <programme start="20240502030000 +0000" stop="20240502033500 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
     <title lang="en">Noticias Univisión 66: Edición nocturna</title>
@@ -1408,106 +1254,51 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240501090000 +0000" stop="20240501100000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">Veredicto Final</title>
-    <desc lang="en">Una jueza dicta veredictos en casos menores de arbitraje social y comunitario con la ayuda de nueve jurados. Por primera vez, una jueza real llega para poner orden y resolver todo tipo de conflictos legales, buscando las soluciones a los problemas que los mismos protagonistas de cada caso plantearán sobre su escenario.(n)</desc>
-    <date>2007</date>
+  <programme start="20240504000000 +0000" stop="20240504010000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Tu Vida Es Mi Vida</title>
+    <sub-title lang="en">03-05-2024</sub-title>
+    <desc lang="en">Rolando le dice a Malena que Rafael es hijo de Lorenzo. Paula le confiesa a Rolando que esta enamorada de Pepe. (New).(n)</desc>
+    <date>2023</date>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240504010000 +0000" stop="20240504020000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Mujer</title>
+    <sub-title lang="en">03-05-2024</sub-title>
+    <desc lang="en">(New).(n)</desc>
+    <date>2017</date>
+    <premiere lang="en" />
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240501100000 +0000" stop="20240501110000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">Esta historia me suena</title>
-    <sub-title lang="en">04-18-2023</sub-title>
-    <desc lang="en">(Repeat).(n)</desc>
-    <date>2019</date>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501110000 +0000" stop="20240501113000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501113000 +0000" stop="20240501120000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501120000 +0000" stop="20240501140000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">Clase 406</title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2002</date>
+  <programme start="20240504020000 +0000" stop="20240504030000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">El amor no tiene receta</title>
+    <sub-title lang="en">03-05-2024</sub-title>
+    <desc lang="en">Martina no puede ocultar el dolor que siente al pensar que olvidara a su familia. Paula le confiesa a Rogelio que sabia que Martina estaba enferma pero no le dijo porque ella le pidio guardar el secreto. (New).(n)</desc>
+    <date>2024</date>
     <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
-  <programme start="20240501140000 +0000" stop="20240501160000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">Abrázame muy fuerte</title>
-    <sub-title lang="en">05-01-2024</sub-title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2000</date>
+  <programme start="20240504030000 +0000" stop="20240504033500 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Noticias Univisión 66: Edición nocturna</title>
+    <desc lang="en">Noticias, reportajes e informaciones de actualidad.(n)</desc>
+  </programme>
+  <programme start="20240504033500 +0000" stop="20240504040000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Noticiero Univisión: Edición nocturna</title>
+    <sub-title lang="en">03-05-2024</sub-title>
+    <desc lang="en">(Live).(n)</desc>
+    <date>1983</date>
     <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
-  <programme start="20240501160000 +0000" stop="20240501180000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">Cuando me enamoro</title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2010</date>
+  <programme start="20240504040000 +0000" stop="20240504050000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Contacto Deportivo</title>
+    <sub-title lang="en">03-05-2024</sub-title>
+    <desc lang="en">(Live).(n)</desc>
+    <date>2014</date>
     <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
-  <programme start="20240501180000 +0000" stop="20240501200000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">Las Tontas No Van al Cielo</title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2007</date>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501200000 +0000" stop="20240501210000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">Nadie Como Tú</title>
-    <sub-title lang="en">05-01-2024</sub-title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2023</date>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501210000 +0000" stop="20240501220000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">Como dice el dicho</title>
-    <sub-title lang="en">Lo que no se valora, después se llora</sub-title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2018</date>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501220000 +0000" stop="20240501230000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">Abismo de pasión</title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2012</date>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240501230000 +0000" stop="20240502000000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">La Viuda Negra</title>
+  <programme start="20240504050000 +0000" stop="20240504060000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">La gata</title>
+    <sub-title lang="en">03-05-2024</sub-title>
     <desc lang="en">(Repeat).(n)</desc>
     <date>2014</date>
     <previously-shown />
@@ -1515,22 +1306,231 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240502000000 +0000" stop="20240502020000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">Enamorándonos</title>
-    <sub-title lang="en">Enamorándonos Recargado</sub-title>
-    <desc lang="en">(Live).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
+  <programme start="20240504060000 +0000" stop="20240504070000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Como Dice el Dicho</title>
+    <sub-title lang="en">A La Gente Se Le Conoce Por Lo Que Calla</sub-title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2011</date>
+    <previously-shown />
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240502020000 +0000" stop="20240502030000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
-    <title lang="en">La descarga</title>
-    <sub-title lang="en">05-01-2024</sub-title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2023</date>
+  <programme start="20240504070000 +0000" stop="20240504080000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504080000 +0000" stop="20240504090000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">El gordo y la flaca</title>
+    <sub-title lang="en">03-05-2024</sub-title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>1981</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504090000 +0000" stop="20240504093500 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Nosotros los guapos</title>
+    <sub-title lang="en">03-15-2023</sub-title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2016</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20240504093500 +0000" stop="20240504100000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Noticiero Univisión: Edición nocturna</title>
+    <sub-title lang="en">03-05-2024</sub-title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>1983</date>
+    <previously-shown />
+  </programme>
+  <programme start="20240504100000 +0000" stop="20240504103000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504103000 +0000" stop="20240504110000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Hylastra Gold SPAN</title>
+    <desc lang="en">Siente la experiencia de el estándar dorado en los sistemas de contra el envejecimiento en el ácido hialurónico! Hidrata y restaura tu piel para que tu rostro irradie juventud con el super systema de Hylastra gold!(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20240504110000 +0000" stop="20240504113000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504113000 +0000" stop="20240504120000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504120000 +0000" stop="20240504123000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Planeta de Niños</title>
+    <sub-title lang="en">12-10-2022</sub-title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2022</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20240504123000 +0000" stop="20240504130000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Planeta de Niños</title>
+    <sub-title lang="en">12-10-2022</sub-title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2022</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20240504130000 +0000" stop="20240504133000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Atención Atención</title>
+    <sub-title lang="en">08-21-2021</sub-title>
+    <desc lang="en">Un programa dedicado a la educación infantil mediante el uso de la música como elemento fundamental para el crecimiento y aprendizaje de los pequeños. (Repeat).(n)</desc>
+    <date>2018</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20240504133000 +0000" stop="20240504140000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Atención Atención</title>
+    <sub-title lang="en">08-21-2021</sub-title>
+    <desc lang="en">Un programa dedicado a la educación infantil mediante el uso de la música como elemento fundamental para el crecimiento y aprendizaje de los pequeños. (Repeat).(n)</desc>
+    <date>2018</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20240504140000 +0000" stop="20240504143000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Franklin &amp; Friends</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2014</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20240504143000 +0000" stop="20240504150000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Franklin &amp; Friends</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2014</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20240504150000 +0000" stop="20240504153000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504153000 +0000" stop="20240504160000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal. (Repeat).(n)</desc>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504160000 +0000" stop="20240504163000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal. (Repeat).(n)</desc>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504163000 +0000" stop="20240504170000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal. (Repeat).(n)</desc>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504170000 +0000" stop="20240504173000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal. (Repeat).(n)</desc>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504173000 +0000" stop="20240504180000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal. (Repeat).(n)</desc>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504180000 +0000" stop="20240504190000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Misión Europa</title>
+    <desc lang="en">(Live).(n)</desc>
+    <date>2021</date>
     <premiere lang="en" />
+  </programme>
+  <programme start="20240504190000 +0000" stop="20240504200000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Esta historia me suena</title>
+    <desc lang="en">Cada canción cuenta una historia, y en este programa las canciones más populares cobran vida mediante una dramatización inspirada en sus letras. Cada episodio aborda los problemas familiares representados en una canción. La trama conduce a la reflexión de problemas entre padres e hijos y muestra cómo resolverlos en la vida cotidiana.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504200000 +0000" stop="20240504210000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504210000 +0000" stop="20240504220000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504220000 +0000" stop="20240504223000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Al Punto Chicago</title>
+    <desc lang="en">Programa local.(n)</desc>
+    <date>2018</date>
+  </programme>
+  <programme start="20240504223000 +0000" stop="20240504230000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">Noticiero Univisión: Fin de semana</title>
+    <sub-title lang="en">05-04-2024</sub-title>
+    <desc lang="en">(Live).(n)</desc>
+    <date>1990</date>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240504230000 +0000" stop="20240504233000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">¿Tú Crees?</title>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20240504233000 +0000" stop="20240505000000 +0000" channel="WGBO HDTV Univision 66 (WGBO-DT) [66.1]">
+    <title lang="en">¿Tú Crees?</title>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20240502030000 +0000" stop="20240502050000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
     <title lang="en">Enamorándonos</title>
@@ -1915,120 +1915,229 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240501010000 +0000" stop="20240501013000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Sam's World: Episode 5</title>
-    <desc lang="en">Follow Sam in exploring the surprising sports facts that you never would’ve guessed, e-sports (Roblox) and discovering amusement parks around Malaysia.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLLNY.jpg" />
-    <rating system="MY">
-      <value>U</value>
+  <programme start="20240504000000 +0000" stop="20240504020000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Enamorándonos</title>
+    <sub-title lang="en">Enamorándonos Recargado</sub-title>
+    <desc lang="en">(Live).(n)</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240501013000 +0000" stop="20240501063000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">(L) BWF UC Finals: D5 THA vs TPE</title>
-    <desc lang="en">LIVE: BWF Uber Cup Finals 2024: Day 5: Group Stage: Session 1: Thailand vs ChinesTaipei (TV Court 2), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Badminton</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGXY.jpg" />
-    <rating system="MY">
-      <value>U</value>
+  <programme start="20240504020000 +0000" stop="20240504030000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">La descarga</title>
+    <sub-title lang="en">05-03-2024</sub-title>
+    <desc lang="en">(New).(n)</desc>
+    <date>2023</date>
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240504030000 +0000" stop="20240504050000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Enamorándonos</title>
+    <sub-title lang="en">Enamorándonos Recargado</sub-title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2024</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240501063000 +0000" stop="20240501070000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Sam's World: Episode 6</title>
-    <desc lang="en">Follow Sam in exploring the surprising sports facts that you never would’ve guessed, e-sports (Roblox) and discovering amusement parks around Malaysia.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLLNZ.jpg" />
-    <rating system="MY">
-      <value>U</value>
+  <programme start="20240504050000 +0000" stop="20240504060000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Faisy Nights</title>
+    <sub-title lang="en">05-03-2024</sub-title>
+    <desc lang="en">(New).(n)</desc>
+    <date>2021</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240501070000 +0000" stop="20240501073000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">World's Strongest Man 2023 - Episode 5</title>
-    <desc lang="en">The World's Strongest Man is the world’s preeminent strongman competition, held annually since 1977. This year’s competition will see the sport’s most dominant strength athletes compete for the title.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLTFI.jpg" />
-    <rating system="MY">
-      <value>13</value>
+  <programme start="20240504060000 +0000" stop="20240504070000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Esta historia me suena</title>
+    <sub-title lang="en">10-24-2023</sub-title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2019</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240501073000 +0000" stop="20240501080000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Track &amp; Field Weekly 2024 - Episode 2</title>
-    <desc lang="en">Track &amp; Field Weekly invites the viewers into the lives of high-profile athletes as they travel the globe on the Wanda Diamond League circuit.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Magazine</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000014_IVP_LAND_448x252.jpg" />
-    <rating system="MY">
-      <value>U</value>
+  <programme start="20240504070000 +0000" stop="20240504073000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programa Pagado</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2021</date>
+    <previously-shown />
+  </programme>
+  <programme start="20240504073000 +0000" stop="20240504080000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programa Pagado</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2021</date>
+    <previously-shown />
+  </programme>
+  <programme start="20240504080000 +0000" stop="20240504083000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programa Pagado</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2021</date>
+    <previously-shown />
+  </programme>
+  <programme start="20240504083000 +0000" stop="20240504090000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programa Pagado</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2021</date>
+    <previously-shown />
+  </programme>
+  <programme start="20240504090000 +0000" stop="20240504093000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240501080000 +0000" stop="20240501090000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Diving: W 10m Synchro Finals</title>
-    <desc lang="en">World Aquatics Diving World Cup Super Final 2024: Women's 10m Synchro Finals, from Xi’an, China.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Aquatics</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMVNQ.jpg" />
-    <rating system="MY">
-      <value>U</value>
+  <programme start="20240504093000 +0000" stop="20240504100000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240501090000 +0000" stop="20240501140000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">(L) BWF TC Finals: D5 JPN vs TPE</title>
-    <desc lang="en">LIVE: BWF Thomas Cup Finals 2024: Day 5: Group Stage: Session 2: Japan vs Chinese Taipei (TV Court 2), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Badminton</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGXZ.jpg" />
-    <rating system="MY">
-      <value>U</value>
+  <programme start="20240504100000 +0000" stop="20240504103000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240501140000 +0000" stop="20240501152500 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Diving: M 10m Synchro Finals</title>
-    <desc lang="en">World Aquatics Diving World Cup Super Final 2024: Men's 10m Synchro Finals, from Xi’an, China.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Aquatics</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMVNR.jpg" />
-    <rating system="MY">
-      <value>U</value>
+  <programme start="20240504103000 +0000" stop="20240504110000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240501152500 +0000" stop="20240501220000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Wanda Diamond League 2024: Su Zhou</title>
-    <desc lang="en">Wanda Diamond League 2024: Su Zhou, from Shanghai, China.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMKRN.jpg" />
-    <rating system="MY">
-      <value>U</value>
+  <programme start="20240504110000 +0000" stop="20240504113000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programa Pagado</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2021</date>
+    <previously-shown />
+  </programme>
+  <programme start="20240504113000 +0000" stop="20240504120000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programa Pagado</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2021</date>
+    <previously-shown />
+  </programme>
+  <programme start="20240504120000 +0000" stop="20240504123000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Vecinos</title>
+    <sub-title lang="en">Piloto</sub-title>
+    <desc lang="en">El debut de la nueva comedia del productor Eugenio Derbez sobre la convivencia entre vecinos de un edificio de departamentos. (Repeat).(n)</desc>
+    <date>2005</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240501220000 +0000" stop="20240501225000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Pro Bull Riders: Salt Lake City, UT</title>
-    <desc lang="en">Top 32 bull riders attempting to conquer the most powerful and fearsome bulls, an epic showdown between men and beast.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLTYZ.jpg" />
-    <episode-num system="onscreen">E11</episode-num>
-    <rating system="MY">
-      <value>U</value>
+  <programme start="20240504123000 +0000" stop="20240504130000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Vecinos</title>
+    <sub-title lang="en">Piloto</sub-title>
+    <desc lang="en">El debut de la nueva comedia del productor Eugenio Derbez sobre la convivencia entre vecinos de un edificio de departamentos. (Repeat).(n)</desc>
+    <date>2005</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240501225000 +0000" stop="20240502010000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">PL: Wolves vs Luton</title>
-    <desc lang="en">Premier League 2023/24: Match Week 35: Wolverhampton Wanderers vs Luton Town, from Molineux Stadium, Wolverhampton.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJANN.jpg" />
-    <rating system="MY">
-      <value>U</value>
+  <programme start="20240504130000 +0000" stop="20240504133000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Una familia de diez</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2007</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504133000 +0000" stop="20240504140000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Una familia de diez</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2007</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20240504140000 +0000" stop="20240504150000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Como dice el dicho</title>
+    <sub-title lang="en">Mientras más profundo es el río, menos ruido hace</sub-title>
+    <desc lang="en">(New).(n)</desc>
+    <date>2018</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504150000 +0000" stop="20240504153000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programa Pagado</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2021</date>
+    <previously-shown />
+  </programme>
+  <programme start="20240504153000 +0000" stop="20240504160000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programa Pagado</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2021</date>
+    <previously-shown />
+  </programme>
+  <programme start="20240504160000 +0000" stop="20240504163000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programa Pagado</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2021</date>
+    <previously-shown />
+  </programme>
+  <programme start="20240504163000 +0000" stop="20240504170000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Programa Pagado</title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2021</date>
+    <previously-shown />
+  </programme>
+  <programme start="20240504170000 +0000" stop="20240504173000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Nosotros los guapos</title>
+    <sub-title lang="en">07-11-2023</sub-title>
+    <desc lang="en">(Repeat).(n)</desc>
+    <date>2016</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504173000 +0000" stop="20240504193000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Kidnap</title>
+    <desc lang="en">No hay nada peor para una madre que alguien se entrometa con un hijo. Y eso es lo que le ha sucedido a una mujer, a la que le han secuestrado a su joven vástago. Decidida a jugarse la vida y sin miedo, ella hará todo lo que esté a su alcance, y más aún, para poder recuperarlo. (Repeat).(n)</desc>
+    <date>2017</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504193000 +0000" stop="20240504213000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">Recoil</title>
+    <desc lang="en">Un policía se vuelve vigilante después de que su familia sea asesinada, exigiendo venganza a los asesinos, y luego a todos los delincuentes que se han escapado del sistema. (Repeat).(n)</desc>
+    <date>2011</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20240504213000 +0000" stop="20240505000000 +0000" channel="WXFT HDTV UniMás 60 (WXFT-DT) [60.1]">
+    <title lang="en">3 Days to Kill</title>
+    <desc lang="en">Un veterano agente del servicio secreto afronta su última misión, mientras abriga la esperanza de retirarse lo antes posible para poder dedicarse a establecer un víinculo con su hija adolescente a la que apenas conoce, antes de que sea demasiado tarde. (Repeat).(n)</desc>
+    <date>2014</date>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20240502010000 +0000" stop="20240502013000 +0000" channel="Astro SuperSport HD">
     <title lang="en">Sam's World: Episode 7</title>
-    <desc lang="en">Follow Sam in exploring the surprising sports facts that you never would've guessed, e-sports (Roblox) and discovering amusement parks around Malaysia.(n)</desc>
+    <desc lang="en">Follow Sam in exploring the surprising sports facts that you never would’ve guessed, e-sports (Roblox) and discovering amusement parks around Malaysia.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Magazine</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLLOA.jpg" />
@@ -2037,8 +2146,8 @@
     </rating>
   </programme>
   <programme start="20240502013000 +0000" stop="20240502063000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">(L) BWF UC Finals: QF</title>
-    <desc lang="en">LIVE: BWF Uber Cup Finals 2024: Day 6: Quarter Finals: Session 1 (TV Court 2), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+    <title lang="en">(L) BWF UC QF: JPN vs IND</title>
+    <desc lang="en">LIVE: BWF Uber Cup Finals 2024: Day 6: Quarter Finals: Session 1: Japan vs India (TV Court 2), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Badminton</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWT.jpg" />
@@ -2048,7 +2157,7 @@
   </programme>
   <programme start="20240502063000 +0000" stop="20240502073000 +0000" channel="Astro SuperSport HD">
     <title lang="en">Diving: W 3m Synchro Finals</title>
-    <desc lang="en">World Aquatics Diving World Cup Super Final 2024: Women's 3m Synchro Finals, from Xi'an, China.(n)</desc>
+    <desc lang="en">World Aquatics Diving World Cup Super Final 2024: Women's 3m Synchro Finals, from Xi’an, China.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Aquatics</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMVNS.jpg" />
@@ -2077,8 +2186,8 @@
     </rating>
   </programme>
   <programme start="20240502090000 +0000" stop="20240502140000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">(L) BWF TC Finals: QF</title>
-    <desc lang="en">LIVE: BWF Thomas Cup Finals 2024: Day 6: Quarter Finals: Session 2 (TV Court 2), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+    <title lang="en">(L) BWF TC QF: JPN vs MAS</title>
+    <desc lang="en">LIVE: BWF Thomas Cup Finals 2024: Day 6: Quarter Finals: Session 2: Japan vs Malaysia (TV Court 2), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Badminton</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWT.jpg" />
@@ -2088,7 +2197,7 @@
   </programme>
   <programme start="20240502140000 +0000" stop="20240502143000 +0000" channel="Astro SuperSport HD">
     <title lang="en">Sam's World: Episode 8</title>
-    <desc lang="en">Follow Sam in exploring the surprising sports facts that you never would've guessed, e-sports (Roblox) and discovering amusement parks around Malaysia.(n)</desc>
+    <desc lang="en">Follow Sam in exploring the surprising sports facts that you never would’ve guessed, e-sports (Roblox) and discovering amusement parks around Malaysia.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Magazine</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLLOB.jpg" />
@@ -2126,19 +2235,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240502220000 +0000" stop="20240503000000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Diving: M 10m Platform Finals</title>
-    <desc lang="en">World Aquatics Diving World Cup Super Final 2024: Men's 10m Platform Finals, from Xi'an, China.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Aquatics</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMVOC.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240503000000 +0000" stop="20240503003000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Track &amp; Field Weekly 2024 - Episode 2</title>
-    <desc lang="en">Track &amp; Field Weekly invites the viewers into the lives of high-profile athletes as they travel the globe on the Wanda Diamond League circuit.(n)</desc>
+  <programme start="20240502220000 +0000" stop="20240502223000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">FIBA World Basketball 2024: Episode 10</title>
+    <desc lang="en">FIBA World Basketball A weekly show which features basketball action from men, women and junior players all around the world.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Magazine</category>
     <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000014_IVP_LAND_448x252.jpg" />
@@ -2146,19 +2245,17 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240503003000 +0000" stop="20240503010000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">FIBA World Basketball 2024: Episode 10</title>
-    <desc lang="en">FIBA World Basketball A weekly show which features basketball action from men, women and junior players all around the world.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLZNF.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
+  <programme start="20240502223000 +0000" stop="20240503010000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">Not Available</title>
+    <category lang="en">Academic</category>
+    <category lang="en">Live Winter e</category>
+    <category lang="en">Live Academic</category>
+    <category lang="en">Winter Academic</category>
+    <category lang="en">eAcademic</category>
   </programme>
   <programme start="20240503010000 +0000" stop="20240503013000 +0000" channel="Astro SuperSport HD">
     <title lang="en">Sam's World: Episode 9</title>
-    <desc lang="en">Follow Sam in exploring the surprising sports facts that you never would've guessed, e-sports (Roblox) and discovering amusement parks around Malaysia.(n)</desc>
+    <desc lang="en">Follow Sam in exploring the surprising sports facts that you never would’ve guessed, e-sports (Roblox) and discovering amusement parks around Malaysia.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Magazine</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLLOC.jpg" />
@@ -2167,8 +2264,8 @@
     </rating>
   </programme>
   <programme start="20240503013000 +0000" stop="20240503063000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">(L) BWF UC Finals: QF</title>
-    <desc lang="en">LIVE: BWF Uber Cup Finals 2024: Day 7: Quarter Finals: Session 1 (TV Court 2), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+    <title lang="en">(L) BWF UC QF: TPE vs KOR</title>
+    <desc lang="en">LIVE: BWF Uber Cup Finals 2024: Day 7: Quarter Finals: Session 1: Chinese Taipei vs South Korea (TV Court 2), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Badminton</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWT.jpg" />
@@ -2208,8 +2305,8 @@
     </rating>
   </programme>
   <programme start="20240503090000 +0000" stop="20240503140000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">(L) BWF TC Finals: QF</title>
-    <desc lang="en">LIVE: BWF Thomas Cup Finals 2024: Day 7: Quarter Finals: Session 2 (TV Court 2), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+    <title lang="en">(L) BWF TC QF: KOR vs INA</title>
+    <desc lang="en">LIVE: BWF Thomas Cup Finals 2024: Day 7: Quarter Finals: Session 2: South Korea vs Indonesia (TV Court 2), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Badminton</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWT.jpg" />
@@ -2219,7 +2316,7 @@
   </programme>
   <programme start="20240503140000 +0000" stop="20240503143000 +0000" channel="Astro SuperSport HD">
     <title lang="en">Sam's World: Episode 10</title>
-    <desc lang="en">Follow Sam in exploring the surprising sports facts that you never would've guessed, e-sports (Roblox) and discovering amusement parks around Malaysia.(n)</desc>
+    <desc lang="en">Follow Sam in exploring the surprising sports facts that you never would’ve guessed, e-sports (Roblox) and discovering amusement parks around Malaysia.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Magazine</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLLOD.jpg" />
@@ -2249,7 +2346,7 @@
   </programme>
   <programme start="20240503181000 +0000" stop="20240503194000 +0000" channel="Astro SuperSport HD">
     <title lang="en">Diving: W 3m Springboard Finals</title>
-    <desc lang="en">World Aquatics Diving World Cup Super Final 2024: W 3m Springboard Finals, from Xi'an, China.(n)</desc>
+    <desc lang="en">World Aquatics Diving World Cup Super Final 2024: W 3m Springboard Finals, from Xi’an, China.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Aquatics</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMVNX.jpg" />
@@ -2259,7 +2356,7 @@
   </programme>
   <programme start="20240503194000 +0000" stop="20240503213000 +0000" channel="Astro SuperSport HD">
     <title lang="en">Diving: M 3m Springboard Finals</title>
-    <desc lang="en">World Aquatics Diving World Cup Super Final 2024: Men's 3m Springboard Finals, from Xi'an, China.(n)</desc>
+    <desc lang="en">World Aquatics Diving World Cup Super Final 2024: Men's 3m Springboard Finals, from Xi’an, China.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Aquatics</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMVNY.jpg" />
@@ -2269,7 +2366,7 @@
   </programme>
   <programme start="20240503213000 +0000" stop="20240503220000 +0000" channel="Astro SuperSport HD">
     <title lang="en">World's Strongest Man 2023 - Episode 5</title>
-    <desc lang="en">The World's Strongest Man is the world's preeminent strongman competition, held annually since 1977. This year's competition will see the sport's most dominant strength athletes compete for the title.(n)</desc>
+    <desc lang="en">The World's Strongest Man is the world’s preeminent strongman competition, held annually since 1977. This year’s competition will see the sport’s most dominant strength athletes compete for the title.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Magazine</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLTFI.jpg" />
@@ -2287,156 +2384,172 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501013000 +0000" stop="20240501040000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">(L) NBA: Pacers vs Bucks</title>
-    <desc lang="en">LIVE: Basketball: NBA Playoff 2023/2024: Game 5: Indiana Pacers vs Milwaukee Bucks, from Fiserv Forum, United States.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Others (Sports)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMIPG.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501040000 +0000" stop="20240501050000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">Nascar 2024: EchoPark Automotive GP HL</title>
-    <desc lang="en">Catch the latest news and highlights of Nascar 2024: EchoPark Automotive Grand Prix: Cota.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsport</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMJRD.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501050000 +0000" stop="20240501053000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">UIM ABP Aquabike GP: HL 2</title>
-    <desc lang="en">Powerboat: UIM ABP Aquabike Grand Prix 2024: Vietnam Highlights 2, from Qui Nhon, Binh Dinh, Vietnam.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsport</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000069_IVP_LAND_367x207.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501053000 +0000" stop="20240501074000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">PL: Bournemouth vs Brighton</title>
-    <desc lang="en">Premier League 2023/24: Match Week 35: AFC Bournemouth vs Brighton &amp; Hove Albion, from Vitality Stadium, Bournemouth.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJANP.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501074000 +0000" stop="20240501095000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">PL: Man Utd vs Burnley</title>
-    <desc lang="en">Premier League 2023/24: Match Week 35: Manchester United vs Burnley, from Old Trafford, Manchester.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJANM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501095000 +0000" stop="20240501120000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">(L) K-League: Incheon vs Jeonbuk</title>
-    <desc lang="en">LIVE: K-League 2024: Round 10: Incheon vs Jeonbuk, from Sungui Arena Park, Incheon, South Korea.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLZZG.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501120000 +0000" stop="20240501123000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">Mobil 1 The Grid: Episode 2</title>
-    <desc lang="en">Mobil 1 The Grid is on location at one of North America's toughest endurance races, the Mobil 1 Twelve Hours of Sebring in Florida.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsport</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMDRK.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501123000 +0000" stop="20240501130000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">PLTV: Netbusters 2023/24:</title>
-    <desc lang="en">Netbusters brings you a fast-paced ISO angle highlights show that features every match and every goal from each match round.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJCAK.jpg" />
-    <episode-num system="onscreen">E37</episode-num>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501130000 +0000" stop="20240501140000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">PLTV: Generation XG 2023/24:</title>
-    <desc lang="en">Expert analysis and insightful data are used to explain the twists and turns of the Premier League matchweek.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJCBW.jpg" />
-    <episode-num system="onscreen">E31</episode-num>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501140000 +0000" stop="20240501200200 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">UFC 2024: Nicolau vs Perez</title>
-    <desc lang="en">UFC 2024: Fight Night (ESPN 158): Flyweight Bout: Matheus Nicolau vs Alex Perez, from UFC APEX, Las Vegas, NV.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Martial Arts</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLZFY.jpg" />
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240501200200 +0000" stop="20240501210000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">Nascar 2024: Toyota Owners 400 HL</title>
-    <desc lang="en">Catch the latest news and highlights of Nascar 2024: Toyota Owners 400: Richmond Raceway.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsport</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMJRE.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501210000 +0000" stop="20240501220000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">PLTV: Generation XG 2023/24:</title>
-    <desc lang="en">Expert analysis and insightful data are used to explain the twists and turns of the Premier League matchweek.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJCBW.jpg" />
-    <episode-num system="onscreen">E31</episode-num>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501220000 +0000" stop="20240501230000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">Trans World Sport 2024 - Episode 16</title>
-    <desc lang="en">Trans World Sports 2024 Brings you the latest updates in sports, exclusive interviews and highlights of all sports action around the world.(n)</desc>
+  <programme start="20240504000000 +0000" stop="20240504003000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">FIBA World Basketball 2024: Episode 10</title>
+    <desc lang="en">FIBA World Basketball A weekly show which features basketball action from men, women and junior players all around the world.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLAQD.jpg" />
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLZNF.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501230000 +0000" stop="20240501233000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">PLTV: Netbusters 2023/24:</title>
-    <desc lang="en">Netbusters brings you a fast-paced ISO angle highlights show that features every match and every goal from each match round.(n)</desc>
+  <programme start="20240504003000 +0000" stop="20240504010000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">PL Preview 2023/24: Week 33</title>
+    <desc lang="en">For a comprehensive look ahead to the weekend's action Premier League Preview has all bases covered. Get in-depth insight and features into the stories behind the headlines.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJBZX.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504010000 +0000" stop="20240504013000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">Sam's World: Episode 1</title>
+    <desc lang="en">Follow Sam in exploring the surprising sports facts that you never would've guessed, e-sports (Roblox) and discovering amusement parks around Malaysia.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLLNU.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504013000 +0000" stop="20240504063000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">(L) BWF UC Finals: SF</title>
+    <desc lang="en">LIVE: BWF Uber Cup Finals 2024: Day 8: Semi Finals: Session 1 (TV Court 2), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Badminton</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWT.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504063000 +0000" stop="20240504070000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">Sam's World: Episode 2</title>
+    <desc lang="en">Follow Sam in exploring the surprising sports facts that you never would've guessed, e-sports (Roblox) and discovering amusement parks around Malaysia.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLLNV.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504070000 +0000" stop="20240504073000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">PL Preview 2023/24: Week 33</title>
+    <desc lang="en">For a comprehensive look ahead to the weekend's action Premier League Preview has all bases covered. Get in-depth insight and features into the stories behind the headlines.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJBZX.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504073000 +0000" stop="20240504090000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">The Weekend Wrap 2023/24: Week 32</title>
+    <desc lang="en">It's a comprehensive review of all the weekend's matches. From a high-class team of pundits and former Premier League referees, all disecting and discussing the key action, hosted by Mark Pougatch.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJFJN.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504090000 +0000" stop="20240504140000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">(L) BWF TC Finals: SF</title>
+    <desc lang="en">LIVE: BWF Thomas Cup Finals 2024: Day 8: Semi Finals: Session 2 (TV Court 2), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Badminton</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWT.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504140000 +0000" stop="20240504143000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">FIBA World Basketball 2024: Episode 10</title>
+    <desc lang="en">FIBA World Basketball A weekly show which features basketball action from men, women and junior players all around the world.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLZNF.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504143000 +0000" stop="20240504150000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">PL Stories: Hall Of Fame 2024 Inductees</title>
+    <desc lang="en">Showcasing the personalities who have shaped the Premier League era, each episode will focus on the stories that engage fans and resonate with international audiences.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJCBV.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504150000 +0000" stop="20240504153000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">PL Preview 2023/24: Week 33</title>
+    <desc lang="en">For a comprehensive look ahead to the weekend's action Premier League Preview has all bases covered. Get in-depth insight and features into the stories behind the headlines.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJBZX.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504153000 +0000" stop="20240504181000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">UEFA Euro: MD11 Highlights 3</title>
+    <desc lang="en">UEFA European Qualifiers 2023-2024: Match Day 11 Highlights 3.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJCAK.jpg" />
-    <episode-num system="onscreen">E37</episode-num>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFSF.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501233000 +0000" stop="20240502020000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">(L) NBA: Celtics vs Heat</title>
-    <desc lang="en">LIVE: Basketball: NBA Playoff 2023/2024: Game 5: Boston Celtics vs Miami Heat, from TD Garden, United States.(n)</desc>
+  <programme start="20240504181000 +0000" stop="20240504195000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">Diving: W 10m Platform Finals</title>
+    <desc lang="en">World Aquatics Diving World Cup Super Final 2024: W 10m Platform Finals, from Xi'an, China.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Others (Sports)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMIPF.jpg" />
+    <category lang="en">Aquatics</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMVOB.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504195000 +0000" stop="20240504203000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">World's Strongest Man 2023 - Episode 5</title>
+    <desc lang="en">The World's Strongest Man is the world's preeminent strongman competition, held annually since 1977. This year's competition will see the sport's most dominant strength athletes compete for the title.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLTFI.jpg" />
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240504203000 +0000" stop="20240504213000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">Wanda Diamond League 2024: Su Zhou HL</title>
+    <desc lang="en">Catch the latest news and highlights of Wanda Diamond League 2024: Su Zhou.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMKRP.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504213000 +0000" stop="20240504220000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">PL Preview 2023/24: Week 33</title>
+    <desc lang="en">For a comprehensive look ahead to the weekend's action Premier League Preview has all bases covered. Get in-depth insight and features into the stories behind the headlines.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJBZX.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504220000 +0000" stop="20240505011000 +0000" channel="Astro SuperSport HD">
+    <title lang="en">World Athletics Conti Tour: Huela</title>
+    <desc lang="en">World Athletics Continental Tour 2024: Bronze Meeting, from Huela, Spain.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLCZX.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -2601,164 +2714,115 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20240501001000 +0000" stop="20240501010500 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PLTV: PL Review</title>
-    <desc lang="en">The Review Show incorporates all vital moments, manager reaction, and analysis from every fixture making it a must-see programme for Premier League fans around the world.(n)</desc>
+  <programme start="20240504010000 +0000" stop="20240504053000 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">(L) OFN 22: Sundell vs Diachkova</title>
+    <desc lang="en">LIVE: ONE Fight Night 22: Sundell vs Diachkova, from Lumpinee Boxing Stadium, Bangkok, Thailand.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJGCF.jpg" />
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMKRC.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501010500 +0000" stop="20240501032000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">(L) Concacaf: Pachuca vs Club America</title>
-    <desc lang="en">LIVE: Concacaf Champions Cup 2023/24: SF 2nd Leg: Pachuca vs Club America, from Estadio Hidalgo, Pachuca, Mexico.(n)</desc>
+  <programme start="20240504053000 +0000" stop="20240504062000 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">PLTV: Generation XG 2023/24:</title>
+    <desc lang="en">Expert analysis and insightful data are used to explain the twists and turns of the Premier League matchweek.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JVUUI.jpg" />
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJCBW.jpg" />
+    <episode-num system="onscreen">E31</episode-num>
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501032000 +0000" stop="20240501042000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">Marathon de Paris 2024 Final Programme</title>
-    <desc lang="en">Schneider Electric Marathon de Paris 2024 - Final Programme Highlights from Paris, France.(n)</desc>
+  <programme start="20240504062000 +0000" stop="20240504083000 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">PL: Bournemouth vs Brighton</title>
+    <desc lang="en">Premier League 2023/24: Match Week 35: AFC Bournemouth vs Brighton &amp; Hove Albion, from Vitality Stadium, Bournemouth.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJANP.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504083000 +0000" stop="20240504093500 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">UFC Countdown: UFC 301: Pantoja vs Erceg</title>
+    <desc lang="en">UFC 301 Countdown previews the promotion's return to Brazil, as flyweight champion Alexandre Pantoja defends his title against Steve Erceg in his home country.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000069_IVP_LAND_367x207.jpg" />
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240504093500 +0000" stop="20240504114500 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">(L) A-League: SFC vs MAC</title>
+    <desc lang="en">LIVE: A-League 2023/2024: Elimination Final: Sydney FC vs Macarthur FC, from Allianz Stadium, Australia.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KKFGL.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504114500 +0000" stop="20240504135000 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">PL: Nottm Forest vs Man City</title>
+    <desc lang="en">Premier League 2023/24: Match Week 35: Nottingham Forest vs Manchester City, from The City Ground, Nottingham.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJANQ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504135000 +0000" stop="20240504170000 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">(L) PL: Burnley vs Newcastle</title>
+    <desc lang="en">LIVE: Premier League 2023/24: Match Week 36: Burnley vs Newcastle United, from Turf Moor, Burnley.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJANW.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504170000 +0000" stop="20240504210000 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">ONE Friday Fights 61 - Week 16</title>
+    <desc lang="en">ONE Friday Fights 61 - Week 16, from Lumpinee Boxing Stadium, Bangkok, Thailand.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000069_IVP_LAND_367x207.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504210000 +0000" stop="20240504220000 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">Trans World Sport 2024 - Episode 17</title>
+    <desc lang="en">Trans World Sports 2024 Brings you the latest updates in sports, exclusive interviews and highlights of all sports action around the world.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMJPY.jpg" />
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLAQD.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501042000 +0000" stop="20240501063000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PL: West Ham vs. Liverpool</title>
-    <desc lang="en">Premier League 2023/24: Match Week 35: West Ham United vs. Liverpool, from London Stadium, London, England.(n)</desc>
+  <programme start="20240504220000 +0000" stop="20240504230000 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">Inside Pro Surfing: Rip Curl Pro Bells</title>
+    <desc lang="en">This series is a premium, all-access deep dive into each Championship Tour event. Through character-driven storylines and in-depth profiles, each episode connects fans to the tour and its star athletes.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJANT.jpg" />
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMLKA.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501063000 +0000" stop="20240501074000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">LOL 2023/24 Ep.18</title>
-    <desc lang="en">Ex-Sheffield United manager Paul Heckingbottom answers the question on everyone's mind, what happened between him and Sheffield United towards the end of his stint with The Blades?(n)</desc>
+  <programme start="20240504230000 +0000" stop="20240505000000 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">UFC Countdown: UFC 301: Pantoja vs Erceg</title>
+    <desc lang="en">UFC 301 Countdown previews the promotion's return to Brazil, as flyweight champion Alexandre Pantoja defends his title against Steve Erceg in his home country.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLPGO.jpg" />
+    <category lang="en">Martial Arts</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000069_IVP_LAND_367x207.jpg" />
     <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501074000 +0000" stop="20240501095000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PL: Aston Villa vs. Chelsea</title>
-    <desc lang="en">Premier League 2023/24: Match Week 35: Aston Villa vs. Chelsea, from Villa Park, .Birmingham, England.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJANU.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501095000 +0000" stop="20240501120000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">(L) K-League: Daegu vs Ulsan</title>
-    <desc lang="en">LIVE: K-League 2024: Round 10: Daegu vs Ulsan, from DGB Daegu Bank Park, Daegu, South Korea.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLZYP.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501120000 +0000" stop="20240501130000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PLTV: 1 to 11</title>
-    <desc lang="en">A former Premier League star sits down to select the best team they played with, guiding us through their picks from 1-to-11 and including insights and anecdotes from on and off the pitch.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJFMR.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501130000 +0000" stop="20240501133000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PLTV: The Gaffer Tapes</title>
-    <desc lang="en">From tactical insight to the latest team news, hear from all 20 Premier League managers at their pre-match press conference ahead the weekend's action.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMUXW.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501133000 +0000" stop="20240501140000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">BP Ultimate Rally Raid Portugal Hls</title>
-    <desc lang="en">World Rally-Raid Championship - BP Ultimate Rally Raid Portugal 2024 - Highlights held in Portugal and Spain.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMJPZ.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501140000 +0000" stop="20240501171000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PL: Newcastle vs. Sheffield</title>
-    <desc lang="en">Premier League 2023/24: Match Week 35: Newcastle United vs. Sheffield United, from from St. James' Park, Newcastle, England.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJANR.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501171000 +0000" stop="20240501175000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PLTV: The Kelly &amp; Wrighty Show</title>
-    <desc lang="en">The Kelly &amp; Wrighty Show. In each show, Kelly and Ian are joined by two studio guests to discuss the biggest stories and exciting match-ups ahead of the weekend's fixtures.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJGNO.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501175000 +0000" stop="20240501200000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">(L) FAWSL: Liverpool vs Chelsea</title>
-    <desc lang="en">LIVE: FA Women's Super League 2023/24: Week 20: Liverpool vs Chelsea, from Prenton Park, Birkenhead, England.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMQNB.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501200000 +0000" stop="20240501213000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">LOL 2023/24 Ep.17</title>
-    <desc lang="en">Chris Coleman breaks down his career and why he loved his time as the manager of the Welsh National Team!(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLPGN.jpg" />
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240501213000 +0000" stop="20240501220000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">2024 Zurich Barcelona Marathon Hls</title>
-    <desc lang="en">2024 Zurich Barcelona Marathon - Highlights from Barcelona, Catalonia, Spain.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLZDD.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240501220000 +0000" stop="20240502000500 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PL: Burnley vs. Brighton</title>
-    <desc lang="en">Premier League 2023/24: Match Week 33: Burnley vs. Brighton &amp; Hove Albion, from Turf Moor, Burnley, England.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJAMW.jpg" />
-    <rating system="MY">
-      <value>U</value>
+      <value>13</value>
     </rating>
   </programme>
   <programme start="20240502000500 +0000" stop="20240502021000 +0000" channel="Astro SuperSport 3 HD">
@@ -3061,80 +3125,232 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501013000 +0000" stop="20240501063000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">(L) BWF UC Finals: D5 JPN vs INA</title>
-    <desc lang="en">LIVE: BWF Uber Cup Finals 2024: Day 5: Group Stage: Session 1: Japan vs Indonesia (TV Court 1), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+  <programme start="20240503210000 +0000" stop="20240503220000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">PLTV: The Catch Up Show</title>
+    <desc lang="en">The Catch Up Show is your chance to re-live all of the best studio content from the past week, and all the talking points from the latest round of the Premier League.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Badminton</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGXE.jpg" />
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJGPG.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501063000 +0000" stop="20240501070000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">Badminton Weekly: Episode 15</title>
-    <desc lang="en">A weekly show featuring all the latest news on badminton, tournament updates and exclusive interviews with the players and team coaches.(n)</desc>
+  <programme start="20240503220000 +0000" stop="20240504001000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">PL: Sheffield Utd vs Chelsea</title>
+    <desc lang="en">Premier League 2023/24: Match Week 32: Sheffield United vs Chelsea, from Bramall Lane, Sheffield.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Badminton</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLDCD.jpg" />
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501070000 +0000" stop="20240501090000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">K-League: Daejeon vs Seoul</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20240501090000 +0000" stop="20240501140000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">(L) BWF TC Finals: D5 INA vs IND</title>
-    <desc lang="en">LIVE: BWF Thomas Cup Finals 2024: Day 5: Group Stage: Session 2: Indonesia vs India (TV Court 1), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+  <programme start="20240504001000 +0000" stop="20240504005000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">Volta Ciclista A Catalunya Hls</title>
+    <desc lang="en">The 103rd edition of Volta Ciclista A Catalunya - Final Programme highlights of road bicycle race from Catalunya, Spain.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Badminton</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGXF.jpg" />
+    <category lang="en">Magazine</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501140000 +0000" stop="20240501143000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">Badminton Weekly: Episode 15</title>
-    <desc lang="en">A weekly show featuring all the latest news on badminton, tournament updates and exclusive interviews with the players and team coaches.(n)</desc>
+  <programme start="20240504005000 +0000" stop="20240504012000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">PLTV: The Big Interview</title>
+    <desc lang="en">A chance to hear from one of the biggest and most interesting names in the Premier League in a more considered sit-down interview format.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Badminton</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLDCD.jpg" />
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501143000 +0000" stop="20240501183000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">NBA: Indiana vs Milwaukee</title>
-    <desc lang="en">NBA Playoff 2023/2024 (Basketball): Game 5: Indiana Pacers vs Milwaukee Bucks, from Fiserv Forum, Milwaukee, Wisconsin.(n)</desc>
+  <programme start="20240504012000 +0000" stop="20240504015000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">PLTV: Fantasy Premier League Show</title>
+    <desc lang="en">The Fantasy Premier League Show is on hand help you with those big dilemmas -  with insightful data and opinions from FPL experts on which Premier League stars you should be considering for your sides.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Others (Sports)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMIPG.jpg" />
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501183000 +0000" stop="20240501190000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">PL Rewind 2023/24: Week 37</title>
-    <desc lang="en">PL Rewind delves back into the Premier League archive to showcase some memorable matches with players and managers who were key to that game.(n)</desc>
+  <programme start="20240504015000 +0000" stop="20240504025000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">PLTV: Fanzone</title>
+    <desc lang="en">Fanzone gives fans even more ways to interact and communicate, no matter where in the world they are watching. This is a show for the fans by the fans.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Others (Sports)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJHPT.jpg" />
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240501190000 +0000" stop="20240502000000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">BWF UC Finals: D2 TPE vs MAS</title>
-    <desc lang="en">BWF Uber Cup Finals 2024: Day 2: Group Stage: Session 1: ChineseTaipei vs Malaysia (TV Court 1), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+  <programme start="20240504025000 +0000" stop="20240504050000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">PL: Luton vs. Everton</title>
+    <desc lang="en">Premier League 2023/24: Match Week 36: Luton Town vs. Everton, from Kenilworth Road, Luton, England.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Badminton</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWX.jpg" />
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504050000 +0000" stop="20240504052000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">PLTV: The Big Interview</title>
+    <desc lang="en">A chance to hear from one of the biggest and most interesting names in the Premier League in a more considered sit-down interview format.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504052000 +0000" stop="20240504073000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">(L) Japan Rugby: Sungoliath vs Spears</title>
+    <desc lang="en">LIVE: Japan Rugby League One 2023-24: Tokyo Sungoliath vs Kubota Spears, from Prince Chichibu Memorial Rugby Stadium, Tokyo, Japan.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504073000 +0000" stop="20240504083000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">Welcome To the Weekend</title>
+    <desc lang="en">A fast-paced, fun and alternative look at all things Premier League as we build up to the weekend's fixtures, presetented by Jonathan Joseph, Olivia Buzaglo, Andrew Mensah,.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504083000 +0000" stop="20240504090000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">Freddie Ljungberg's Unseen Ep.7</title>
+    <desc lang="en">Former Arsenal Invincible Freddie Ljungberg reveals the secrets of succeeding in the Premier League, in discussion with a host of Premier League stars both past &amp; present.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504090000 +0000" stop="20240504093000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">PLTV: Fantasy Premier League Show</title>
+    <desc lang="en">The Fantasy Premier League Show is on hand help you with those big dilemmas -  with insightful data and opinions from FPL experts on which Premier League stars you should be considering for your sides.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504093000 +0000" stop="20240504110000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">LOL: Season 2023/24 Ep.15</title>
+    <desc lang="en">Only a handful of players have donned the jersey of Chelsea, Barcelona and Arsenal and none are as memorable as Emmanuel Petit. The former defender talks through his time in football and why he only played.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504110000 +0000" stop="20240504113000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">(L) Preshow</title>
+    <desc lang="en">LIVE: Catch team arrivals, pre-match interviews, player warm-ups, team news and reports from around the grounds and expert comments and analysis from the Live Studio Team.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504113000 +0000" stop="20240504133000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">(L) PL: Arsenal vs. Bournemouth</title>
+    <desc lang="en">LIVE: Premier League 2023/24: Match Week 36: Arsenal vs. AFC Bournemouth, from Emirates Stadium, London, England.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504133000 +0000" stop="20240504135500 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">(L) Postshow</title>
+    <desc lang="en">LIVE: Catch team after match interviews, player team news and reports from around the grounds and expert comments and analysis from the Live Studio Team.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504135500 +0000" stop="20240504162000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">(L) PL: Brighton vs. Aston Villa</title>
+    <desc lang="en">LIVE: Premier League 2023/24: Match Week 36: Brighton &amp; Hove Albion vs. Aston Villa, from American Express Stadium, Brighton and Hove, England.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504162000 +0000" stop="20240504183000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">(L) PL: Man City vs. Wolves</title>
+    <desc lang="en">LIVE: Premier League 2023/24: Match Week 36: Manchester City vs. Wolverhampton Wanderers, from Etihad Stadium, Manchester, England.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504183000 +0000" stop="20240504193000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">Welcome To the Weekend</title>
+    <desc lang="en">A fast-paced, fun and alternative look at all things Premier League as we build up to the weekend's fixtures, presetented by Jonathan Joseph, Olivia Buzaglo, Andrew Mensah,.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504193000 +0000" stop="20240504203000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">PLTV: Team Talks 2023/24</title>
+    <desc lang="en">A comprehensive build-up to the Premier League Matchweek, including all the latest news &amp; updates from the pre-match press conferences, as well as studio chat &amp; debate.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504203000 +0000" stop="20240504213000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">PLTV: Fanzone</title>
+    <desc lang="en">Fanzone gives fans even more ways to interact and communicate, no matter where in the world they are watching. This is a show for the fans by the fans.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504213000 +0000" stop="20240504220000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">PLTV: The Gaffer Tapes</title>
+    <desc lang="en">From tactical insight to the latest team news, hear from all 20 Premier League managers at their pre-match press conference ahead the weekend's action.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_586x330.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504220000 +0000" stop="20240505001000 +0000" channel="Astro SuperSport 3 HD">
+    <title lang="en">FAWSL: Liverpool vs Chelsea</title>
+    <desc lang="en">FA Women's Super League 2023/24: Week 20: Liverpool vs Chelsea, from Prenton Park, Birkenhead, England.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMQNB.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -3160,8 +3376,8 @@
     </rating>
   </programme>
   <programme start="20240502013000 +0000" stop="20240502063000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">(L) Uber Cup Finals: Day 6 QF Session 1</title>
-    <desc lang="en">LIVE: BWF Uber Cup Finals 2024: Day 6: Quarter Finals: Session 1 (TV Court 1),  from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+    <title lang="en">(L) BWF UC QF: CHN vs DEN</title>
+    <desc lang="en">LIVE: BWF Uber Cup Finals 2024: Day 6: Quarter Finals: Session 1: China vs Denmark (TV Court 1),  from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Badminton</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWT.jpg" />
@@ -3340,10 +3556,113 @@
     </rating>
   </programme>
   <programme start="20240503230000 +0000" stop="20240504010000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">No information available</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
+    <title lang="en">Japan Rugby: Toshiba vs Sungoliath</title>
+    <desc lang="en">Japan Rugby League One 2023-24: Toshiba Bravelupus vs Tokyo Sungoliath, from Prince Chichibu Memorial Rugby Ground, Japan.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWG.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504010000 +0000" stop="20240504013000 +0000" channel="Astro SuperSport 4 HD">
+    <title lang="en">ONE FC Weekly 2024 - Magazines</title>
+    <desc lang="en">Catch the weekly program of ONE Championship, included news &amp; result update, in-depth tournament features as well as event highlights.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLIRB.jpg" />
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240504013000 +0000" stop="20240504063000 +0000" channel="Astro SuperSport 4 HD">
+    <title lang="en">(L) Uber Cup Finals: Day 8 SF Session 1</title>
+    <desc lang="en">LIVE: BWF Uber Cup Finals 2024: Day 8: Semi Finals: Session 1 (TV Court 1), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Badminton</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWT.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504063000 +0000" stop="20240504070000 +0000" channel="Astro SuperSport 4 HD">
+    <title lang="en">The Inside Line 2024: Episode 9</title>
+    <desc lang="en">The only weekly program dedicated to Formula 1, the most comprehensive coverage of the F1 World Championship.Independent preview and analysis of every race, every team and every driver.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLZGB.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504070000 +0000" stop="20240504090000 +0000" channel="Astro SuperSport 4 HD">
+    <title lang="en">Japan Rugby: Toyota vs Canon Eagles</title>
+    <desc lang="en">Japan Rugby League One 2023-24: Toyota Verblitz vs Canon Eagles, from Paloma Mizuho Rugby Stadium, Japan.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWH.jpg" />
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240504090000 +0000" stop="20240504140000 +0000" channel="Astro SuperSport 4 HD">
+    <title lang="en">(L)Thomas Cup Finals: Day 8 SF Session 2</title>
+    <desc lang="en">LIVE: BWF Thomas Cup Finals 2024: Day 8: Semi Finals: Session 2 (TV Court 1), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Badminton</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWT.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504140000 +0000" stop="20240504153000 +0000" channel="Astro SuperSport 4 HD">
+    <title lang="en">WWE Smackdown 2024: Episode 18</title>
+    <desc lang="en">Smackdown: Catch the high-flying action and drama from the superstars of WWE in this weekly showcase of one of the flagship shows of WWE.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLEGD.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504153000 +0000" stop="20240504163000 +0000" channel="Astro SuperSport 4 HD">
+    <title lang="en">PL Rewind 2023/24: Week 38</title>
+    <desc lang="en">PL Rewind delves back into the Premier League archive to showcase some memorable matches with players and managers who were key to that game.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJHPT.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504163000 +0000" stop="20240504183000 +0000" channel="Astro SuperSport 4 HD">
+    <title lang="en">K-League: Daegu vs Ulsan</title>
+    <desc lang="en">K-League 2024: Round 10: Daegu vs Ulsan, from DGB Daegu Bank Park, Daegu, South Korea.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLZYP.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504183000 +0000" stop="20240504233000 +0000" channel="Astro SuperSport 4 HD">
+    <title lang="en">BWF TC Finals: D3 JPN vs GER</title>
+    <desc lang="en">BWF Thomas Cup Finals 2024: Day 3: Group Stage: Session 2: Japan vs Germany (TV Court 1), from Chengdu High-tech Zone Sports Center Gymnasium, China.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Badminton</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGXB.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240504233000 +0000" stop="20240505013000 +0000" channel="Astro SuperSport 4 HD">
+    <title lang="en">(D) Japan Rugby: Sungoliath vs Spears</title>
+    <desc lang="en">Delayed: Japan Rugby League One 2023-24: Tokyo Sungoliath vs Kubota Spears, from Prince Chichibu Memorial Rugby Stadium, Tokyo, Japan.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMGWI.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
 </tv>
