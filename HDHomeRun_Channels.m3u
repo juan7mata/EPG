@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1, 2.1 CBS2-HD
+http://192.168.4.52:5004/auto/v2.1
+#EXTINF:-1, 5.1 NBC5
+http://192.168.4.52:5004/auto/v5.1
+#EXTINF:-1, 7.1 WLS-HD
+http://192.168.4.52:5004/auto/v7.1
+#EXTINF:-1, 7.2 LOCLish
+http://192.168.4.52:5004/auto/v7.2
+#EXTINF:-1, 8.3 WILC-SD
+http://192.168.4.52:5004/auto/v8.3
+#EXTINF:-1, 9.1 WGN
+http://192.168.4.52:5004/auto/v9.1
+#EXTINF:-1, 11.1 WTTW HD
+http://192.168.4.52:5004/auto/v11.1
+#EXTINF:-1, 11.4 Kids
+http://192.168.4.52:5004/auto/v11.4
+#EXTINF:-1, 26.1 CW26
+http://192.168.4.52:5004/auto/v26.1
+#EXTINF:-1, 26.2 The U
+http://192.168.4.52:5004/auto/v26.2
+#EXTINF:-1, 32.1 WFLD-DT
+http://192.168.4.52:5004/auto/v32.1
+#EXTINF:-1, 32.2 Movies!
+http://192.168.4.52:5004/auto/v32.2
+#EXTINF:-1, 32.5 Fox WX
+http://192.168.4.52:5004/auto/v32.5
+#EXTINF:-1, 44.1 WSNS-HD
+http://192.168.4.52:5004/auto/v44.1
+#EXTINF:-1, 44.2 T-XITOS
+http://192.168.4.52:5004/auto/v44.2
+#EXTINF:-1, 48.1 The U
+http://192.168.4.52:5004/auto/v48.1
+#EXTINF:-1, 60.1 WXFT-DT
+http://192.168.4.52:5004/auto/v60.1
+#EXTINF:-1, 66.1 WGBO-DT
+http://192.168.4.52:5004/auto/v66.1
+#EXTINF:-1, 102.1 WBBM-NG
+http://192.168.4.52:5004/auto/v102.1
+#EXTINF:-1, 105.1 WMAQ-NG
+http://192.168.4.52:5004/auto/v105.1
+#EXTINF:-1, 109.1 WGN-NG
+http://192.168.4.52:5004/auto/v109.1
+#EXTINF:-1, 132.1 WFLD-NG
+http://192.168.4.52:5004/auto/v132.1
+#EXTINF:-1, 166.1 WGBO-NG
+http://192.168.4.52:5004/auto/v166.1
