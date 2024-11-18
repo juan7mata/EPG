@@ -165,204 +165,6 @@
     <display-name lang="en">Optus Sport 7</display-name>
     <url>http://www.optussport.com.au</url>
   </channel>
-  <programme start="20241117000000 -0400" stop="20241117010000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">Autumn Nations Series</title>
-    <sub-title lang="en">12:00 am - 01:00 am,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Scotland v Portugal.</desc>
-    <category lang="en">Rugby Union - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e2d6865f744a355a2a087567ad6e12c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cEOah4muaeEI%2FVhR2BRDDfJUaugdaxEXI6MQMHJ8yP4MkZXxj%2BzWa7s0LVt%2Fc4nLc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117010000 -0400" stop="20241117020000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">Autumn Nations Series</title>
-    <sub-title lang="en">01:00 am - 02:00 am,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">England v South Africa.</desc>
-    <category lang="en">Rugby Union - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b0357eedd0e9dc8b006b06fc47eea123.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d4n8MwXDS2lRATiSkYN9am3zK49GDyB8hiiPEIBKHM%2BR52uF3FfVMAKOb9Gq1cEWY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117020000 -0400" stop="20241117030000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">Autumn Nations Series</title>
-    <sub-title lang="en">02:00 am - 03:00 am,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">France v New Zealand.</desc>
-    <category lang="en">Rugby Union - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/4009e74d0dccbac8dca9530033a6f539.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4enUfVgSreUYtLCjjoqtuyUj%2FjhLhyYj5g9BLRuC0i0dZoYsJfP8W%2FsXhpTyMetCbA%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117030000 -0400" stop="20241117033000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">MotoGP</title>
-    <sub-title lang="en">03:00 am - 03:30 am,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Action from the Motul Solidarity Grand Prix of Barcelona.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117033000 -0400" stop="20241117040000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">NBA on Fire</title>
-    <sub-title lang="en">03:30 am - 04:00 am,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">The latest news from the world of the NBA.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dd17aef8edca4e395af093dc0b85a1ca.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eiDiU45qIlP08YE8Rj8hU1RpiwVKDVZ%2BERNxJ8Im6zEF5DT027Cp%2FVH0GimXgzOBY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117040000 -0400" stop="20241117060000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">Live: A-League Women</title>
-    <sub-title lang="en">04:00 am - 06:00 am,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Newcastle Jets Women v Wellington Phoenix Women (Kick-off 4.00am). Coverage of the match from Newcastle Sports Ground No 2 in Newcastle, Australia.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f9ebf61cbdc1d672d1d1a11bf0961db4.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c69OUAEVfut%2Bclc6lWuIn77ddN6R8fsHBIZ196Z3%2F1k81%2FZIxN9NSZl1givLYjztI%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117060000 -0400" stop="20241117073000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">Ultimate Pool</title>
-    <sub-title lang="en">06:00 am - 07:30 am,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Action from Group D of the last 16 of the Ultimate Pool Pairs Cup.</desc>
-    <category lang="en">Pool</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/559939c2ca619b3bbc3783d4a811df8d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dVzu9FEsh3C6PM5sqde0IhnIXlYaeY2VNKScU%2Bu%2BbZcm7pHcoZ1xjJ4YI999CKStc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117073000 -0400" stop="20241117074500 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">The Pioneers</title>
-    <sub-title lang="en">07:30 am - 07:45 am,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">The story of Egypt and Liverpool icon Mo Salah.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/5a4a5b6a4193a2d0f9a49eab5c16f7bb.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cNR3OHTcOvSEMYqEHAq2z%2FaceL%2BZ3HF1lyW8K421PYz0iwM%2FOkjkEV5284Of5XhpU%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117074500 -0400" stop="20241117084500 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">One Day International Cricket</title>
-    <sub-title lang="en">07:45 am - 08:45 am,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Sri Lanka v New Zealand. Action from the first ODI in the three-match series at Rangiri Dambulla International Stadium in Dambulla.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1237db22262638ec9d9b5e0edd3e6c41.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cqPjJTyBu9VsEARGQV8jrELBhUH4zIXlXrz%2FuWiVFZnBEGjG1PmR3vX7hKk8fuzms%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117084500 -0400" stop="20241117173000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">Live: One Day International Cricket</title>
-    <sub-title lang="en">08:45 am - 5:30 pm,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Sri Lanka v New Zealand. Coverage of the second ODI in the three-match series from Pallekele International Cricket Stadium.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c1afc6cdf4b1d9d0042ff916ccf6b78f.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4epnUIbr2%2BD9DWNaunSEtBgfTd9qZjcZNp2B2K7rUsczIa97Stj%2BU2aiZOM4KEINGA%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117173000 -0400" stop="20241117183000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">T20 Cricket Highlights</title>
-    <sub-title lang="en">5:30 pm - 6:30 pm,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Australia v Pakistan. Action from the second T20 in the three-match series from Sydney Cricket Ground.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/598c9351d22e43de4bdcba46180f7367.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cvoabb7u71CTj0Vdt8Q0%2BOf0RugQjlPlg3j4bKin9J91%2BUCGkcaDknDd%2BVRHA6uag%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117183000 -0400" stop="20241117190000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">Premier League Stories</title>
-    <sub-title lang="en">6:30 pm - 7:00 pm,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Former Liverpool star Sami Hyypia charts his journey to the top of English football, from his early days to lifting the Champions League trophy in 2005.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/49d48955fc269db29d8714dd1e407fd7.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fP5qSffGH5cp3cGGwpE3jGPpU12%2BSgciQhcQSewwOi4FsYXmQpD8WlGsU4RoDre3c%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117190000 -0400" stop="20241117193000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">Premier League - The Big Interview</title>
-    <sub-title lang="en">7:00 pm - 7:30 pm,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">An interview with a Premier League star of the past or present.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/115354f4582c7aba8e76c166056ae339.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dAKm1M51Jr4FuVVVEdwyA8SjfCeEaVsGr2C2cvhf0R0pebmVXyPiaoulr7ReRDCpQ%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117193000 -0400" stop="20241117200000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">What I Wore</title>
-    <sub-title lang="en">7:30 pm - 8:00 pm,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Liverpool and England legend John Barnes describes his passion for football via the shirts which have defined his life.</desc>
-    <category lang="en">Football - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2c46b9d007bbeeabc8dcbfdeb1c0ad28.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cECN5ZrWJwPQJ8s3p5NemCZWeMF6Ut0NiZwAr8mN2G8iq5MFvwRS0HisqWkYGS3rI%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117200000 -0400" stop="20241117221500 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">Live: NWSL</title>
-    <sub-title lang="en">8:00 pm - 10:15 pm,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Orlando Pride v Kansas City Current (Kick-off 8.00pm). Coverage of the second semi-final from Inter&amp;Co Stadium.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/02c958c59a8c0239b62bb0ed9654887c.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cWZGcnF4Z50QxZCnt%2Fx%2BHKGOGzs8YgVpipXz7MZ0SJ5ki4rF00ooLK6O0ho3zG0KM%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117221500 -0400" stop="20241117224500 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">Original Documentary</title>
-    <sub-title lang="en">10:15 pm - 10:45 pm,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">In Ireland, a home captain recounts the previous night's Christmas party, and a tight and terrible game ends with the captain getting told off by his mother.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/0aa1d12c20ef927f757404e59607733d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fj6a4aYDcddnkcuNAk%2FqThRHIJfi3U3RWIyQNU%2FN2ki3A1lyu1JodUz4GJ22W3LyA%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117224500 -0400" stop="20241117234500 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">MotoGP</title>
-    <sub-title lang="en">10:45 pm - 11:45 pm,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Action from the MotoGP Grand Prix of Barcelona.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117234500 -0400" stop="20241118003000 -0400" channel="TNT Sports 3 HD">
-    <title lang="en">MotoGP Chequered Flag</title>
-    <sub-title lang="en">11:45 pm - 12:30 am,
- Sunday, November 17
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of Barcelona.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6b1010d9584b7c2d39f746c8e230fcc7.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fM0lH3JegDMOa7n339P7hwk6%2BJ8PUPLShU3EiNkrTHqNa16M%2F%2BwpS1DFbocSnMHrs%3D" />
-    <previously-shown />
-  </programme>
   <programme start="20241118003000 -0400" stop="20241118013000 -0400" channel="TNT Sports 3 HD">
     <title lang="en">One Day International Cricket</title>
     <sub-title lang="en">12:30 am - 01:30 am,
@@ -643,7 +445,7 @@
     <sub-title lang="en">10:00 pm - 12:00 am,
  Monday, November 18
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Action from Japan Masters finals, part of the HSBC BWF World Tour.(n)</desc>
+    <desc lang="en">Action from Japan Masters finals, part of the HSBC BWF World Tour.</desc>
     <category lang="en">Badminton</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/ce4509a1b7b9fa9b453ddf10022310ec.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fA3oseUW%2Bgnb02hCpjDKrHvVqUSLa9h5zQrEYAKPYDzSsXSQTuqk1UHBFy2nAAMNA%3D" />
@@ -654,7 +456,7 @@
     <sub-title lang="en">12:00 am - 01:00 am,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Real Madrid Women v Barcelona Women.(n)</desc>
+    <desc lang="en">Real Madrid Women v Barcelona Women.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1e0102b93b4b66dd44a7f1fb0bf7913d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fXAA1oqCz3FcW1cFmdyq7HxZHvAOFqvDvHpP94Eg6MTFHhygX11R2PwuATP%2BJqvOc%3D" />
@@ -665,7 +467,7 @@
     <sub-title lang="en">01:00 am - 02:00 am,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Washington Spirit v NJ/NY Gotham FC in the first semi-final.(n)</desc>
+    <desc lang="en">Washington Spirit v NJ/NY Gotham FC in the first semi-final.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/828a24e9f01e1d5c721618ac55a7ac47.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d0Y2STVxj3NjFYwolHk%2F2ARbitlJx9OUmyVZDxszMI5fPtLiRnSPBSGEc2vDWWpbc%3D" />
@@ -676,7 +478,7 @@
     <sub-title lang="en">02:00 am - 03:00 am,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Orlando Pride v Kansas City Current in the second semi-final.(n)</desc>
+    <desc lang="en">Orlando Pride v Kansas City Current in the second semi-final.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/828a24e9f01e1d5c721618ac55a7ac47.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d0Y2STVxj3NjFYwolHk%2F2ARbitlJx9OUmyVZDxszMI5fPtLiRnSPBSGEc2vDWWpbc%3D" />
@@ -687,7 +489,7 @@
     <sub-title lang="en">03:00 am - 04:00 am,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Australia v Pakistan. Action from the third and final T20 in the series from Ninja Stadium in Hobart.(n)</desc>
+    <desc lang="en">Australia v Pakistan. Action from the third and final T20 in the series from Ninja Stadium in Hobart.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/28d30c65fa6e475e140f3ecb43592561.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f%2F%2BwZABx7jjKfd2rhRJyPuZwH44CIhnxspWXSfr5e8NuJccpO7YGwJ2%2BwDIrGsxAI%3D" />
@@ -698,7 +500,7 @@
     <sub-title lang="en">04:00 am - 05:00 am,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Ireland v Argentina.(n)</desc>
+    <desc lang="en">Ireland v Argentina.</desc>
     <category lang="en">Rugby Union - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1cc99261052ee2ff3309c4b19e81e208.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eJckb1kkoqeaXvSPItAwMyFF%2FDf6F2St%2BlaIV%2B2ofDyfhPDomAFtdnXw2RXstpS0g%3D" />
@@ -709,7 +511,7 @@
     <sub-title lang="en">05:00 am - 06:00 am,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Scotland v Portugal.(n)</desc>
+    <desc lang="en">Scotland v Portugal.</desc>
     <category lang="en">Rugby Union - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e2d6865f744a355a2a087567ad6e12c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cEOah4muaeEI%2FVhR2BRDDfJUaugdaxEXI6MQMHJ8yP4MkZXxj%2BzWa7s0LVt%2Fc4nLc%3D" />
@@ -720,7 +522,7 @@
     <sub-title lang="en">06:00 am - 07:00 am,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A look back at the Rally Latvia.(n)</desc>
+    <desc lang="en">A look back at the Rally Latvia.</desc>
     <category lang="en">Rallying</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6087cfe185821f6d6b73f0ce83672fa9.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e%2Baupj0W4j%2BpFiMs8rWd7gyNLdw0JJTNynz3OdZeGgaoLCVu%2FIQDF6EfU5OZaL6jc%3D" />
@@ -731,7 +533,7 @@
     <sub-title lang="en">07:00 am - 08:00 am,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A look back at the Rally Finland.(n)</desc>
+    <desc lang="en">A look back at the Rally Finland.</desc>
     <category lang="en">Rallying</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6087cfe185821f6d6b73f0ce83672fa9.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e%2Baupj0W4j%2BpFiMs8rWd7gyNLdw0JJTNynz3OdZeGgaoLCVu%2FIQDF6EfU5OZaL6jc%3D" />
@@ -742,7 +544,7 @@
     <sub-title lang="en">08:00 am - 09:00 am,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A look back at the latest action from Rally Greece.(n)</desc>
+    <desc lang="en">A look back at the latest action from Rally Greece.</desc>
     <category lang="en">Rallying</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6087cfe185821f6d6b73f0ce83672fa9.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e%2Baupj0W4j%2BpFiMs8rWd7gyNLdw0JJTNynz3OdZeGgaoLCVu%2FIQDF6EfU5OZaL6jc%3D" />
@@ -753,7 +555,7 @@
     <sub-title lang="en">09:00 am - 10:00 am,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A look back at the latest action from the World Rally Championship.(n)</desc>
+    <desc lang="en">A look back at the latest action from the World Rally Championship.</desc>
     <category lang="en">Rallying</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6087cfe185821f6d6b73f0ce83672fa9.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e%2Baupj0W4j%2BpFiMs8rWd7gyNLdw0JJTNynz3OdZeGgaoLCVu%2FIQDF6EfU5OZaL6jc%3D" />
@@ -764,7 +566,7 @@
     <sub-title lang="en">10:00 am - 10:30 am,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">The latest news and action from Beyond Rally and the World Rally Championship.(n)</desc>
+    <desc lang="en">The latest news and action from Beyond Rally and the World Rally Championship.</desc>
     <category lang="en">Rallying</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e92c2b5abaeab71bab7ff9441adb815e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c534cBm9WPeuZ%2B9zWI8gz41Fqjw5EbiRP9DO8Sw8bZgpO3zzkTFWbLnArhroncD6s%3D" />
@@ -775,7 +577,7 @@
     <sub-title lang="en">10:30 am - 11:00 am,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">The latest news and action from the World Rally Championship and Rally Japan.(n)</desc>
+    <desc lang="en">The latest news and action from the World Rally Championship and Rally Japan.</desc>
     <category lang="en">Rallying</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e92c2b5abaeab71bab7ff9441adb815e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c534cBm9WPeuZ%2B9zWI8gz41Fqjw5EbiRP9DO8Sw8bZgpO3zzkTFWbLnArhroncD6s%3D" />
@@ -786,7 +588,7 @@
     <sub-title lang="en">11:00 am - 1:00 pm,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Action from Japan Masters finals, part of the HSBC BWF World Tour.(n)</desc>
+    <desc lang="en">Action from Japan Masters finals, part of the HSBC BWF World Tour.</desc>
     <category lang="en">Badminton</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/ce4509a1b7b9fa9b453ddf10022310ec.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fA3oseUW%2Bgnb02hCpjDKrHvVqUSLa9h5zQrEYAKPYDzSsXSQTuqk1UHBFy2nAAMNA%3D" />
@@ -797,7 +599,7 @@
     <sub-title lang="en">1:00 pm - 3:00 pm,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A look back at the best of the action from the 1st Test between Australia and India at the Adelaide Oval.(n)</desc>
+    <desc lang="en">A look back at the best of the action from the 1st Test between Australia and India at the Adelaide Oval.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/0838dff81afdab0bea15c070afe94dfd.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d%2FT%2FII2pIzgm9xHfXhRSx3RdMfX%2B7DeiQA4YXe1b3U8Q7Y%2FP1pXfm89CuI6eFr%2Fq8%3D" />
@@ -808,7 +610,7 @@
     <sub-title lang="en">3:00 pm - 5:00 pm,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Review the best of the action from the 2nd Test between Australia and India at the MCG.(n)</desc>
+    <desc lang="en">Review the best of the action from the 2nd Test between Australia and India at the MCG.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/980609aab70e510bd79b3f4b75539b3f.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e2DEfewylcpqLlnxM9Vw7Ag%2FvxersBuBDSl7%2Bf93XDzCX7PatNhLhgCpoZ8vjvk%2BM%3D" />
@@ -819,7 +621,7 @@
     <sub-title lang="en">5:00 pm - 7:00 pm,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A look back at all the best action from the 3rd Test between Australia and India at the SCG in Sydney.(n)</desc>
+    <desc lang="en">A look back at all the best action from the 3rd Test between Australia and India at the SCG in Sydney.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f6a799faafb7f07b6dc2474cb7bb6b32.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dEgUxUeduJxcHevYxpzuEbXIfUaW4jXbD8wmmuBWCkqAG%2FulAdTHU61VQUJ2ZjWJM%3D" />
@@ -830,7 +632,7 @@
     <sub-title lang="en">7:00 pm - 8:00 pm,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">West Indies v England. Action from the fifth and final T20 in the series from Daren Sammy Cricket Ground in Saint Lucia.(n)</desc>
+    <desc lang="en">West Indies v England. Action from the fifth and final T20 in the series from Daren Sammy Cricket Ground in Saint Lucia.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/aa71b51ed9f6265d8c4d798294aea4aa.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fH7Ls8tKg3tpUw%2FOcFB6jDoAOND8sJ9FbUJCYBSYInH27qhh4EjScOYEzdMBcPAdk%3D" />
@@ -841,7 +643,7 @@
     <sub-title lang="en">8:00 pm - 8:30 pm,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">The latest news and action from the World Rally Championship and Rally Japan.(n)</desc>
+    <desc lang="en">The latest news and action from the World Rally Championship and Rally Japan.</desc>
     <category lang="en">Rallying</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e92c2b5abaeab71bab7ff9441adb815e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c534cBm9WPeuZ%2B9zWI8gz41Fqjw5EbiRP9DO8Sw8bZgpO3zzkTFWbLnArhroncD6s%3D" />
@@ -852,7 +654,7 @@
     <sub-title lang="en">8:30 pm - 9:30 pm,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring round three of the 2024 European Fishing League.(n)</desc>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring round three of the 2024 European Fishing League.</desc>
     <category lang="en">Fishing</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9220ef6b6ec311e21e4ce562b3b33c73.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d2yLkd%2FjiuNVuwTENgfu%2BfxGyk33yBHkqLeNrryTtclGzK3WDKA53BUWpdLJARQTQ%3D" />
@@ -863,7 +665,7 @@
     <sub-title lang="en">9:30 pm - 10:30 pm,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Action from the final round of the season in Dubai.(n)</desc>
+    <desc lang="en">Action from the final round of the season in Dubai.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Triathlon</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e54ec07349d9fdbd4f7ec45e4430f8c0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fFz%2FPmctJBtzqZ9BvlHtacthLP6D66izNJ8pqPt5dJMTk%2BDmPgAhBzdvsKVb3qIx4%3D" />
@@ -874,296 +676,329 @@
     <sub-title lang="en">10:30 pm - 11:00 pm,
  Tuesday, November 19
  on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Action from this year's event.(n)</desc>
-    <category lang="en">Sailing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1b688eeb476c0d16bf865eb17dc28846.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dcSHJVWqhknQavt%2B6RBSmOD%2BiByV0D27YSXsnbjS8xs9UEiByTQe6TYAODfBya8xk%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117003000 -0400" stop="20241117013000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">Spanish Women's Liga F</title>
-    <sub-title lang="en">12:30 am - 01:30 am,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Real Madrid Women v Barcelona Women.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1e0102b93b4b66dd44a7f1fb0bf7913d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fXAA1oqCz3FcW1cFmdyq7HxZHvAOFqvDvHpP94Eg6MTFHhygX11R2PwuATP%2BJqvOc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117013000 -0400" stop="20241117024500 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">Born Racers</title>
-    <sub-title lang="en">01:30 am - 02:45 am,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Following motorcycle racing's best young talents across a whole season of the Rookies Cup.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d56fe64aeebb5cf0f4cc092efe53d740.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cPNBI5IW3qyTf1deMYULDTSdZPsS8ETdWf5WVfkES%2FzyyHjL5SOr012JXZKoVeQM8%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117024500 -0400" stop="20241117040000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">Born Racers</title>
-    <sub-title lang="en">02:45 am - 04:00 am,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">At the Spanish Grand Prix, rivals for the title Maximo and Angel battle it out on the track while Eddie comes to terms with a potentially career-ending injury.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d56fe64aeebb5cf0f4cc092efe53d740.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cPNBI5IW3qyTf1deMYULDTSdZPsS8ETdWf5WVfkES%2FzyyHjL5SOr012JXZKoVeQM8%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117040000 -0400" stop="20241117050000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">T20 Cricket Highlights</title>
-    <sub-title lang="en">04:00 am - 05:00 am,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">West Indies v England. Action from the third Twenty20 in the five-match series at Daren Sammy Cricket Ground in Gros Islet, Saint Lucia.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/82725a7636b90fd5c1816b3584e7904e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ccUc4aVhWEsZnkke95GlWfmrBp0XuVxNdaYDGKgEMUkXofbyWXTHSbN9BYK%2FljTqI%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117050000 -0400" stop="20241117070000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">Live: A-League Women</title>
-    <sub-title lang="en">05:00 am - 07:00 am,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Melbourne Victory Women v Western United Women (Kick-off 5.00am). Coverage of the match from La Trobe University Lower Playing Fields in Bundoora, Melbourne.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d5183b90c1fda6bfec3d21a95725dd58.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dNHD16uiUFrBkVXHhzj8EnvyROmm1AKbB2wOIeckHzcFwHFiqG50gccIqsU8BqEkY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117070000 -0400" stop="20241117080000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">NWSL</title>
-    <sub-title lang="en">07:00 am - 08:00 am,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Washington Spirit v NJ/NY Gotham FC in the first semi-final.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/828a24e9f01e1d5c721618ac55a7ac47.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d0Y2STVxj3NjFYwolHk%2F2ARbitlJx9OUmyVZDxszMI5fPtLiRnSPBSGEc2vDWWpbc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117080000 -0400" stop="20241117090000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">Spanish Women's Liga F</title>
-    <sub-title lang="en">08:00 am - 09:00 am,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Real Madrid Women v Barcelona Women.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1e0102b93b4b66dd44a7f1fb0bf7913d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fXAA1oqCz3FcW1cFmdyq7HxZHvAOFqvDvHpP94Eg6MTFHhygX11R2PwuATP%2BJqvOc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117090000 -0400" stop="20241117093000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">NBA on Fire</title>
-    <sub-title lang="en">09:00 am - 09:30 am,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">The latest news from the world of the NBA.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dd17aef8edca4e395af093dc0b85a1ca.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eiDiU45qIlP08YE8Rj8hU1RpiwVKDVZ%2BERNxJ8Im6zEF5DT027Cp%2FVH0GimXgzOBY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117093000 -0400" stop="20241117103000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">Autumn Nations Series</title>
-    <sub-title lang="en">09:30 am - 10:30 am,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Scotland v Portugal.</desc>
-    <category lang="en">Rugby Union - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e2d6865f744a355a2a087567ad6e12c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cEOah4muaeEI%2FVhR2BRDDfJUaugdaxEXI6MQMHJ8yP4MkZXxj%2BzWa7s0LVt%2Fc4nLc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117103000 -0400" stop="20241117113000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">Autumn Nations Series</title>
-    <sub-title lang="en">10:30 am - 11:30 am,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">England v South Africa.</desc>
-    <category lang="en">Rugby Union - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b0357eedd0e9dc8b006b06fc47eea123.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d4n8MwXDS2lRATiSkYN9am3zK49GDyB8hiiPEIBKHM%2BR52uF3FfVMAKOb9Gq1cEWY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117113000 -0400" stop="20241117123000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">Autumn Nations Series</title>
-    <sub-title lang="en">11:30 am - 12:30 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">France v New Zealand.</desc>
-    <category lang="en">Rugby Union - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/4009e74d0dccbac8dca9530033a6f539.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4enUfVgSreUYtLCjjoqtuyUj%2FjhLhyYj5g9BLRuC0i0dZoYsJfP8W%2FsXhpTyMetCbA%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117123000 -0400" stop="20241117130000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">NBA on Fire</title>
-    <sub-title lang="en">12:30 pm - 1:00 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">The latest news from the world of the NBA.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dd17aef8edca4e395af093dc0b85a1ca.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eiDiU45qIlP08YE8Rj8hU1RpiwVKDVZ%2BERNxJ8Im6zEF5DT027Cp%2FVH0GimXgzOBY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117130000 -0400" stop="20241117143000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">NBA</title>
-    <sub-title lang="en">1:00 pm - 2:30 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Charlotte Hornets v Milwaukee Bucks.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/8778522e5a92a4167085f2f619074c79.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fmNepugqfCmkEbg7ayNQOvJMmRU6fMK8XnuCpmM%2BJd5u%2FFemEx4557mgPK%2Bfz0P%2B0%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117143000 -0400" stop="20241117153000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">T20 Cricket Highlights</title>
-    <sub-title lang="en">2:30 pm - 3:30 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">West Indies v England. Action from the fourth T20 in the five-match series from Daren Sammy Cricket Ground in Saint Lucia.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/fe72a5ff976ce2f8871dc485283c9235.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eX4MbzH3PepRtAxiEDYsoYHWo6KwqCf5Qzkjb7BuOdkqoGwGIkv67xAEYB5bulG0g%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117153000 -0400" stop="20241117170000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">NBA</title>
-    <sub-title lang="en">3:30 pm - 5:00 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Charlotte Hornets v Milwaukee Bucks.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/8778522e5a92a4167085f2f619074c79.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fmNepugqfCmkEbg7ayNQOvJMmRU6fMK8XnuCpmM%2BJd5u%2FFemEx4557mgPK%2Bfz0P%2B0%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117170000 -0400" stop="20241117173000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">Vendee Globe Highlights</title>
-    <sub-title lang="en">5:00 pm - 5:30 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
     <desc lang="en">Action from this year's event.</desc>
     <category lang="en">Sailing</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1b688eeb476c0d16bf865eb17dc28846.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dcSHJVWqhknQavt%2B6RBSmOD%2BiByV0D27YSXsnbjS8xs9UEiByTQe6TYAODfBya8xk%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117173000 -0400" stop="20241117183000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">NWSL</title>
-    <sub-title lang="en">5:30 pm - 6:30 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Washington Spirit v NJ/NY Gotham FC in the first semi-final.</desc>
-    <category lang="en">Football - Club</category>
+  <programme start="20241119230000 -0400" stop="20241120010000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">Badminton</title>
+    <sub-title lang="en">11:00 pm - 01:00 am,
+ Tuesday, November 19
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Action from Japan Masters finals, part of the HSBC BWF World Tour.(n)</desc>
+    <category lang="en">Badminton</category>
     <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/828a24e9f01e1d5c721618ac55a7ac47.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d0Y2STVxj3NjFYwolHk%2F2ARbitlJx9OUmyVZDxszMI5fPtLiRnSPBSGEc2vDWWpbc%3D" />
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/ce4509a1b7b9fa9b453ddf10022310ec.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fA3oseUW%2Bgnb02hCpjDKrHvVqUSLa9h5zQrEYAKPYDzSsXSQTuqk1UHBFy2nAAMNA%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117183000 -0400" stop="20241117200000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">NBA</title>
-    <sub-title lang="en">6:30 pm - 8:00 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Charlotte Hornets v Milwaukee Bucks.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/8778522e5a92a4167085f2f619074c79.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fmNepugqfCmkEbg7ayNQOvJMmRU6fMK8XnuCpmM%2BJd5u%2FFemEx4557mgPK%2Bfz0P%2B0%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117200000 -0400" stop="20241117203000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">NBA on Fire</title>
-    <sub-title lang="en">8:00 pm - 8:30 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">The latest news from the world of the NBA.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dd17aef8edca4e395af093dc0b85a1ca.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eiDiU45qIlP08YE8Rj8hU1RpiwVKDVZ%2BERNxJ8Im6zEF5DT027Cp%2FVH0GimXgzOBY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117203000 -0400" stop="20241117213000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">MotoGP</title>
-    <sub-title lang="en">8:30 pm - 9:30 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the MotoGP Grand Prix of Barcelona.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117213000 -0400" stop="20241117221500 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">MotoGP Chequered Flag</title>
-    <sub-title lang="en">9:30 pm - 10:15 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of Barcelona.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6b1010d9584b7c2d39f746c8e230fcc7.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fM0lH3JegDMOa7n339P7hwk6%2BJ8PUPLShU3EiNkrTHqNa16M%2F%2BwpS1DFbocSnMHrs%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117221500 -0400" stop="20241117223000 -0400" channel="TNT Sports 4 HD">
+  <programme start="20241120010000 -0400" stop="20241120011500 -0400" channel="TNT Sports 3 HD">
     <title lang="en">TNT Sports Cricket Reload</title>
-    <sub-title lang="en">10:15 pm - 10:30 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A look back at Australia v Pakistan in the first T20 of the series.</desc>
+    <sub-title lang="en">01:00 am - 01:15 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">A look back at West Indies v England from the fifth and final T20 in the series.(n)</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d0bda0d7991ffc46088b9ea2c1b5d4f5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fOY%2FXL7K%2FHeoE31bQuW6dzod2FTe6IZUAynnjI4fiI53YS08D3TSfX0%2FKAH4VeAKQ%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117223000 -0400" stop="20241117224500 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">No Filter Rugby</title>
-    <sub-title lang="en">10:30 pm - 10:45 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A special behind the scenes look at Ireland v New Zealand.</desc>
-    <category lang="en">Rugby Union - Domestic</category>
+  <programme start="20241120011500 -0400" stop="20241120021500 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">01:15 am - 02:15 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Action from the Moto3 Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motorcycling</category>
     <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/afb8b84f9be984c1ffac1225ebc02f72.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d1%2FhB0uYPYt3RGxTaehKfAn%2Fhhjvfde7ry0L3HnGdvCTG%2BHfH9wMyUsoQJ3jdUwUI%3D" />
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117224500 -0400" stop="20241117230000 -0400" channel="TNT Sports 4 HD">
-    <title lang="en">No Filter Rugby</title>
-    <sub-title lang="en">10:45 pm - 11:00 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A special behind the scenes look at England v South Africa.</desc>
-    <category lang="en">Rugby Union - Domestic</category>
+  <programme start="20241120021500 -0400" stop="20241120031500 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">02:15 am - 03:15 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Action from the Moto2 Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motorcycling</category>
     <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/afb8b84f9be984c1ffac1225ebc02f72.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d1%2FhB0uYPYt3RGxTaehKfAn%2Fhhjvfde7ry0L3HnGdvCTG%2BHfH9wMyUsoQJ3jdUwUI%3D" />
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117230000 -0400" stop="20241117233000 -0400" channel="TNT Sports 4 HD">
+  <programme start="20241120031500 -0400" stop="20241120034500 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">03:15 am - 03:45 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Action from the Motul Solidarity Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120034500 -0400" stop="20241120044500 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">03:45 am - 04:45 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Action from the MotoGP Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120044500 -0400" stop="20241120053000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <sub-title lang="en">04:45 am - 05:30 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6b1010d9584b7c2d39f746c8e230fcc7.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fM0lH3JegDMOa7n339P7hwk6%2BJ8PUPLShU3EiNkrTHqNa16M%2F%2BwpS1DFbocSnMHrs%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120053000 -0400" stop="20241120060000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">Between the Lines</title>
+    <sub-title lang="en">05:30 am - 06:00 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Rio Ferdinand interviews Manchester City star Erling Haaland.(n)</desc>
+    <category lang="en">General</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/458cca498346f97e4733c710b528610e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fn%2Bf847AkarRSj7Mifk74dKaGotGa18DBIJS2F4zKpeUVBgx0aVcDZ%2FrKtN3NHSbI%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120060000 -0400" stop="20241120070000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">T20 Cricket Highlights</title>
+    <sub-title lang="en">06:00 am - 07:00 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Australia v Pakistan. Action from the first Twenty20 in the three-match series at The Gabba in Brisbane.(n)</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dc50e991604d60d0e5cd13a65bdf8887.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d2I42bKxtLwZ9nD5oXKu1BKPB92lRMyh%2Fqk5VcDtP8KdgkWmzOEbic4W1c3WGa8PY%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120070000 -0400" stop="20241120080000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">T20 Cricket Highlights</title>
+    <sub-title lang="en">07:00 am - 08:00 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Australia v Pakistan. Action from the second T20 in the three-match series from Sydney Cricket Ground.(n)</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/598c9351d22e43de4bdcba46180f7367.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cvoabb7u71CTj0Vdt8Q0%2BOf0RugQjlPlg3j4bKin9J91%2BUCGkcaDknDd%2BVRHA6uag%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120080000 -0400" stop="20241120090000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">T20 Cricket Highlights</title>
+    <sub-title lang="en">08:00 am - 09:00 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Australia v Pakistan. Action from the third and final T20 in the series from Ninja Stadium in Hobart.(n)</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/28d30c65fa6e475e140f3ecb43592561.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f%2F%2BwZABx7jjKfd2rhRJyPuZwH44CIhnxspWXSfr5e8NuJccpO7YGwJ2%2BwDIrGsxAI%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120090000 -0400" stop="20241120100000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">09:00 am - 10:00 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Action from the Moto3 Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120100000 -0400" stop="20241120110000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">10:00 am - 11:00 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Action from the Moto2 Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120110000 -0400" stop="20241120113000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">11:00 am - 11:30 am,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Action from the Motul Solidarity Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120113000 -0400" stop="20241120123000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">11:30 am - 12:30 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Action from the MotoGP Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120123000 -0400" stop="20241120131500 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <sub-title lang="en">12:30 pm - 1:15 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6b1010d9584b7c2d39f746c8e230fcc7.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fM0lH3JegDMOa7n339P7hwk6%2BJ8PUPLShU3EiNkrTHqNa16M%2F%2BwpS1DFbocSnMHrs%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120131500 -0400" stop="20241120133000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">What I Wore</title>
+    <sub-title lang="en">1:15 pm - 1:30 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Former Real Madrid and Manchester United defender Raphael Varane describes his passion for football via the shirts which have defined his life.(n)</desc>
+    <category lang="en">Football - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2c46b9d007bbeeabc8dcbfdeb1c0ad28.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cECN5ZrWJwPQJ8s3p5NemCZWeMF6Ut0NiZwAr8mN2G8iq5MFvwRS0HisqWkYGS3rI%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120133000 -0400" stop="20241120143000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">Spanish Women's Liga F</title>
+    <sub-title lang="en">1:30 pm - 2:30 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Real Madrid Women v Barcelona Women.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1e0102b93b4b66dd44a7f1fb0bf7913d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fXAA1oqCz3FcW1cFmdyq7HxZHvAOFqvDvHpP94Eg6MTFHhygX11R2PwuATP%2BJqvOc%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120143000 -0400" stop="20241120153000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">WRC Review</title>
+    <sub-title lang="en">2:30 pm - 3:30 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">A look back at the latest action from Rally Japan.(n)</desc>
+    <category lang="en">Rallying</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6087cfe185821f6d6b73f0ce83672fa9.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e%2Baupj0W4j%2BpFiMs8rWd7gyNLdw0JJTNynz3OdZeGgaoLCVu%2FIQDF6EfU5OZaL6jc%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120153000 -0400" stop="20241120163000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">WRC Review</title>
+    <sub-title lang="en">3:30 pm - 4:30 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">A look back at the latest action from the World Rally Championship and Rally Japan.(n)</desc>
+    <category lang="en">Rallying</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6087cfe185821f6d6b73f0ce83672fa9.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e%2Baupj0W4j%2BpFiMs8rWd7gyNLdw0JJTNynz3OdZeGgaoLCVu%2FIQDF6EfU5OZaL6jc%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120163000 -0400" stop="20241120170000 -0400" channel="TNT Sports 3 HD">
     <title lang="en">The WRC Magazine</title>
-    <sub-title lang="en">11:00 pm - 11:30 pm,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">The latest news and action from Beyond Rally and the World Rally Championship.</desc>
+    <sub-title lang="en">4:30 pm - 5:00 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">The latest news and action from the World Rally Championship and Rally Japan.(n)</desc>
     <category lang="en">Rallying</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e92c2b5abaeab71bab7ff9441adb815e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c534cBm9WPeuZ%2B9zWI8gz41Fqjw5EbiRP9DO8Sw8bZgpO3zzkTFWbLnArhroncD6s%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117233000 -0400" stop="20241118000000 -0400" channel="TNT Sports 4 HD">
+  <programme start="20241120170000 -0400" stop="20241120183000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">Ultimate Pool</title>
+    <sub-title lang="en">5:00 pm - 6:30 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Action from Finals Night of the Ultimate Pool Pairs Cup.(n)</desc>
+    <category lang="en">Pool</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/559939c2ca619b3bbc3783d4a811df8d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dVzu9FEsh3C6PM5sqde0IhnIXlYaeY2VNKScU%2Bu%2BbZcm7pHcoZ1xjJ4YI999CKStc%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120183000 -0400" stop="20241120193000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">One Day International Cricket</title>
+    <sub-title lang="en">6:30 pm - 7:30 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">Sri Lanka v New Zealand. Action from the third and final ODI in the series from Pallekele International Cricket Stadium.(n)</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/15a8b9ac5cbeaf681c2e54bb2c7a49f2.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cX%2BK%2BgrlxSA0uLZ3iRc%2BR5UdkYHFuON3iloc1HNaTyjTuYEB0EtSl3AXuErnUbdYE%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120193000 -0400" stop="20241120203000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">T100 Triathlon World Tour</title>
+    <sub-title lang="en">7:30 pm - 8:30 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">The latest action from the Dubai T100 World Championship Final.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Triathlon</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e54ec07349d9fdbd4f7ec45e4430f8c0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fFz%2FPmctJBtzqZ9BvlHtacthLP6D66izNJ8pqPt5dJMTk%2BDmPgAhBzdvsKVb3qIx4%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120203000 -0400" stop="20241120210000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">TNT Sports Reload</title>
+    <sub-title lang="en">8:30 pm - 9:00 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">General</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120210000 -0400" stop="20241120213000 -0400" channel="TNT Sports 3 HD">
     <title lang="en">The WRC Magazine</title>
-    <sub-title lang="en">11:30 pm - 12:00 am,
- Sunday, November 17
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">The latest news and action from the World Rally Championship and Rally Japan.</desc>
+    <sub-title lang="en">9:00 pm - 9:30 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">The latest news and action from the World Rally Championship and Rally Japan.(n)</desc>
     <category lang="en">Rallying</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e92c2b5abaeab71bab7ff9441adb815e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c534cBm9WPeuZ%2B9zWI8gz41Fqjw5EbiRP9DO8Sw8bZgpO3zzkTFWbLnArhroncD6s%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120213000 -0400" stop="20241120220000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">Fight Week</title>
+    <sub-title lang="en">9:30 pm - 10:00 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">A look back at UFC 309 at Madison Square Garden, New York.(n)</desc>
+    <category lang="en">Combat Sports (without Own Categ</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/73287e1be1528c591539fe243ba6c240.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eebavp6hc%2FKfvJOe7CtuSgKp49oDSvYUp8NTfESWIpNRG%2FK0Cs2BI8WhlT6hCN%2FV8%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120220000 -0400" stop="20241120223000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">UFC Connected</title>
+    <sub-title lang="en">10:00 pm - 10:30 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">A look back at Fight Island for Tom Aspinall's unforgettable debut.(n)</desc>
+    <category lang="en">Martial Sports</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/91457b4ec747916a6f141d3aa8644ca7.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fnvXycX8hp%2F13Fn9lpttoGf9WNWoo4WyUVAu1T72cuBsSOAgpW6go4kjl%2FOAqr4Kw%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120223000 -0400" stop="20241120233000 -0400" channel="TNT Sports 3 HD">
+    <title lang="en">UFC Main Event</title>
+    <sub-title lang="en">10:30 pm - 11:30 pm,
+ Wednesday, November 20
+ on TNT Sports 3 HD (432)</sub-title>
+    <desc lang="en">A look back at Alexander Volkanovski and Max Holloway's UFC 276 bout as the pair met in the featherweight division for the third time back in July 2022.(n)</desc>
+    <category lang="en">Martial Sports</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d9719528dd8cd4d36f722f23cfb29afb.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d%2FZ3IiLPPFDvq0s497vpjfNntI6SJO21FU4m%2BfXYNZo1U0xtwpT%2Fid42iNDExEdto%3D" />
     <previously-shown />
   </programme>
   <programme start="20241118000000 -0400" stop="20241118010000 -0400" channel="TNT Sports 4 HD">
@@ -1391,7 +1226,7 @@
     <sub-title lang="en">11:00 pm - 12:30 am,
  Monday, November 18
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Minnesota Timberwolves v Phoenix Suns.(n)</desc>
+    <desc lang="en">Minnesota Timberwolves v Phoenix Suns.</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/8ab408d35528f2adea1533c991d8d42f.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cr0C3qJd1NNtymuAYbbEfUSCi3XxILvED2JKHu7R8v3FWusvwC4Fg3xmNTT2dRCr4%3D" />
@@ -1402,7 +1237,7 @@
     <sub-title lang="en">12:30 am - 02:00 am,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Oklahoma City Thunder v Dallas Mavericks.(n)</desc>
+    <desc lang="en">Oklahoma City Thunder v Dallas Mavericks.</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7b3901e98fa2184880b7cf60e029bd1d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dkpg0Gy5Um6sd%2BMp7iUOgCzDziDC3E5x7SLLBZ%2FDWDC%2F6INGrNXmLRkLx8giaJ7Ww%3D" />
@@ -1413,7 +1248,7 @@
     <sub-title lang="en">02:00 am - 03:00 am,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A conversation between Charles Barkley and Julius 'Dr. J' Erving.(n)</desc>
+    <desc lang="en">A conversation between Charles Barkley and Julius 'Dr. J' Erving.</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9455a1f4a7212bec3b6d94d7b696aef7.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIZ3XaOc8MU7Z14ScFWp%2Bl64T8nUb07gCkTfDqRB6GBynOo87RetjhDESVrclnUes%3D" />
@@ -1424,7 +1259,7 @@
     <sub-title lang="en">03:00 am - 04:00 am,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">We revisit the thrilling 1993 Japanese Grand Prix at the Suzuka Circuit as Americans and bitter rivals Kevin Schwantz and Wayne Rainey went wheel-to-wheel in a tense and epic duel.(n)</desc>
+    <desc lang="en">We revisit the thrilling 1993 Japanese Grand Prix at the Suzuka Circuit as Americans and bitter rivals Kevin Schwantz and Wayne Rainey went wheel-to-wheel in a tense and epic duel.</desc>
     <category lang="en">Motorcycling</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/4ddea67e4147377ce89b9f29d29fbc8a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dDQzS5%2BN7ru6sXIRaj19o450l9GY49GLg8qr5zcMRMIqI%2F1FPzTjo%2B4hEJj1oX8Tc%3D" />
@@ -1435,7 +1270,7 @@
     <sub-title lang="en">04:00 am - 05:00 am,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">We revisit the controversial 1993 Dutch Grand Prix at Assen, featuring an enthralling three-way battle for first place between Kevin Schwantz, Alex Barros and Mick Doohan.(n)</desc>
+    <desc lang="en">We revisit the controversial 1993 Dutch Grand Prix at Assen, featuring an enthralling three-way battle for first place between Kevin Schwantz, Alex Barros and Mick Doohan.</desc>
     <category lang="en">Motorcycling</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/4ddea67e4147377ce89b9f29d29fbc8a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dDQzS5%2BN7ru6sXIRaj19o450l9GY49GLg8qr5zcMRMIqI%2F1FPzTjo%2B4hEJj1oX8Tc%3D" />
@@ -1446,7 +1281,7 @@
     <sub-title lang="en">05:00 am - 06:00 am,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">We revisit the incident-packed 1993 British Grand Prix at Donington as the battle for the title raged on between Americans and arch-rivals Kevin Schwantz and Wayne Rainey.(n)</desc>
+    <desc lang="en">We revisit the incident-packed 1993 British Grand Prix at Donington as the battle for the title raged on between Americans and arch-rivals Kevin Schwantz and Wayne Rainey.</desc>
     <category lang="en">Motorcycling</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/a063d9f46c5321059cb5f9acb4ae6391.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dPv%2FbJgQ1aFzo4Sbrsoj5z%2Bomh%2BzATImiMytpYEJeZsdQgv3sKIi86JAAW%2Ba8l93w%3D" />
@@ -1457,7 +1292,7 @@
     <sub-title lang="en">06:00 am - 08:30 am,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">New York Yankees v Los Angeles Dodgers. Action from game five of the World Series at Yankee Stadium.(n)</desc>
+    <desc lang="en">New York Yankees v Los Angeles Dodgers. Action from game five of the World Series at Yankee Stadium.</desc>
     <category lang="en">Baseball</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/73be2784b9ad1c127343dc2424004494.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ehHszldsOiYGiVtF6TLc7AeNw6ECKFU10DIa%2Bn9JfehzcYiT8HXrY%2B726pT9MzdSo%3D" />
@@ -1468,7 +1303,7 @@
     <sub-title lang="en">08:30 am - 09:30 am,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A look back at the 2024 World Series.(n)</desc>
+    <desc lang="en">A look back at the 2024 World Series.</desc>
     <category lang="en">Baseball</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f1b33117a656827ffecfb40349e2f5d0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eLN3x4R632Y2Sryi%2Fc2%2BPV%2BcEHXTcxkPt%2F2rCIlqOIOZ1u62vyE6DSQxmVmTzqnso%3D" />
@@ -1479,7 +1314,7 @@
     <sub-title lang="en">09:30 am - 10:00 am,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Luis Diaz is joined by those who he grew up around.(n)</desc>
+    <desc lang="en">Luis Diaz is joined by those who he grew up around.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b7d121db7abb898fd38daaac2d4c6af0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4esp0dgEok2xWUIpD3IOijuCeun0Ta%2BgNtgBJXyxQqG1fbcLcwb8lqv9flwDJA2dxA%3D" />
@@ -1490,7 +1325,7 @@
     <sub-title lang="en">10:00 am - 11:00 am,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring round three of the 2024 European Fishing League.(n)</desc>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring round three of the 2024 European Fishing League.</desc>
     <category lang="en">Fishing</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9220ef6b6ec311e21e4ce562b3b33c73.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d2yLkd%2FjiuNVuwTENgfu%2BfxGyk33yBHkqLeNrryTtclGzK3WDKA53BUWpdLJARQTQ%3D" />
@@ -1501,7 +1336,7 @@
     <sub-title lang="en">11:00 am - 11:30 am,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from this year's event.(n)</desc>
+    <desc lang="en">Action from this year's event.</desc>
     <category lang="en">Sailing</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1b688eeb476c0d16bf865eb17dc28846.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dcSHJVWqhknQavt%2B6RBSmOD%2BiByV0D27YSXsnbjS8xs9UEiByTQe6TYAODfBya8xk%3D" />
@@ -1512,7 +1347,7 @@
     <sub-title lang="en">11:30 am - 1:00 pm,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Minnesota Timberwolves v Phoenix Suns.(n)</desc>
+    <desc lang="en">Minnesota Timberwolves v Phoenix Suns.</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/8ab408d35528f2adea1533c991d8d42f.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cr0C3qJd1NNtymuAYbbEfUSCi3XxILvED2JKHu7R8v3FWusvwC4Fg3xmNTT2dRCr4%3D" />
@@ -1523,7 +1358,7 @@
     <sub-title lang="en">1:00 pm - 2:30 pm,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Oklahoma City Thunder v Dallas Mavericks.(n)</desc>
+    <desc lang="en">Oklahoma City Thunder v Dallas Mavericks.</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7b3901e98fa2184880b7cf60e029bd1d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dkpg0Gy5Um6sd%2BMp7iUOgCzDziDC3E5x7SLLBZ%2FDWDC%2F6INGrNXmLRkLx8giaJ7Ww%3D" />
@@ -1534,7 +1369,7 @@
     <sub-title lang="en">2:30 pm - 3:30 pm,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the final round of the season in Dubai.(n)</desc>
+    <desc lang="en">Action from the final round of the season in Dubai.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Triathlon</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e54ec07349d9fdbd4f7ec45e4430f8c0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fFz%2FPmctJBtzqZ9BvlHtacthLP6D66izNJ8pqPt5dJMTk%2BDmPgAhBzdvsKVb3qIx4%3D" />
@@ -1545,7 +1380,7 @@
     <sub-title lang="en">3:30 pm - 6:00 pm,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A look back at Miami Heat v Oklahoma City Thunder from game five of the 2011/12 NBA Finals.(n)</desc>
+    <desc lang="en">A look back at Miami Heat v Oklahoma City Thunder from game five of the 2011/12 NBA Finals.</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/47f9c9941d63a3c56ef85ac1b076d333.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dhIw%2Bc%2FKyf%2Ffq%2BDP9FjXxmvSHNljXS0wdU%2B%2FmqSUgWZ1gn3Jh9E5gtepBCHcP%2FWaA%3D" />
@@ -1556,7 +1391,7 @@
     <sub-title lang="en">6:00 pm - 6:30 pm,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">The latest news from the world of the NBA.(n)</desc>
+    <desc lang="en">The latest news from the world of the NBA.</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dd17aef8edca4e395af093dc0b85a1ca.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eiDiU45qIlP08YE8Rj8hU1RpiwVKDVZ%2BERNxJ8Im6zEF5DT027Cp%2FVH0GimXgzOBY%3D" />
@@ -1567,7 +1402,7 @@
     <sub-title lang="en">6:30 pm - 8:00 pm,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Minnesota Timberwolves v Phoenix Suns.(n)</desc>
+    <desc lang="en">Minnesota Timberwolves v Phoenix Suns.</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/8ab408d35528f2adea1533c991d8d42f.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cr0C3qJd1NNtymuAYbbEfUSCi3XxILvED2JKHu7R8v3FWusvwC4Fg3xmNTT2dRCr4%3D" />
@@ -1578,7 +1413,7 @@
     <sub-title lang="en">8:00 pm - 9:30 pm,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Oklahoma City Thunder v Dallas Mavericks.(n)</desc>
+    <desc lang="en">Oklahoma City Thunder v Dallas Mavericks.</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7b3901e98fa2184880b7cf60e029bd1d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dkpg0Gy5Um6sd%2BMp7iUOgCzDziDC3E5x7SLLBZ%2FDWDC%2F6INGrNXmLRkLx8giaJ7Ww%3D" />
@@ -1589,7 +1424,7 @@
     <sub-title lang="en">9:30 pm - 10:00 pm,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A look back at UFC 309 at Madison Square Garden, New York.(n)</desc>
+    <desc lang="en">A look back at UFC 309 at Madison Square Garden, New York.</desc>
     <category lang="en">Combat Sports (without Own Categ</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/73287e1be1528c591539fe243ba6c240.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eebavp6hc%2FKfvJOe7CtuSgKp49oDSvYUp8NTfESWIpNRG%2FK0Cs2BI8WhlT6hCN%2FV8%3D" />
@@ -1600,75 +1435,263 @@
     <sub-title lang="en">10:00 pm - 11:45 pm,
  Tuesday, November 19
  on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A look at how the UFC has become a leading force in combat sports.(n)</desc>
+    <desc lang="en">A look at how the UFC has become a leading force in combat sports.</desc>
     <category lang="en">General</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/18818a63d3e02441d4f347f896b07cce.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fJxH0hpRb64O6TI91eiXC%2F10lpDYvljkE%2FmaHZ4w28Ad404MK82som90ak6tr7iIs%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117010000 -0400" stop="20241117090000 -0400" channel="TNT Sports Box Office">
-    <title lang="en">Live: UFC 309: Jones v Miocic</title>
-    <sub-title lang="en">01:00 am - 09:00 am,
- Sunday, November 17
- on TNT Sports Box Office (494)</sub-title>
-    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
-    <category lang="en">Combat Sports (without Own Categ</category>
+  <programme start="20241119234500 -0400" stop="20241120001500 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">UFC Connected</title>
+    <sub-title lang="en">11:45 pm - 12:15 am,
+ Tuesday, November 19
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">A look back at Fight Island for Tom Aspinall's unforgettable debut.(n)</desc>
+    <category lang="en">Martial Sports</category>
     <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c41a2649c40e9312d9cccf99d9e490ef.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e1KgJ0fDwGmiFeNHNCcXRPE3dM6RUJXwBwDrA9JDUah4SASQHI4NIKLWLErB19tXw%3D" />
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/91457b4ec747916a6f141d3aa8644ca7.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fnvXycX8hp%2F13Fn9lpttoGf9WNWoo4WyUVAu1T72cuBsSOAgpW6go4kjl%2FOAqr4Kw%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117090000 -0400" stop="20241117120000 -0400" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
-    <sub-title lang="en">09:00 am - 12:00 pm,
- Sunday, November 17
- on TNT Sports Box Office (494)</sub-title>
-    <category lang="en">Off-Air</category>
-    <category lang="en">Special</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7b8f3fde65dbcc90658ec72213d6439a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eSlVP%2FE%2BmQcZrZdBpYCJ2jAQhoOnY47KWnygAJxcJCOokcJO2%2FbGwhBDPs9tyBr54%3D" />
+  <programme start="20241120001500 -0400" stop="20241120011500 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">UFC Main Event</title>
+    <sub-title lang="en">12:15 am - 01:15 am,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">A look back at Kamaru Usman v Leon Edwards.(n)</desc>
+    <category lang="en">Martial Sports</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d9719528dd8cd4d36f722f23cfb29afb.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d%2FZ3IiLPPFDvq0s497vpjfNntI6SJO21FU4m%2BfXYNZo1U0xtwpT%2Fid42iNDExEdto%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117120000 -0400" stop="20241117150000 -0400" channel="TNT Sports Box Office">
-    <title lang="en">UFC 309: Jones v Miocic</title>
-    <sub-title lang="en">12:00 pm - 3:00 pm,
- Sunday, November 17
- on TNT Sports Box Office (494)</sub-title>
-    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
-    <category lang="en">Combat Sports (without Own Categ</category>
+  <programme start="20241120011500 -0400" stop="20241120021500 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">UFC Main Event</title>
+    <sub-title lang="en">01:15 am - 02:15 am,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">Israel Adesanya v Alex Pereira.(n)</desc>
+    <category lang="en">Martial Sports</category>
     <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d9719528dd8cd4d36f722f23cfb29afb.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d%2FZ3IiLPPFDvq0s497vpjfNntI6SJO21FU4m%2BfXYNZo1U0xtwpT%2Fid42iNDExEdto%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117150000 -0400" stop="20241117180000 -0400" channel="TNT Sports Box Office">
-    <title lang="en">UFC 309: Jones v Miocic</title>
-    <sub-title lang="en">3:00 pm - 6:00 pm,
- Sunday, November 17
- on TNT Sports Box Office (494)</sub-title>
-    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
-    <category lang="en">Combat Sports (without Own Categ</category>
+  <programme start="20241120021500 -0400" stop="20241120031500 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">UFC Main Event</title>
+    <sub-title lang="en">02:15 am - 03:15 am,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">Julianna Pena v Amanda Nunes from July 2022.(n)</desc>
+    <category lang="en">Martial Sports</category>
     <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d9719528dd8cd4d36f722f23cfb29afb.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d%2FZ3IiLPPFDvq0s497vpjfNntI6SJO21FU4m%2BfXYNZo1U0xtwpT%2Fid42iNDExEdto%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117180000 -0400" stop="20241117210000 -0400" channel="TNT Sports Box Office">
-    <title lang="en">UFC 309: Jones v Miocic</title>
-    <sub-title lang="en">6:00 pm - 9:00 pm,
- Sunday, November 17
- on TNT Sports Box Office (494)</sub-title>
-    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
-    <category lang="en">Combat Sports (without Own Categ</category>
+  <programme start="20241120031500 -0400" stop="20241120041500 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">UFC Main Event</title>
+    <sub-title lang="en">03:15 am - 04:15 am,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">A look back at UFC 275 as Glover Teixeira and Jiri Prochazka met in the light heavyweight division in Singapore back in 2022.(n)</desc>
+    <category lang="en">Martial Sports</category>
     <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d9719528dd8cd4d36f722f23cfb29afb.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d%2FZ3IiLPPFDvq0s497vpjfNntI6SJO21FU4m%2BfXYNZo1U0xtwpT%2Fid42iNDExEdto%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117210000 -0400" stop="20241118000000 -0400" channel="TNT Sports Box Office">
-    <title lang="en">UFC 309: Jones v Miocic</title>
-    <sub-title lang="en">9:00 pm - 12:00 am,
- Sunday, November 17
- on TNT Sports Box Office (494)</sub-title>
-    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
-    <category lang="en">Combat Sports (without Own Categ</category>
+  <programme start="20241120041500 -0400" stop="20241120051500 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">UFC Main Event</title>
+    <sub-title lang="en">04:15 am - 05:15 am,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">A look back at the action from UFC 272 as Colby Covington and Jorge Masvidal met in the welterweight division in Las Vegas back in March 2022.(n)</desc>
+    <category lang="en">Martial Sports</category>
     <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d9719528dd8cd4d36f722f23cfb29afb.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d%2FZ3IiLPPFDvq0s497vpjfNntI6SJO21FU4m%2BfXYNZo1U0xtwpT%2Fid42iNDExEdto%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120051500 -0400" stop="20241120054500 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">Vendee Globe Highlights</title>
+    <sub-title lang="en">05:15 am - 05:45 am,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">Action from this year's event.(n)</desc>
+    <category lang="en">Sailing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1b688eeb476c0d16bf865eb17dc28846.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dcSHJVWqhknQavt%2B6RBSmOD%2BiByV0D27YSXsnbjS8xs9UEiByTQe6TYAODfBya8xk%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120054500 -0400" stop="20241120060000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">What I Wore</title>
+    <sub-title lang="en">05:45 am - 06:00 am,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">Manchester City defender Kyle Walker describes his passion for football via the shirts which have defined his life.(n)</desc>
+    <category lang="en">Football - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2c46b9d007bbeeabc8dcbfdeb1c0ad28.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cECN5ZrWJwPQJ8s3p5NemCZWeMF6Ut0NiZwAr8mN2G8iq5MFvwRS0HisqWkYGS3rI%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120060000 -0400" stop="20241120070000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">MLB Classic</title>
+    <sub-title lang="en">06:00 am - 07:00 am,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">A look back at the 2019 World Series between the Houston Astros and Washington Nationals.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f1b33117a656827ffecfb40349e2f5d0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eLN3x4R632Y2Sryi%2Fc2%2BPV%2BcEHXTcxkPt%2F2rCIlqOIOZ1u62vyE6DSQxmVmTzqnso%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120070000 -0400" stop="20241120080000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">MLB Classic</title>
+    <sub-title lang="en">07:00 am - 08:00 am,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">A look back at the 2020 MLB World Series between the Los Angeles Dodgers and Tampa Bay Rays, which took place at a neutral site during the Covid-19 pandemic.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f1b33117a656827ffecfb40349e2f5d0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eLN3x4R632Y2Sryi%2Fc2%2BPV%2BcEHXTcxkPt%2F2rCIlqOIOZ1u62vyE6DSQxmVmTzqnso%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120080000 -0400" stop="20241120090000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">MLB Classic</title>
+    <sub-title lang="en">08:00 am - 09:00 am,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">A look back at the 2021 MLB World Series as the Atlanta Braves and Houston Astros battled it out for the Commissioner's Trophy.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f1b33117a656827ffecfb40349e2f5d0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eLN3x4R632Y2Sryi%2Fc2%2BPV%2BcEHXTcxkPt%2F2rCIlqOIOZ1u62vyE6DSQxmVmTzqnso%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120090000 -0400" stop="20241120100000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">MLB Classic</title>
+    <sub-title lang="en">09:00 am - 10:00 am,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">A look back at the 2022 World Series between Houston Astros and Philadelphia Phillies.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f1b33117a656827ffecfb40349e2f5d0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eLN3x4R632Y2Sryi%2Fc2%2BPV%2BcEHXTcxkPt%2F2rCIlqOIOZ1u62vyE6DSQxmVmTzqnso%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120100000 -0400" stop="20241120110000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">MLB Classic</title>
+    <sub-title lang="en">10:00 am - 11:00 am,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">A look back at the 2023 World Series.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f1b33117a656827ffecfb40349e2f5d0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eLN3x4R632Y2Sryi%2Fc2%2BPV%2BcEHXTcxkPt%2F2rCIlqOIOZ1u62vyE6DSQxmVmTzqnso%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120110000 -0400" stop="20241120120000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">MLB Classic</title>
+    <sub-title lang="en">11:00 am - 12:00 pm,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">A look back at the 2024 World Series.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f1b33117a656827ffecfb40349e2f5d0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eLN3x4R632Y2Sryi%2Fc2%2BPV%2BcEHXTcxkPt%2F2rCIlqOIOZ1u62vyE6DSQxmVmTzqnso%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120120000 -0400" stop="20241120123000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">Ninja A-League Women Highlights</title>
+    <sub-title lang="en">12:00 pm - 12:30 pm,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">Action from the latest round of fixtures.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/768023474253735ac8daa001bbf72bcd.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c5jHd8mqu2LCtytaRuowE6nV0wyl47VV7k1CfjPdXIAEiALDufZCe3dfC2DJDlAaQ%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120123000 -0400" stop="20241120130000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">Vendee Globe Highlights</title>
+    <sub-title lang="en">12:30 pm - 1:00 pm,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">Action from this year's event.(n)</desc>
+    <category lang="en">Sailing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1b688eeb476c0d16bf865eb17dc28846.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dcSHJVWqhknQavt%2B6RBSmOD%2BiByV0D27YSXsnbjS8xs9UEiByTQe6TYAODfBya8xk%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120130000 -0400" stop="20241120143000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">NBA</title>
+    <sub-title lang="en">1:00 pm - 2:30 pm,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">Boston Celtics v Cleveland Cavaliers.(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1cb9fa8c595923b77be82c1693330be9.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fh%2Fzzxv12J7lI2YzHnkfAP5gpSbBEnOXPIGdi8S1leUVNfy4Z4x%2BvO0KaCQldCffY%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120143000 -0400" stop="20241120160000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">NBA</title>
+    <sub-title lang="en">2:30 pm - 4:00 pm,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">San Antonio Spurs v Oklahoma City Thunder.(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9b96d590e432da192e6ea55d345132af.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cH2N9negCq7sLB%2B8YYz7a91tnjgKzUouVsm2THUYElQHtb9UxR1NukOskP9miJGD4%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120160000 -0400" stop="20241120180000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">NBA Classic</title>
+    <sub-title lang="en">4:00 pm - 6:00 pm,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">A look back at Chicago Bulls v Brooklyn Nets from the 2012/13 season.(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/47f9c9941d63a3c56ef85ac1b076d333.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dhIw%2Bc%2FKyf%2Ffq%2BDP9FjXxmvSHNljXS0wdU%2B%2FmqSUgWZ1gn3Jh9E5gtepBCHcP%2FWaA%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120180000 -0400" stop="20241120193000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">NBA</title>
+    <sub-title lang="en">6:00 pm - 7:30 pm,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">Boston Celtics v Cleveland Cavaliers.(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1cb9fa8c595923b77be82c1693330be9.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fh%2Fzzxv12J7lI2YzHnkfAP5gpSbBEnOXPIGdi8S1leUVNfy4Z4x%2BvO0KaCQldCffY%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120193000 -0400" stop="20241120210000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">NBA</title>
+    <sub-title lang="en">7:30 pm - 9:00 pm,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">San Antonio Spurs v Oklahoma City Thunder.(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9b96d590e432da192e6ea55d345132af.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cH2N9negCq7sLB%2B8YYz7a91tnjgKzUouVsm2THUYElQHtb9UxR1NukOskP9miJGD4%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120210000 -0400" stop="20241120220000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">T20 Cricket Highlights</title>
+    <sub-title lang="en">9:00 pm - 10:00 pm,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">Australia v Pakistan. Action from the first Twenty20 in the three-match series at The Gabba in Brisbane.(n)</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dc50e991604d60d0e5cd13a65bdf8887.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d2I42bKxtLwZ9nD5oXKu1BKPB92lRMyh%2Fqk5VcDtP8KdgkWmzOEbic4W1c3WGa8PY%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120220000 -0400" stop="20241120230000 -0400" channel="TNT Sports 4 HD">
+    <title lang="en">T20 Cricket Highlights</title>
+    <sub-title lang="en">10:00 pm - 11:00 pm,
+ Wednesday, November 20
+ on TNT Sports 4 HD (434)</sub-title>
+    <desc lang="en">Australia v Pakistan. Action from the second T20 in the three-match series from Sydney Cricket Ground.(n)</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/598c9351d22e43de4bdcba46180f7367.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cvoabb7u71CTj0Vdt8Q0%2BOf0RugQjlPlg3j4bKin9J91%2BUCGkcaDknDd%2BVRHA6uag%3D" />
     <previously-shown />
   </programme>
   <programme start="20241118000000 -0400" stop="20241118030000 -0400" channel="TNT Sports Box Office">
@@ -1753,7 +1776,7 @@
     <sub-title lang="en">9:00 pm - 12:00 am,
  Monday, November 18
  on TNT Sports Box Office (494)</sub-title>
-    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.(n)</desc>
+    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
     <category lang="en">Combat Sports (without Own Categ</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
@@ -1764,7 +1787,7 @@
     <sub-title lang="en">12:00 am - 03:00 am,
  Tuesday, November 19
  on TNT Sports Box Office (494)</sub-title>
-    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.(n)</desc>
+    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
     <category lang="en">Combat Sports (without Own Categ</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
@@ -1775,7 +1798,7 @@
     <sub-title lang="en">03:00 am - 06:00 am,
  Tuesday, November 19
  on TNT Sports Box Office (494)</sub-title>
-    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.(n)</desc>
+    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
     <category lang="en">Combat Sports (without Own Categ</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
@@ -1786,7 +1809,7 @@
     <sub-title lang="en">06:00 am - 09:00 am,
  Tuesday, November 19
  on TNT Sports Box Office (494)</sub-title>
-    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.(n)</desc>
+    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
     <category lang="en">Combat Sports (without Own Categ</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
@@ -1797,7 +1820,7 @@
     <sub-title lang="en">09:00 am - 12:00 pm,
  Tuesday, November 19
  on TNT Sports Box Office (494)</sub-title>
-    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.(n)</desc>
+    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
     <category lang="en">Combat Sports (without Own Categ</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
@@ -1808,7 +1831,7 @@
     <sub-title lang="en">12:00 pm - 3:00 pm,
  Tuesday, November 19
  on TNT Sports Box Office (494)</sub-title>
-    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.(n)</desc>
+    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
     <category lang="en">Combat Sports (without Own Categ</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
@@ -1819,7 +1842,7 @@
     <sub-title lang="en">3:00 pm - 6:00 pm,
  Tuesday, November 19
  on TNT Sports Box Office (494)</sub-title>
-    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.(n)</desc>
+    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
     <category lang="en">Combat Sports (without Own Categ</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
@@ -1830,220 +1853,60 @@
     <sub-title lang="en">6:00 pm - 9:00 pm,
  Tuesday, November 19
  on TNT Sports Box Office (494)</sub-title>
+    <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.</desc>
+    <category lang="en">Combat Sports (without Own Categ</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241119210000 -0400" stop="20241120000000 -0400" channel="TNT Sports Box Office">
+    <title lang="en">UFC 309: Jones v Miocic</title>
+    <sub-title lang="en">9:00 pm - 12:00 am,
+ Tuesday, November 19
+ on TNT Sports Box Office (494)</sub-title>
     <desc lang="en">Action from UFC 309 as Jon Jones faces Stipe Miocic in a heavyweight bout at Madison Square Garden, New York. Visit tntsports.co.uk/boxoffice to find out how to buy this event.(n)</desc>
     <category lang="en">Combat Sports (without Own Categ</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1bd948ae4575d8e01722acc9783da3ea.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4exffdAa4juH9OoMmyqPTUSV40PTB8m1IJqM45GT2UdLP%2F%2FLyuDNVoUN4ItMBE14YQ%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117000000 -0400" stop="20241117004500 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">Tom Aspinall's Fight Lab</title>
-    <sub-title lang="en">12:00 am - 12:45 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">The Interim UFC Heavyweight Champion previews UFC 309 at Madison Square Garden.</desc>
-    <category lang="en">Extreme/Minority Sports</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/55fc327d9f5ca7f6c61a06a70dcdec03.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dMibnjed1AxVG1gkZqtFJTq70%2FLEjxRnhRqYe6dSI5xMp1AjXALNE1Rabk5ENn2kc%3D" />
+  <programme start="20241120000000 -0400" stop="20241120010000 -0400" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
+    <sub-title lang="en">12:00 am - 01:00 am,
+ Wednesday, November 20
+ on TNT Sports Box Office (494)</sub-title>
+    <category lang="en">Off-Air</category>
+    <category lang="en">Special</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7b8f3fde65dbcc90658ec72213d6439a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eSlVP%2FE%2BmQcZrZdBpYCJ2jAQhoOnY47KWnygAJxcJCOokcJO2%2FbGwhBDPs9tyBr54%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117004500 -0400" stop="20241117010000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">No Filter UFC</title>
-    <sub-title lang="en">12:45 am - 01:00 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look at UFC 309, as Jon Jones made his highly anticipated return to the octagon to face Stipe Miocic for the heavyweight title.</desc>
-    <category lang="en">Extreme/Minority Sports</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1565525fc03d7485153a36bdcc84ffd1.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d9BKa1Zppr3QW7g9SyxHOJyfWjiThDnWC5cHT8jmlb36DilZob7fRsTl%2Fm5IlgmqM%3D" />
+  <programme start="20241120010000 -0400" stop="20241120060000 -0400" channel="TNT Sports Box Office">
+    <title lang="en">Close</title>
+    <sub-title lang="en">01:00 am - 06:00 am,
+ Wednesday, November 20
+ on TNT Sports Box Office (494)</sub-title>
+    <category lang="en">Off-Air</category>
+    <category lang="en">Special</category>
     <previously-shown />
   </programme>
-  <programme start="20241117010000 -0400" stop="20241117030000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">Live UFC</title>
-    <sub-title lang="en">01:00 am - 03:00 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Coverage of the preliminary bouts from UFC 309, which takes place at Madison Square Garden in New York.</desc>
-    <category lang="en">Martial Sports</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/a74f68dd19e4f0a2dbf866ae9e5ff8d2.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fYPAkF%2BuRL2IZkF4MwHMk6UsNl0Jk%2BJ72fFRYgGYM3KxBTFjuoPzB34KNQXL89yqo%3D" />
+  <programme start="20241120060000 -0400" stop="20241120120000 -0400" channel="TNT Sports Box Office">
+    <title lang="en">TBA</title>
+    <sub-title lang="en">06:00 am - 12:00 pm,
+ Wednesday, November 20
+ on TNT Sports Box Office (494)</sub-title>
+    <category lang="en">Off-Air</category>
+    <category lang="en">Special</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/118b9243ad2ce66d8f1ceaf8bc0f26a8.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c7YkyeLFZhYUk8PWitwluwm7LK6gkIgj6lQ3OadJs%2F3q5orhXBhZJ1T0ENcEVYScU%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117030000 -0400" stop="20241117040000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">Autumn Nations Series</title>
-    <sub-title lang="en">03:00 am - 04:00 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">England v South Africa.</desc>
-    <category lang="en">Rugby Union - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b0357eedd0e9dc8b006b06fc47eea123.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d4n8MwXDS2lRATiSkYN9am3zK49GDyB8hiiPEIBKHM%2BR52uF3FfVMAKOb9Gq1cEWY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117040000 -0400" stop="20241117043000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <sub-title lang="en">04:00 am - 04:30 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Luis Diaz is joined by those who he grew up around.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b7d121db7abb898fd38daaac2d4c6af0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4esp0dgEok2xWUIpD3IOijuCeun0Ta%2BgNtgBJXyxQqG1fbcLcwb8lqv9flwDJA2dxA%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117043000 -0400" stop="20241117071500 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">Live: V8 Supercars Championship</title>
-    <sub-title lang="en">04:30 am - 07:15 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">The Adelaide 500. Coverage of race 24 at the 12th and final round of the season from Adelaide Street Circuit.</desc>
-    <category lang="en">Motor Sport</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9fa124c854710d833d599fb4e3764a25.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fgUzvRMvYhjac2k069DnsbyvmPEvfQuc6uk8AMehRTTWkhfZ0YHWTz%2BkU7zugwWuQ%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117071500 -0400" stop="20241117074500 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">What I Wore</title>
-    <sub-title lang="en">07:15 am - 07:45 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Liverpool and England legend John Barnes describes his passion for football via the shirts which have defined his life.</desc>
-    <category lang="en">Football - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2c46b9d007bbeeabc8dcbfdeb1c0ad28.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cECN5ZrWJwPQJ8s3p5NemCZWeMF6Ut0NiZwAr8mN2G8iq5MFvwRS0HisqWkYGS3rI%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117074500 -0400" stop="20241117080000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <sub-title lang="en">07:45 am - 08:00 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look back at Australia v Pakistan in the first T20 of the series.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d0bda0d7991ffc46088b9ea2c1b5d4f5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fOY%2FXL7K%2FHeoE31bQuW6dzod2FTe6IZUAynnjI4fiI53YS08D3TSfX0%2FKAH4VeAKQ%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117080000 -0400" stop="20241117090000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">T20 Cricket Highlights</title>
-    <sub-title lang="en">08:00 am - 09:00 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Australia v Pakistan. Action from the second T20 in the three-match series from Sydney Cricket Ground.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/598c9351d22e43de4bdcba46180f7367.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cvoabb7u71CTj0Vdt8Q0%2BOf0RugQjlPlg3j4bKin9J91%2BUCGkcaDknDd%2BVRHA6uag%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117090000 -0400" stop="20241117100000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">WWE Raw Highlights</title>
-    <sub-title lang="en">09:00 am - 10:00 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Wrestling action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2131604d343f8108b3d0b16b8ff83be5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fdHOSYRL9T6EKBXj%2FVMjCJCI5VYH1hhg%2Be4ZApVheZA2kmclDdPhFDxQiFfUS9wnQ%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117100000 -0400" stop="20241117110000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">WWE SmackDown Highlights</title>
-    <sub-title lang="en">10:00 am - 11:00 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Wrestling action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f8ac9a282d5541b08c26b980735d8684.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dEHw6QvBRutkql7tCXFbvgkfXf9UtbeXvzjROPz2nK0kOJuG7CnfLCNyz36d9xyUA%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117110000 -0400" stop="20241117113000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">Premier League - The Big Interview</title>
-    <sub-title lang="en">11:00 am - 11:30 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">An interview with a Premier League star of the past or present.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/115354f4582c7aba8e76c166056ae339.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dAKm1M51Jr4FuVVVEdwyA8SjfCeEaVsGr2C2cvhf0R0pebmVXyPiaoulr7ReRDCpQ%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117113000 -0400" stop="20241117123000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">T20 Cricket Highlights</title>
-    <sub-title lang="en">11:30 am - 12:30 pm,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">West Indies v England. Action from the fourth T20 in the five-match series from Daren Sammy Cricket Ground in Saint Lucia.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/fe72a5ff976ce2f8871dc485283c9235.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eX4MbzH3PepRtAxiEDYsoYHWo6KwqCf5Qzkjb7BuOdkqoGwGIkv67xAEYB5bulG0g%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117123000 -0400" stop="20241117124500 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">No Filter Rugby</title>
-    <sub-title lang="en">12:30 pm - 12:45 pm,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A special behind the scenes look at Ireland v New Zealand.</desc>
-    <category lang="en">Rugby Union - Domestic</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/afb8b84f9be984c1ffac1225ebc02f72.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d1%2FhB0uYPYt3RGxTaehKfAn%2Fhhjvfde7ry0L3HnGdvCTG%2BHfH9wMyUsoQJ3jdUwUI%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117124500 -0400" stop="20241117130000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">No Filter Rugby</title>
-    <sub-title lang="en">12:45 pm - 1:00 pm,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A special behind the scenes look at England v South Africa.</desc>
-    <category lang="en">Rugby Union - Domestic</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/afb8b84f9be984c1ffac1225ebc02f72.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d1%2FhB0uYPYt3RGxTaehKfAn%2Fhhjvfde7ry0L3HnGdvCTG%2BHfH9wMyUsoQJ3jdUwUI%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117130000 -0400" stop="20241117154500 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Autumn Nations Series</title>
-    <sub-title lang="en">1:00 pm - 3:45 pm,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Italy v Georgia (Kick-off 1.40pm). Coverage of the match from Stadio Luigi Ferraris in Genoa.</desc>
-    <category lang="en">Rugby Union - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/994586bbe2c59adf9f934243d1a2b793.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eV%2FRxdlnqaUnopg6GxoEGCHF4mKmFv8EgtEl0FmVKhuZaRu%2BLro6PLR%2B9e2kSuutg%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117154500 -0400" stop="20241117183000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Autumn Nations Series</title>
-    <sub-title lang="en">3:45 pm - 6:30 pm,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Wales v Australia (Kick-off 4.10pm). Coverage of the match from Principality Stadium in Cardiff.</desc>
-    <category lang="en">Rugby Union - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/09b53a7c55d4ab15c37221cdd733de5f.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eUPWXgeSH7Y3oefij9syLB1ZQOPFyg95g33sEnKPDXtFvML8l%2BZ9MdEmM9TjS6IWY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117183000 -0400" stop="20241117193000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">T20 Cricket Highlights</title>
-    <sub-title lang="en">6:30 pm - 7:30 pm,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">West Indies v England. Action from the fourth T20 in the five-match series from Daren Sammy Cricket Ground in Saint Lucia.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/fe72a5ff976ce2f8871dc485283c9235.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eX4MbzH3PepRtAxiEDYsoYHWo6KwqCf5Qzkjb7BuOdkqoGwGIkv67xAEYB5bulG0g%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117193000 -0400" stop="20241118000000 -0400" channel="TNT Sports 1 HD">
-    <title lang="en">Live T20 Cricket</title>
-    <sub-title lang="en">7:30 pm - 12:00 am,
- Sunday, November 17
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">West Indies v England. Coverage of the fifth and final T20 in the series from Daren Sammy Cricket Ground in Saint Lucia.</desc>
-    <category lang="en">Cricket - Domestic</category>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/4f4541bd14800866fb9c416a3e6e8164.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fYxFSiNZArOZYcuWYBfT3RE13BPScimNQdrjOqqYjI7U7EXJ9Pof7jZH6oXaUcZ6Y%3D" />
+  <programme start="20241120120000 -0400" stop="20241120180000 -0400" channel="TNT Sports Box Office">
+    <title lang="en">TBA</title>
+    <sub-title lang="en">12:00 pm - 6:00 pm,
+ Wednesday, November 20
+ on TNT Sports Box Office (494)</sub-title>
+    <category lang="en">Off-Air</category>
+    <category lang="en">Special</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/118b9243ad2ce66d8f1ceaf8bc0f26a8.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c7YkyeLFZhYUk8PWitwluwm7LK6gkIgj6lQ3OadJs%2F3q5orhXBhZJ1T0ENcEVYScU%3D" />
     <previously-shown />
   </programme>
   <programme start="20241118000000 -0400" stop="20241118023000 -0400" channel="TNT Sports 1 HD">
@@ -2272,7 +2135,7 @@
     <sub-title lang="en">11:00 pm - 12:00 am,
  Monday, November 18
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Wrestling action.(n)</desc>
+    <desc lang="en">Wrestling action.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Wrestling</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2131604d343f8108b3d0b16b8ff83be5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fdHOSYRL9T6EKBXj%2FVMjCJCI5VYH1hhg%2Be4ZApVheZA2kmclDdPhFDxQiFfUS9wnQ%3D" />
@@ -2283,7 +2146,7 @@
     <sub-title lang="en">12:00 am - 01:00 am,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Wrestling action.(n)</desc>
+    <desc lang="en">Wrestling action.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Wrestling</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f8ac9a282d5541b08c26b980735d8684.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dEHw6QvBRutkql7tCXFbvgkfXf9UtbeXvzjROPz2nK0kOJuG7CnfLCNyz36d9xyUA%3D" />
@@ -2294,7 +2157,7 @@
     <sub-title lang="en">01:00 am - 04:15 am,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Watch CM Punk, Drew McIntyre, Seth Rollins, Rhea Ripley, Becky Lynch and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.(n)</desc>
+    <desc lang="en">Watch CM Punk, Drew McIntyre, Seth Rollins, Rhea Ripley, Becky Lynch and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Wrestling</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/77467cd319dc1825de87f6b1d1948d4f.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cW7w0h%2BOjqvBfM9jK0OVEsh7MPji9bFDSL%2BvRdv60Rh0CIODZaCd9Gcely9WC%2FygM%3D" />
@@ -2305,7 +2168,7 @@
     <sub-title lang="en">04:15 am - 05:00 am,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">An interview with professional wrestling tag team duo The Usos, talking about their historic run, The Bloodline and headlining WrestleMania.(n)</desc>
+    <desc lang="en">An interview with professional wrestling tag team duo The Usos, talking about their historic run, The Bloodline and headlining WrestleMania.</desc>
     <category lang="en">General</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6bd110560aab2de733ae6a41651744bf.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e%2F5R3oJgj8DAkzlnZ3kBIyCrAl3TRfvjAzFIwEUQzeLizq1Bd6vCOBDXlt2QBYy1s%3D" />
@@ -2316,7 +2179,7 @@
     <sub-title lang="en">05:00 am - 06:00 am,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Following some of European football's top officials as they adapt to the introduction of VAR, giving their frank assessments of some of the most-talked-about decisions.(n)</desc>
+    <desc lang="en">Following some of European football's top officials as they adapt to the introduction of VAR, giving their frank assessments of some of the most-talked-about decisions.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/aba0a9c13d91f3534e0eb9345d22bc6d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c5%2FgvbEQC8%2BEnuiBntpXjtgj3QLbhUeq0ibb5avPljlNf65bPtVcBZwX8N7vSXu0M%3D" />
@@ -2327,7 +2190,7 @@
     <sub-title lang="en">06:00 am - 06:30 am,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Luis Diaz is joined by those who he grew up around.(n)</desc>
+    <desc lang="en">Luis Diaz is joined by those who he grew up around.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b7d121db7abb898fd38daaac2d4c6af0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4esp0dgEok2xWUIpD3IOijuCeun0Ta%2BgNtgBJXyxQqG1fbcLcwb8lqv9flwDJA2dxA%3D" />
@@ -2338,7 +2201,7 @@
     <sub-title lang="en">06:30 am - 06:45 am,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look back at Australia v Pakistan from the second T20 in the series.(n)</desc>
+    <desc lang="en">A look back at Australia v Pakistan from the second T20 in the series.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d0bda0d7991ffc46088b9ea2c1b5d4f5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fOY%2FXL7K%2FHeoE31bQuW6dzod2FTe6IZUAynnjI4fiI53YS08D3TSfX0%2FKAH4VeAKQ%3D" />
@@ -2349,7 +2212,7 @@
     <sub-title lang="en">06:45 am - 07:45 am,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Sri Lanka v New Zealand. Action from the first ODI in the three-match series at Rangiri Dambulla International Stadium in Dambulla.(n)</desc>
+    <desc lang="en">Sri Lanka v New Zealand. Action from the first ODI in the three-match series at Rangiri Dambulla International Stadium in Dambulla.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1237db22262638ec9d9b5e0edd3e6c41.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cqPjJTyBu9VsEARGQV8jrELBhUH4zIXlXrz%2FuWiVFZnBEGjG1PmR3vX7hKk8fuzms%3D" />
@@ -2360,7 +2223,7 @@
     <sub-title lang="en">07:45 am - 08:45 am,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Sri Lanka v New Zealand. Action from the second T20 in the three-match series from Pallekele International Cricket Stadium.(n)</desc>
+    <desc lang="en">Sri Lanka v New Zealand. Action from the second T20 in the three-match series from Pallekele International Cricket Stadium.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c282a8079b9201b46b3d201fa498eeb7.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ccXu7Z8A21g1gNGMNOIZ3wa7IVNJnytuq%2BhPmiGl%2BQ0abxgIEg5HgjEdSMjA1Hrp4%3D" />
@@ -2371,7 +2234,7 @@
     <sub-title lang="en">08:45 am - 5:30 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Sri Lanka v New Zealand. Coverage of the third and final ODI in the series from Pallekele International Cricket Stadium. These two sides will meet again in another three-match ODI series at the start of next year in New Zealand, so both teams will be looking to gain the upper hand before they lock horns again in January. Sri Lanka are searching for their first ODI series victory against their visitors since November 2012.(n)</desc>
+    <desc lang="en">Sri Lanka v New Zealand. Coverage of the third and final ODI in the series from Pallekele International Cricket Stadium. These two sides will meet again in another three-match ODI series at the start of next year in New Zealand, so both teams will be looking to gain the upper hand before they lock horns again in January. Sri Lanka are searching for their first ODI series victory against their visitors since November 2012.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/ad7435592318c7ae6b2a73b938764331.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cGoTkDVAH3OE0nUxu2t5s402TvE2iWdedBqrAB3EAv7mV1my4i9tXb6P3iEsgmZ0M%3D" />
@@ -2382,7 +2245,7 @@
     <sub-title lang="en">5:30 pm - 5:45 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look back at West Indies v England from the fifth and final T20 in the series.(n)</desc>
+    <desc lang="en">A look back at West Indies v England from the fifth and final T20 in the series.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d0bda0d7991ffc46088b9ea2c1b5d4f5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fOY%2FXL7K%2FHeoE31bQuW6dzod2FTe6IZUAynnjI4fiI53YS08D3TSfX0%2FKAH4VeAKQ%3D" />
@@ -2393,7 +2256,7 @@
     <sub-title lang="en">5:45 pm - 6:00 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A round-up of the latest news and action.(n)</desc>
+    <desc lang="en">A round-up of the latest news and action.</desc>
     <category lang="en">Badminton</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d386c5f1d7e3961fcd9a9edc96ba418a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4co39WFkEFIj%2Fr2CWBn4HYc%2BFhINBAvgAliRYI0Zx%2FOKD7gifvqFO0phoDlijnmdzE%3D" />
@@ -2404,7 +2267,7 @@
     <sub-title lang="en">6:00 pm - 6:30 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Luis Diaz is joined by those who he grew up around.(n)</desc>
+    <desc lang="en">Luis Diaz is joined by those who he grew up around.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b7d121db7abb898fd38daaac2d4c6af0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4esp0dgEok2xWUIpD3IOijuCeun0Ta%2BgNtgBJXyxQqG1fbcLcwb8lqv9flwDJA2dxA%3D" />
@@ -2415,7 +2278,7 @@
     <sub-title lang="en">6:30 pm - 7:00 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look at the career of Argentine football legend Hernan Crespo.(n)</desc>
+    <desc lang="en">A look at the career of Argentine football legend Hernan Crespo.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/a0b3eb99003f707ec96d0015c746f221.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fflPyUgt%2BroyWJwqc5ZCklk9%2BPcXaJ3zksTD%2BUETdMLjfV6J4FUYIBpCxqkbCPtOQ%3D" />
@@ -2426,7 +2289,7 @@
     <sub-title lang="en">7:00 pm - 7:30 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">An interview with a Premier League star of the past or present.(n)</desc>
+    <desc lang="en">An interview with a Premier League star of the past or present.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/115354f4582c7aba8e76c166056ae339.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dAKm1M51Jr4FuVVVEdwyA8SjfCeEaVsGr2C2cvhf0R0pebmVXyPiaoulr7ReRDCpQ%3D" />
@@ -2437,7 +2300,7 @@
     <sub-title lang="en">7:30 pm - 8:00 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Action from the latest round of fixtures.(n)</desc>
+    <desc lang="en">Action from the latest round of fixtures.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/768023474253735ac8daa001bbf72bcd.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c5jHd8mqu2LCtytaRuowE6nV0wyl47VV7k1CfjPdXIAEiALDufZCe3dfC2DJDlAaQ%3D" />
@@ -2448,7 +2311,7 @@
     <sub-title lang="en">8:00 pm - 9:00 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Australia v Pakistan. Action from the third and final T20 in the series from Ninja Stadium in Hobart.(n)</desc>
+    <desc lang="en">Australia v Pakistan. Action from the third and final T20 in the series from Ninja Stadium in Hobart.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/28d30c65fa6e475e140f3ecb43592561.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f%2F%2BwZABx7jjKfd2rhRJyPuZwH44CIhnxspWXSfr5e8NuJccpO7YGwJ2%2BwDIrGsxAI%3D" />
@@ -2459,7 +2322,7 @@
     <sub-title lang="en">9:00 pm - 9:15 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A special behind the scenes look at England v South Africa.(n)</desc>
+    <desc lang="en">A special behind the scenes look at England v South Africa.</desc>
     <category lang="en">Rugby Union - Domestic</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/afb8b84f9be984c1ffac1225ebc02f72.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d1%2FhB0uYPYt3RGxTaehKfAn%2Fhhjvfde7ry0L3HnGdvCTG%2BHfH9wMyUsoQJ3jdUwUI%3D" />
@@ -2470,7 +2333,7 @@
     <sub-title lang="en">9:15 pm - 9:30 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look back at the best of the action from the 2024 Solidarity Grand Prix of Barcelona.(n)</desc>
+    <desc lang="en">A look back at the best of the action from the 2024 Solidarity Grand Prix of Barcelona.</desc>
     <category lang="en">Motorcycling</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d2f47a44beec1371e80d725cde633b82.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c%2FAqZO7kzgurSmMpY%2FP3cOOf5vac3OUtCvvYJdHE05NsVxLLsESvvl77FQPMzIlk0%3D" />
@@ -2481,7 +2344,7 @@
     <sub-title lang="en">9:30 pm - 10:00 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Witness the remarkable journey of the one-armed goalkeeper who has defied all odds and refuses to give up.(n)</desc>
+    <desc lang="en">Witness the remarkable journey of the one-armed goalkeeper who has defied all odds and refuses to give up.</desc>
     <category lang="en">General</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/bb1e6f1140a1ab577772055280c9328d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ccT81Vea%2Fw4O5u8eUQoyw8h373ljWeiUB6uhln91raZCTy3uQ3e4AtRR0YTQTeL2Q%3D" />
@@ -2492,7 +2355,7 @@
     <sub-title lang="en">10:00 pm - 10:30 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in the studio to provide context and explanation behind refereeing decisions from the season so far.(n)</desc>
+    <desc lang="en">PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in the studio to provide context and explanation behind refereeing decisions from the season so far.</desc>
     <category lang="en">Football - Club</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b42f1cca064fe00024a8d561ceb71af6.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fefrABRJjqsA2RieXnsuAq9LhemQcKzS0GPBvVsfJbV0IO3QdvaYNAVdqTfVPDp6Y%3D" />
@@ -2503,267 +2366,241 @@
     <sub-title lang="en">10:30 pm - 11:30 pm,
  Tuesday, November 19
  on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">West Indies v England. Action from the fifth and final T20 in the series from Daren Sammy Cricket Ground in Saint Lucia.</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/aa71b51ed9f6265d8c4d798294aea4aa.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fH7Ls8tKg3tpUw%2FOcFB6jDoAOND8sJ9FbUJCYBSYInH27qhh4EjScOYEzdMBcPAdk%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241119233000 -0400" stop="20241120000000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">NBA Tip-Off</title>
+    <sub-title lang="en">11:30 pm - 12:00 am,
+ Tuesday, November 19
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">A look ahead to tonight's NBA matches.(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/ccffc195afbc4e90758d0bd66611d3c4.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4db51sM6T2Ty%2B6lVt%2BINyPhICC76dYnZGCrCJHVYaR%2FcmV7axw%2FaWLaNWlxU%2BxUu08%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120000000 -0400" stop="20241120023000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Live NBA</title>
+    <sub-title lang="en">12:00 am - 02:30 am,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">Boston Celtics v Cleveland Cavaliers (Tip-off 12.00am). Coverage of the Eastern Conference match from TD Garden.(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/3c14c0cbc542b7c2686dcf7c7dbe15b0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e4L8sv%2BzjdqlPFcybsaq8VTrsCwbLdXoMywYEt6R8NIOHsMBqSEXfkKojVHnEYCfM%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120023000 -0400" stop="20241120050000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Live NBA</title>
+    <sub-title lang="en">02:30 am - 05:00 am,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">San Antonio Spurs v Oklahoma City Thunder (Tip-off 2.30am). Coverage of the Western Conference match from Frost Bank Centre.(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e365ef7f17c976a9d4eca1099b5eea80.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eyz4oFcttHtLyeexNKrTs%2FKOGdqyD5lLCJ7c%2FZOgo3VjQNspOtCmsEj5yCiZ%2BrrRA%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120050000 -0400" stop="20241120060000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Inside the NBA</title>
+    <sub-title lang="en">05:00 am - 06:00 am,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">Post-game analysis of tonight's NBA matches.(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/94b915ef10aaa03ab7fa45f401ca2b2f.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ewGn5kYtRjMke4HocPV4hxN%2B9MEkdkelk0gfIBlKQMTwJ3ik%2BWW5tJYoCS0o%2BOdqA%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120060000 -0400" stop="20241120063000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">The WRC Magazine</title>
+    <sub-title lang="en">06:00 am - 06:30 am,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">The latest news and action from the World Rally Championship and Rally Japan.(n)</desc>
+    <category lang="en">Rallying</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e92c2b5abaeab71bab7ff9441adb815e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c534cBm9WPeuZ%2B9zWI8gz41Fqjw5EbiRP9DO8Sw8bZgpO3zzkTFWbLnArhroncD6s%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120063000 -0400" stop="20241120070000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League Stories</title>
+    <sub-title lang="en">06:30 am - 07:00 am,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">A look at the career of Argentine football legend Hernan Crespo.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/a0b3eb99003f707ec96d0015c746f221.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fflPyUgt%2BroyWJwqc5ZCklk9%2BPcXaJ3zksTD%2BUETdMLjfV6J4FUYIBpCxqkbCPtOQ%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120070000 -0400" stop="20241120093000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">WWE Monday Night Raw</title>
+    <sub-title lang="en">07:00 am - 09:30 am,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">Wrestling action.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24692be4c9a10120c2fd9b6ffcb6673e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eq%2BcSuQ23mzVxQ6DftVACezMStFJNcMWMxZ18h99G9yCdTk6CMrX5GZjMsRNI0jLc%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120093000 -0400" stop="20241120103000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">T20 Cricket Highlights</title>
+    <sub-title lang="en">09:30 am - 10:30 am,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
     <desc lang="en">West Indies v England. Action from the fifth and final T20 in the series from Daren Sammy Cricket Ground in Saint Lucia.(n)</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/aa71b51ed9f6265d8c4d798294aea4aa.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fH7Ls8tKg3tpUw%2FOcFB6jDoAOND8sJ9FbUJCYBSYInH27qhh4EjScOYEzdMBcPAdk%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117000000 -0400" stop="20241117010000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">T20 Cricket Highlights</title>
-    <sub-title lang="en">12:00 am - 01:00 am,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Australia v Pakistan. Action from the second T20 in the three-match series from Sydney Cricket Ground.</desc>
-    <category lang="en">Cricket - International</category>
+  <programme start="20241120103000 -0400" stop="20241120113000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Fishing: On the Bank</title>
+    <sub-title lang="en">10:30 am - 11:30 am,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring round three of the 2024 European Fishing League.(n)</desc>
+    <category lang="en">Fishing</category>
     <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/598c9351d22e43de4bdcba46180f7367.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cvoabb7u71CTj0Vdt8Q0%2BOf0RugQjlPlg3j4bKin9J91%2BUCGkcaDknDd%2BVRHA6uag%3D" />
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9220ef6b6ec311e21e4ce562b3b33c73.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d2yLkd%2FjiuNVuwTENgfu%2BfxGyk33yBHkqLeNrryTtclGzK3WDKA53BUWpdLJARQTQ%3D" />
     <previously-shown />
   </programme>
-  <programme start="20241117010000 -0400" stop="20241117013000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">TNT Sports Reload</title>
-    <sub-title lang="en">01:00 am - 01:30 am,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117013000 -0400" stop="20241117014500 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <sub-title lang="en">01:30 am - 01:45 am,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The first ODI between Sri Lanka and New Zealand the third-match series.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d0bda0d7991ffc46088b9ea2c1b5d4f5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fOY%2FXL7K%2FHeoE31bQuW6dzod2FTe6IZUAynnjI4fiI53YS08D3TSfX0%2FKAH4VeAKQ%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117014500 -0400" stop="20241117020000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <sub-title lang="en">01:45 am - 02:00 am,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A look back at West Indies v England in the third T20.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d0bda0d7991ffc46088b9ea2c1b5d4f5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fOY%2FXL7K%2FHeoE31bQuW6dzod2FTe6IZUAynnjI4fiI53YS08D3TSfX0%2FKAH4VeAKQ%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117020000 -0400" stop="20241117073000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">Live Badminton</title>
-    <sub-title lang="en">02:00 am - 07:30 am,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The Kumamoto Masters Japan. Coverage of the finals of the BWF World Tour Super 500 event at Kumamoto Prefectural Gymnasium in Kumamoto, Japan.</desc>
-    <category lang="en">Badminton</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/82046140478442ffcc1f4fd10e985225.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cF5Ps9%2F0HPcd%2FGOYkSFZJgYmNsS2ChrvGode8TXXtE0gYmLlRTMOye7NNEjS%2FKcBY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117073000 -0400" stop="20241117074500 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">Badminton Weekly</title>
-    <sub-title lang="en">07:30 am - 07:45 am,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A round-up of the latest news and action.</desc>
-    <category lang="en">Badminton</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d386c5f1d7e3961fcd9a9edc96ba418a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4co39WFkEFIj%2Fr2CWBn4HYc%2BFhINBAvgAliRYI0Zx%2FOKD7gifvqFO0phoDlijnmdzE%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117074500 -0400" stop="20241117080000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">TNT Sports Reload</title>
-    <sub-title lang="en">07:45 am - 08:00 am,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117080000 -0400" stop="20241117083000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">MotoGP</title>
-    <sub-title lang="en">08:00 am - 08:30 am,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Action from the Motul Solidarity Grand Prix of Barcelona.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117083000 -0400" stop="20241117090000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">Live MotoGP</title>
-    <sub-title lang="en">08:30 am - 09:00 am,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The Motul Solidarity Grand Prix of Barcelona MotoGP warm-up session. Coverage from the 20th and final round of the season at Circuit de Barcelona-Catalunya.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20241117090000 -0400" stop="20241117110000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">Live MotoGP</title>
-    <sub-title lang="en">09:00 am - 11:00 am,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The Motul Solidarity Grand Prix of Barcelona Moto3 race (Start-time 10.00am). Coverage from the 20th and final round of the season at Circuit de Barcelona-Catalunya.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20241117110000 -0400" stop="20241117121500 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">Live MotoGP</title>
-    <sub-title lang="en">11:00 am - 12:15 pm,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The Motul Solidarity Grand Prix of Barcelona Moto2 race (Start-time 11.15am). Coverage from the 20th and final round of the season at Circuit de Barcelona-Catalunya.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20241117121500 -0400" stop="20241117140000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">Live MotoGP</title>
-    <sub-title lang="en">12:15 pm - 2:00 pm,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The Motul Solidarity Grand Prix of Barcelona MotoGP race (Start-time 1.00pm). Coverage from the 20th and final round of the season at Circuit de Barcelona-Catalunya.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20241117140000 -0400" stop="20241117150000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">MotoGP Chequered Flag</title>
-    <sub-title lang="en">2:00 pm - 3:00 pm,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of Barcelona.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dcf3449717c5093c6506b7a107c71e9f.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c2iWZII1alpczgLFx2%2BrEDZ%2FOITBVc00G8Tif%2BVNuQHXFxSYQuai90P7GF5%2Bu%2FEPM%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117150000 -0400" stop="20241117160000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">MotoE Highlights</title>
-    <sub-title lang="en">3:00 pm - 4:00 pm,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A review of the 2024 season, which featured eight rounds all taking place on European circuits.</desc>
-    <category lang="en">Motor Sport</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c424f24925756870ea605c59505f9816.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ehCtlYhDWDOltJdxw55dF40zqni6uAjku6StHb4rWqWcOgPBX46uCQMBQR6WE0Kag%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117160000 -0400" stop="20241117163000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">The WRC Magazine</title>
-    <sub-title lang="en">4:00 pm - 4:30 pm,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The latest news and action from the World Rally Championship and Rally Japan.</desc>
-    <category lang="en">Rallying</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e92c2b5abaeab71bab7ff9441adb815e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c534cBm9WPeuZ%2B9zWI8gz41Fqjw5EbiRP9DO8Sw8bZgpO3zzkTFWbLnArhroncD6s%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117163000 -0400" stop="20241117170000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">The WRC Magazine</title>
-    <sub-title lang="en">4:30 pm - 5:00 pm,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The latest news and action from Beyond Rally and the World Rally Championship.</desc>
-    <category lang="en">Rallying</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e92c2b5abaeab71bab7ff9441adb815e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c534cBm9WPeuZ%2B9zWI8gz41Fqjw5EbiRP9DO8Sw8bZgpO3zzkTFWbLnArhroncD6s%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117170000 -0400" stop="20241117183000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">WWE Friday Night SmackDown</title>
-    <sub-title lang="en">5:00 pm - 6:30 pm,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Wrestling action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/eb7aa872c941a60d1bb5a3e9abccd720.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4evjqhPBVmlPwZ2eNBUxRqDcdjgAVIbsTLbBdhwn7cXZO%2FjmxHfopru37UkAUiKc%2BQ%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117183000 -0400" stop="20241117190000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <sub-title lang="en">6:30 pm - 7:00 pm,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Luis Diaz is joined by those who he grew up around.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b7d121db7abb898fd38daaac2d4c6af0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4esp0dgEok2xWUIpD3IOijuCeun0Ta%2BgNtgBJXyxQqG1fbcLcwb8lqv9flwDJA2dxA%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117190000 -0400" stop="20241117201500 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">Live MotoGP</title>
-    <sub-title lang="en">7:00 pm - 8:15 pm,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Coverage of the MotoGP 2024 Awards, which takes place in Barcelona.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20241117201500 -0400" stop="20241117203000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">No Filter Rugby</title>
-    <sub-title lang="en">8:15 pm - 8:30 pm,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A special behind the scenes look at England v South Africa.</desc>
-    <category lang="en">Rugby Union - Domestic</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/afb8b84f9be984c1ffac1225ebc02f72.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d1%2FhB0uYPYt3RGxTaehKfAn%2Fhhjvfde7ry0L3HnGdvCTG%2BHfH9wMyUsoQJ3jdUwUI%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117203000 -0400" stop="20241117230000 -0400" channel="TNT Sports 2 HD">
-    <title lang="en">Live NBA</title>
-    <sub-title lang="en">8:30 pm - 11:00 pm,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Minnesota Timberwolves v Phoenix Suns (Tip-off 8.30pm). Coverage of the Western Conference match from Target Centre.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/3d0dd699e0446883346d7218bdfaeb78.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f3Szkoa%2BYlLckNRo%2BCtnGIwen2V%2Bx3JP%2Fp1IrjfYa4U1d8z1LksBoQr1iu%2BUwjgrc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20241117230000 -0400" stop="20241118000000 -0400" channel="TNT Sports 2 HD">
+  <programme start="20241120113000 -0400" stop="20241120123000 -0400" channel="TNT Sports 1 HD">
     <title lang="en">Autumn Nations Series</title>
-    <sub-title lang="en">11:00 pm - 12:00 am,
- Sunday, November 17
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Italy v Georgia.</desc>
+    <sub-title lang="en">11:30 am - 12:30 pm,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">Ireland v Argentina.(n)</desc>
+    <category lang="en">Rugby Union - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1cc99261052ee2ff3309c4b19e81e208.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eJckb1kkoqeaXvSPItAwMyFF%2FDf6F2St%2BlaIV%2B2ofDyfhPDomAFtdnXw2RXstpS0g%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120123000 -0400" stop="20241120133000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Autumn Nations Series</title>
+    <sub-title lang="en">12:30 pm - 1:30 pm,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">Scotland v Portugal.(n)</desc>
+    <category lang="en">Rugby Union - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e2d6865f744a355a2a087567ad6e12c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cEOah4muaeEI%2FVhR2BRDDfJUaugdaxEXI6MQMHJ8yP4MkZXxj%2BzWa7s0LVt%2Fc4nLc%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120133000 -0400" stop="20241120143000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Autumn Nations Series</title>
+    <sub-title lang="en">1:30 pm - 2:30 pm,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">England v South Africa.(n)</desc>
+    <category lang="en">Rugby Union - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b0357eedd0e9dc8b006b06fc47eea123.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d4n8MwXDS2lRATiSkYN9am3zK49GDyB8hiiPEIBKHM%2BR52uF3FfVMAKOb9Gq1cEWY%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120143000 -0400" stop="20241120153000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Autumn Nations Series</title>
+    <sub-title lang="en">2:30 pm - 3:30 pm,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">France v New Zealand.(n)</desc>
+    <category lang="en">Rugby Union - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/4009e74d0dccbac8dca9530033a6f539.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4enUfVgSreUYtLCjjoqtuyUj%2FjhLhyYj5g9BLRuC0i0dZoYsJfP8W%2FsXhpTyMetCbA%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120153000 -0400" stop="20241120163000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Autumn Nations Series</title>
+    <sub-title lang="en">3:30 pm - 4:30 pm,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">Italy v Georgia.(n)</desc>
     <category lang="en">Rugby Union - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d035fa0a06ec4e9a4f0e70338f0a2a19.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fPnvJsieT4TowH3Uow2QBtTkS2Pz6sNzFag2YucPfxzY2kIb4scaEUcqPzca%2BZNVk%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120163000 -0400" stop="20241120173000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Autumn Nations Series</title>
+    <sub-title lang="en">4:30 pm - 5:30 pm,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">Wales v Australia.(n)</desc>
+    <category lang="en">Rugby Union - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/311a527845995c4062ceb56b7275ba6d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cT2C63g1iuaENx9rE8s8tjvQDtB1ZE9L9lQDpJqzMF4Edry4N%2FjqgojN076rowXfQ%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120173000 -0400" stop="20241120180000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League Stories</title>
+    <sub-title lang="en">5:30 pm - 6:00 pm,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">A look at the career of Argentine football legend Hernan Crespo.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/a0b3eb99003f707ec96d0015c746f221.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fflPyUgt%2BroyWJwqc5ZCklk9%2BPcXaJ3zksTD%2BUETdMLjfV6J4FUYIBpCxqkbCPtOQ%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120180000 -0400" stop="20241120183000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">TNT Sports Reload</title>
+    <sub-title lang="en">6:00 pm - 6:30 pm,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">General</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120183000 -0400" stop="20241120194500 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Original Documentary</title>
+    <sub-title lang="en">6:30 pm - 7:45 pm,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">Featuring never-before-seen footage, Jonah Lomu shares his story and how he escaped gang violence to become one of the planet's most iconic rugby players.(n)</desc>
+    <category lang="en">General</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/a8736ab24f586bbfeddd345ff620fcee.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dSVgJiy0IAXARUktsJ7MkdbT9Mv8eBZEO%2F%2F0sn1ZH4acZ5uo3tTirqr%2FJND50tD94%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120194500 -0400" stop="20241120220000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Live UEFA Women's Champions League</title>
+    <sub-title lang="en">7:45 pm - 10:00 pm,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">Chelsea Women v Celtic Women (Kick-off 8.00pm). Coverage of the Group B match from Stamford Bridge. The two clubs have had differing starts to their Champions League campaigns, with the visitors losing their first two group matches without scoring a goal. Chelsea had a perfect start on the other hand, picking up six points from their first two matches, scoring six goals in the process.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f6ec730d18e26f870717a0767d9b785d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fSshX3BxWJJBAjJkvgko9%2FW%2BOJVoGzzhv0lt29eUJ%2By6f0V%2F9i3aLPf4KPvzP2kw8%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120220000 -0400" stop="20241120223000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">Original Documentary</title>
+    <sub-title lang="en">10:00 pm - 10:30 pm,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">Witness the remarkable journey of the one-armed goalkeeper who has defied all odds and refuses to give up.(n)</desc>
+    <category lang="en">General</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/bb1e6f1140a1ab577772055280c9328d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ccT81Vea%2Fw4O5u8eUQoyw8h373ljWeiUB6uhln91raZCTy3uQ3e4AtRR0YTQTeL2Q%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120223000 -0400" stop="20241120233000 -0400" channel="TNT Sports 1 HD">
+    <title lang="en">MotoGP Highlights</title>
+    <sub-title lang="en">10:30 pm - 11:30 pm,
+ Wednesday, November 20
+ on TNT Sports 1 HD (430)</sub-title>
+    <desc lang="en">Action from MotoGP and the Solidarity Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motor Sport</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/ddf20e4f0c9b89e68bbaf5e861c252c2.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fe5bhR5aqmjRaDQOYeiGQCuaRxfZgyturboTgIW%2BjHdTwwrHVwqjPN6KPvut8QYvE%3D" />
     <previously-shown />
   </programme>
   <programme start="20241118000000 -0400" stop="20241118010000 -0400" channel="TNT Sports 2 HD">
@@ -3024,7 +2861,7 @@
     <sub-title lang="en">11:30 pm - 12:00 am,
  Monday, November 18
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A look back at Fight Island for Tom Aspinall's unforgettable debut.(n)</desc>
+    <desc lang="en">A look back at Fight Island for Tom Aspinall's unforgettable debut.</desc>
     <category lang="en">Martial Sports</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/91457b4ec747916a6f141d3aa8644ca7.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fnvXycX8hp%2F13Fn9lpttoGf9WNWoo4WyUVAu1T72cuBsSOAgpW6go4kjl%2FOAqr4Kw%3D" />
@@ -3035,7 +2872,7 @@
     <sub-title lang="en">12:00 am - 01:00 am,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Australia v Pakistan. Action from the third and final T20 in the series from Ninja Stadium in Hobart.(n)</desc>
+    <desc lang="en">Australia v Pakistan. Action from the third and final T20 in the series from Ninja Stadium in Hobart.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/28d30c65fa6e475e140f3ecb43592561.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f%2F%2BwZABx7jjKfd2rhRJyPuZwH44CIhnxspWXSfr5e8NuJccpO7YGwJ2%2BwDIrGsxAI%3D" />
@@ -3046,7 +2883,7 @@
     <sub-title lang="en">01:00 am - 02:00 am,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Action from the final round of the season in Dubai.(n)</desc>
+    <desc lang="en">Action from the final round of the season in Dubai.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Triathlon</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e54ec07349d9fdbd4f7ec45e4430f8c0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fFz%2FPmctJBtzqZ9BvlHtacthLP6D66izNJ8pqPt5dJMTk%2BDmPgAhBzdvsKVb3qIx4%3D" />
@@ -3057,7 +2894,7 @@
     <sub-title lang="en">02:00 am - 02:15 am,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A special behind the scenes look at England v South Africa.(n)</desc>
+    <desc lang="en">A special behind the scenes look at England v South Africa.</desc>
     <category lang="en">Rugby Union - Domestic</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/afb8b84f9be984c1ffac1225ebc02f72.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d1%2FhB0uYPYt3RGxTaehKfAn%2Fhhjvfde7ry0L3HnGdvCTG%2BHfH9wMyUsoQJ3jdUwUI%3D" />
@@ -3068,7 +2905,7 @@
     <sub-title lang="en">02:15 am - 03:15 am,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring round three of the 2024 European Fishing League.(n)</desc>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring round three of the 2024 European Fishing League.</desc>
     <category lang="en">Fishing</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9220ef6b6ec311e21e4ce562b3b33c73.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d2yLkd%2FjiuNVuwTENgfu%2BfxGyk33yBHkqLeNrryTtclGzK3WDKA53BUWpdLJARQTQ%3D" />
@@ -3079,7 +2916,7 @@
     <sub-title lang="en">03:15 am - 04:15 am,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A look back at UFC 288 as Aljamain Sterling faced Henry Cejudo.(n)</desc>
+    <desc lang="en">A look back at UFC 288 as Aljamain Sterling faced Henry Cejudo.</desc>
     <category lang="en">Martial Sports</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d9719528dd8cd4d36f722f23cfb29afb.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d%2FZ3IiLPPFDvq0s497vpjfNntI6SJO21FU4m%2BfXYNZo1U0xtwpT%2Fid42iNDExEdto%3D" />
@@ -3090,7 +2927,7 @@
     <sub-title lang="en">04:15 am - 04:45 am,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A look back at UFC 309 at Madison Square Garden, New York.(n)</desc>
+    <desc lang="en">A look back at UFC 309 at Madison Square Garden, New York.</desc>
     <category lang="en">Combat Sports (without Own Categ</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/73287e1be1528c591539fe243ba6c240.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eebavp6hc%2FKfvJOe7CtuSgKp49oDSvYUp8NTfESWIpNRG%2FK0Cs2BI8WhlT6hCN%2FV8%3D" />
@@ -3101,7 +2938,7 @@
     <sub-title lang="en">04:45 am - 06:00 am,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A look back at Carl Frampton's boxing career.(n)</desc>
+    <desc lang="en">A look back at Carl Frampton's boxing career.</desc>
     <category lang="en">General</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d57c6c38098e4f65be348ecb0b62eab7.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dlLNSIibuSsrbasTqI1I9hiVeGjjSLc8F5PCygPSoeMKX5EbLyx6WIx%2F9vpRU5DwU%3D" />
@@ -3112,7 +2949,7 @@
     <sub-title lang="en">06:00 am - 07:00 am,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Australia v Pakistan. Action from the third and final T20 in the series from Ninja Stadium in Hobart.(n)</desc>
+    <desc lang="en">Australia v Pakistan. Action from the third and final T20 in the series from Ninja Stadium in Hobart.</desc>
     <category lang="en">Cricket - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/28d30c65fa6e475e140f3ecb43592561.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f%2F%2BwZABx7jjKfd2rhRJyPuZwH44CIhnxspWXSfr5e8NuJccpO7YGwJ2%2BwDIrGsxAI%3D" />
@@ -3123,7 +2960,7 @@
     <sub-title lang="en">07:00 am - 08:00 am,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Action from the final round of the season in Dubai.(n)</desc>
+    <desc lang="en">Action from the final round of the season in Dubai.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Triathlon</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e54ec07349d9fdbd4f7ec45e4430f8c0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fFz%2FPmctJBtzqZ9BvlHtacthLP6D66izNJ8pqPt5dJMTk%2BDmPgAhBzdvsKVb3qIx4%3D" />
@@ -3134,7 +2971,7 @@
     <sub-title lang="en">08:00 am - 08:45 am,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make our coverage accessible to deaf and hearing audiences alike.(n)</desc>
+    <desc lang="en">Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make our coverage accessible to deaf and hearing audiences alike.</desc>
     <category lang="en">General</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/fba088e0cfde4c2ff4d9fab2e2909f5a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f%2FAQuJDZszVNzMeaY%2Bc%2FYTvYjGWNzgEKWCB6lEcMKOuOU0Trttm9eaRMsrQrRaCHw%3D" />
@@ -3145,7 +2982,7 @@
     <sub-title lang="en">08:45 am - 12:00 pm,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Coverage of the first session of MotoGP pre-season testing, which takes place in Barcelona.(n)</desc>
+    <desc lang="en">Coverage of the first session of MotoGP pre-season testing, which takes place in Barcelona.</desc>
     <category lang="en">Motorcycling</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
@@ -3159,7 +2996,7 @@
     <sub-title lang="en">12:00 pm - 1:00 pm,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A review of the 2024 season, which featured eight rounds all taking place on European circuits.(n)</desc>
+    <desc lang="en">A review of the 2024 season, which featured eight rounds all taking place on European circuits.</desc>
     <category lang="en">Motor Sport</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c424f24925756870ea605c59505f9816.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ehCtlYhDWDOltJdxw55dF40zqni6uAjku6StHb4rWqWcOgPBX46uCQMBQR6WE0Kag%3D" />
@@ -3170,7 +3007,7 @@
     <sub-title lang="en">1:00 pm - 4:30 pm,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Coverage of the second session of MotoGP pre-season testing, which takes place in Barcelona.(n)</desc>
+    <desc lang="en">Coverage of the second session of MotoGP pre-season testing, which takes place in Barcelona.</desc>
     <category lang="en">Motorcycling</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
@@ -3184,7 +3021,7 @@
     <sub-title lang="en">4:30 pm - 5:00 pm,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The latest news and action from Beyond Rally and the World Rally Championship.(n)</desc>
+    <desc lang="en">The latest news and action from Beyond Rally and the World Rally Championship.</desc>
     <category lang="en">Rallying</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e92c2b5abaeab71bab7ff9441adb815e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c534cBm9WPeuZ%2B9zWI8gz41Fqjw5EbiRP9DO8Sw8bZgpO3zzkTFWbLnArhroncD6s%3D" />
@@ -3195,7 +3032,7 @@
     <sub-title lang="en">5:00 pm - 6:00 pm,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Ireland v Argentina.(n)</desc>
+    <desc lang="en">Ireland v Argentina.</desc>
     <category lang="en">Rugby Union - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1cc99261052ee2ff3309c4b19e81e208.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eJckb1kkoqeaXvSPItAwMyFF%2FDf6F2St%2BlaIV%2B2ofDyfhPDomAFtdnXw2RXstpS0g%3D" />
@@ -3206,7 +3043,7 @@
     <sub-title lang="en">6:00 pm - 7:00 pm,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Scotland v Portugal.(n)</desc>
+    <desc lang="en">Scotland v Portugal.</desc>
     <category lang="en">Rugby Union - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e2d6865f744a355a2a087567ad6e12c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cEOah4muaeEI%2FVhR2BRDDfJUaugdaxEXI6MQMHJ8yP4MkZXxj%2BzWa7s0LVt%2Fc4nLc%3D" />
@@ -3217,7 +3054,7 @@
     <sub-title lang="en">7:00 pm - 8:00 pm,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">England v South Africa.(n)</desc>
+    <desc lang="en">England v South Africa.</desc>
     <category lang="en">Rugby Union - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b0357eedd0e9dc8b006b06fc47eea123.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d4n8MwXDS2lRATiSkYN9am3zK49GDyB8hiiPEIBKHM%2BR52uF3FfVMAKOb9Gq1cEWY%3D" />
@@ -3228,7 +3065,7 @@
     <sub-title lang="en">8:00 pm - 9:00 pm,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Wales v Australia.(n)</desc>
+    <desc lang="en">Wales v Australia.</desc>
     <category lang="en">Rugby Union - International</category>
     <category lang="en">Sports</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/311a527845995c4062ceb56b7275ba6d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cT2C63g1iuaENx9rE8s8tjvQDtB1ZE9L9lQDpJqzMF4Edry4N%2FjqgojN076rowXfQ%3D" />
@@ -3239,10 +3076,219 @@
     <sub-title lang="en">9:00 pm - 11:30 pm,
  Tuesday, November 19
  on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Wrestling action.(n)</desc>
+    <desc lang="en">Wrestling action.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Wrestling</category>
     <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24692be4c9a10120c2fd9b6ffcb6673e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eq%2BcSuQ23mzVxQ6DftVACezMStFJNcMWMxZ18h99G9yCdTk6CMrX5GZjMsRNI0jLc%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241119233000 -0400" stop="20241120000000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">Original Documentary</title>
+    <sub-title lang="en">11:30 pm - 12:00 am,
+ Tuesday, November 19
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">Witness the remarkable journey of the one-armed goalkeeper who has defied all odds and refuses to give up.(n)</desc>
+    <category lang="en">General</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/bb1e6f1140a1ab577772055280c9328d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ccT81Vea%2Fw4O5u8eUQoyw8h373ljWeiUB6uhln91raZCTy3uQ3e4AtRR0YTQTeL2Q%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120000000 -0400" stop="20241120010000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">One Day International Cricket</title>
+    <sub-title lang="en">12:00 am - 01:00 am,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">Sri Lanka v New Zealand. Action from the third and final ODI in the series from Pallekele International Cricket Stadium.(n)</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/15a8b9ac5cbeaf681c2e54bb2c7a49f2.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cX%2BK%2BgrlxSA0uLZ3iRc%2BR5UdkYHFuON3iloc1HNaTyjTuYEB0EtSl3AXuErnUbdYE%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120010000 -0400" stop="20241120113000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">Live Badminton</title>
+    <sub-title lang="en">01:00 am - 11:30 am,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">The China Masters. Coverage from the Round of 32 of the tournament, which takes place at Shenzhen Bay Gymnasium in Shenzhen.(n)</desc>
+    <category lang="en">Badminton</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/82046140478442ffcc1f4fd10e985225.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cF5Ps9%2F0HPcd%2FGOYkSFZJgYmNsS2ChrvGode8TXXtE0gYmLlRTMOye7NNEjS%2FKcBY%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120113000 -0400" stop="20241120114500 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">Badminton Weekly</title>
+    <sub-title lang="en">11:30 am - 11:45 am,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">A round-up of the latest news and action.(n)</desc>
+    <category lang="en">Badminton</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d386c5f1d7e3961fcd9a9edc96ba418a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4co39WFkEFIj%2Fr2CWBn4HYc%2BFhINBAvgAliRYI0Zx%2FOKD7gifvqFO0phoDlijnmdzE%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120114500 -0400" stop="20241120120000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <sub-title lang="en">11:45 am - 12:00 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">The first ODI between West Indies and England the three-match series.(n)</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d0bda0d7991ffc46088b9ea2c1b5d4f5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fOY%2FXL7K%2FHeoE31bQuW6dzod2FTe6IZUAynnjI4fiI53YS08D3TSfX0%2FKAH4VeAKQ%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120120000 -0400" stop="20241120130000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">One Day International Cricket</title>
+    <sub-title lang="en">12:00 pm - 1:00 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">Sri Lanka v New Zealand. Action from the third and final ODI in the series from Pallekele International Cricket Stadium.(n)</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/15a8b9ac5cbeaf681c2e54bb2c7a49f2.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cX%2BK%2BgrlxSA0uLZ3iRc%2BR5UdkYHFuON3iloc1HNaTyjTuYEB0EtSl3AXuErnUbdYE%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120130000 -0400" stop="20241120140000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">T20 Cricket Highlights</title>
+    <sub-title lang="en">1:00 pm - 2:00 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">Australia v Pakistan. Action from the third and final T20 in the series from Ninja Stadium in Hobart.(n)</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/28d30c65fa6e475e140f3ecb43592561.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f%2F%2BwZABx7jjKfd2rhRJyPuZwH44CIhnxspWXSfr5e8NuJccpO7YGwJ2%2BwDIrGsxAI%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120140000 -0400" stop="20241120143000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">The WRC Magazine</title>
+    <sub-title lang="en">2:00 pm - 2:30 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">The latest news and action from the World Rally Championship and Rally Japan.(n)</desc>
+    <category lang="en">Rallying</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e92c2b5abaeab71bab7ff9441adb815e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c534cBm9WPeuZ%2B9zWI8gz41Fqjw5EbiRP9DO8Sw8bZgpO3zzkTFWbLnArhroncD6s%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120143000 -0400" stop="20241120144500 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">MotoGP Rewind</title>
+    <sub-title lang="en">2:30 pm - 2:45 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">A look back at the best of the action from the 2024 Solidarity Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d2f47a44beec1371e80d725cde633b82.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c%2FAqZO7kzgurSmMpY%2FP3cOOf5vac3OUtCvvYJdHE05NsVxLLsESvvl77FQPMzIlk0%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120144500 -0400" stop="20241120150000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <sub-title lang="en">2:45 pm - 3:00 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">A look back at Sri Lanka v New Zealand in the second ODI in the series.(n)</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d0bda0d7991ffc46088b9ea2c1b5d4f5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fOY%2FXL7K%2FHeoE31bQuW6dzod2FTe6IZUAynnjI4fiI53YS08D3TSfX0%2FKAH4VeAKQ%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120150000 -0400" stop="20241120160000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">One Day International Cricket</title>
+    <sub-title lang="en">3:00 pm - 4:00 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">Sri Lanka v New Zealand. Action from the third and final ODI in the series from Pallekele International Cricket Stadium.(n)</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/15a8b9ac5cbeaf681c2e54bb2c7a49f2.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cX%2BK%2BgrlxSA0uLZ3iRc%2BR5UdkYHFuON3iloc1HNaTyjTuYEB0EtSl3AXuErnUbdYE%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120160000 -0400" stop="20241120170000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">Fishing: On the Bank</title>
+    <sub-title lang="en">4:00 pm - 5:00 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring round three of the 2024 European Fishing League.(n)</desc>
+    <category lang="en">Fishing</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9220ef6b6ec311e21e4ce562b3b33c73.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d2yLkd%2FjiuNVuwTENgfu%2BfxGyk33yBHkqLeNrryTtclGzK3WDKA53BUWpdLJARQTQ%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120170000 -0400" stop="20241120180000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <sub-title lang="en">5:00 pm - 6:00 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">Wrestling action.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f8ac9a282d5541b08c26b980735d8684.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dEHw6QvBRutkql7tCXFbvgkfXf9UtbeXvzjROPz2nK0kOJuG7CnfLCNyz36d9xyUA%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120180000 -0400" stop="20241120190000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">WWE Raw Highlights</title>
+    <sub-title lang="en">6:00 pm - 7:00 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">Wrestling action.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2131604d343f8108b3d0b16b8ff83be5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fdHOSYRL9T6EKBXj%2FVMjCJCI5VYH1hhg%2Be4ZApVheZA2kmclDdPhFDxQiFfUS9wnQ%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120190000 -0400" stop="20241120200000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">Ariel Helwani Meets</title>
+    <sub-title lang="en">7:00 pm - 8:00 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">An interview with WWE star Roman Reigns.(n)</desc>
+    <category lang="en">General</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1d7947c38b59e7d8974103072929e12e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4egS%2FMIb1kUj1YAvEHW9T7plD%2B5ko5CYgka11K4GCXkcYfrjetgIPrz0PFm1eG2qGU%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120200000 -0400" stop="20241120210000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">MotoGP Highlights</title>
+    <sub-title lang="en">8:00 pm - 9:00 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">Action from MotoGP and the Solidarity Grand Prix of Barcelona.(n)</desc>
+    <category lang="en">Motor Sport</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/ddf20e4f0c9b89e68bbaf5e861c252c2.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fe5bhR5aqmjRaDQOYeiGQCuaRxfZgyturboTgIW%2BjHdTwwrHVwqjPN6KPvut8QYvE%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120210000 -0400" stop="20241120220000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">WWE Raw Highlights</title>
+    <sub-title lang="en">9:00 pm - 10:00 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">Wrestling action.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2131604d343f8108b3d0b16b8ff83be5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fdHOSYRL9T6EKBXj%2FVMjCJCI5VYH1hhg%2Be4ZApVheZA2kmclDdPhFDxQiFfUS9wnQ%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120220000 -0400" stop="20241120223000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">Ariel Helwani Meets</title>
+    <sub-title lang="en">10:00 pm - 10:30 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">An interview with AJ Styles.(n)</desc>
+    <category lang="en">General</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6bd110560aab2de733ae6a41651744bf.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e%2F5R3oJgj8DAkzlnZ3kBIyCrAl3TRfvjAzFIwEUQzeLizq1Bd6vCOBDXlt2QBYy1s%3D" />
+    <previously-shown />
+  </programme>
+  <programme start="20241120223000 -0400" stop="20241120230000 -0400" channel="TNT Sports 2 HD">
+    <title lang="en">TNT Sports Reload</title>
+    <sub-title lang="en">10:30 pm - 11:00 pm,
+ Wednesday, November 20
+ on TNT Sports 2 HD (431)</sub-title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+    <category lang="en">General</category>
+    <category lang="en">Sports</category>
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
     <previously-shown />
   </programme>
 </tv>
