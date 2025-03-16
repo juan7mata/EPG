@@ -174,492 +174,12 @@
     <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
     <url>http://www.optussport.com.au</url>
   </channel>
-  <programme start="20250314003000 -0300" stop="20250314010000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Serie A - Full Impact</title>
-    <sub-title lang="en">12:30 am - 01:00 am,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Action from the Italian top flight, including Juventus v Inter Milan, Lazio v Napoli and Parma v AS Roma.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/5132caa488df23b22bb8bd36ab403c91.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eeaChDVBODKw6txAbs3Q4s4L5QiXoj4caDKDZ%2BqTIQHdPrIzmKokOKD%2F%2F8OqUBs9c%3D" />
+  <programme start="20250316003000 -0300" stop="20250316010000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Biathlon World Cup</title>
     <previously-shown />
   </programme>
-  <programme start="20250314010000 -0300" stop="20250314020000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">UEFA Europa League</title>
-    <sub-title lang="en">01:00 am - 02:00 am,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Manchester United v Real Sociedad.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/4882b49a6c0d673e95dc84d29aad00c6.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eU8ElmIUNBvzMtoCiiqkC%2BO4TUhgZHI9V0KYzgugk8pG4EQ8Jctuq6W8Yx3R0F8ss%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314020000 -0300" stop="20250314030000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">UEFA Europa League</title>
-    <sub-title lang="en">02:00 am - 03:00 am,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Rangers v Fenerbahce.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b7f974203e70e1196274fbea9a416793.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dj%2F3IoSuP3qcLaekso%2B6n2vQieg2R2Jy68GMkcm%2BeNTgSgaPN3TKpDqeR4%2FzleR7o%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314030000 -0300" stop="20250314040000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">UEFA Europa League</title>
-    <sub-title lang="en">03:00 am - 04:00 am,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Tottenham v AZ Alkmaar.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1a02dc14f6aa6bcae970d33accda6baf.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e%2FAAyDeD4WdPAawrklrgDVN8g3AnxTZ8Wm3bW0GawMMu6CMe2vda6ojKm1%2Ff60p%2F4%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314040000 -0300" stop="20250314050000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">UEFA Conference League</title>
-    <sub-title lang="en">04:00 am - 05:00 am,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Chelsea v FC Copenhagen.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/8b62df2105396bf4785768712a40a890.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fkHge52CGlBesip07fYplFWuocMyg3JW1LX4tsBQgNxe3eXXjxfuD3cLBYY4sRj4k%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314050000 -0300" stop="20250314060000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Women's One-Day International Cricket</title>
-    <sub-title lang="en">05:00 am - 06:00 am,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">New Zealand v Sri Lanka. Action from the third and final ODI in the series from Saxton Oval in Saxton, Stoke, Nelson Region.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/348d7170863831b40b08320fa7059cb4.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cdSrl92VomRHAzmcvJEP4kQABBM%2BVjBMsUMT7ixFOt%2BDou9TiDDYsvuW7T7jCGERo%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314060000 -0300" stop="20250314070000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Fishing: On the Bank</title>
-    <sub-title lang="en">06:00 am - 07:00 am,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Rob Highes makes history catching huge perch in Holland, carp expert Dan Hawkes offers some winter tips, while Andy Ford goes in search of grayling on the Upper Avon.</desc>
-    <category lang="en">Fishing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9220ef6b6ec311e21e4ce562b3b33c73.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d2yLkd%2FjiuNVuwTENgfu%2BfxGyk33yBHkqLeNrryTtclGzK3WDKA53BUWpdLJARQTQ%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314070000 -0300" stop="20250314073000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Ninja A-League Women Highlights</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250314073000 -0300" stop="20250314081500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Sign Up - Into Football</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250314081500 -0300" stop="20250314084500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250314084500 -0300" stop="20250314094500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Live: Snowboard World Cup</title>
-    <sub-title lang="en">08:45 am - 09:45 am,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Coverage of the women's slope style finals, which take place in Flachauwinkl, Austria.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6b3f4cb3eda66e1a608ce5f792432301.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eiGmf0b6z3vrkQcgNruuTmfUKSbKvipw6XgnpktX938tXdSEdlgcSfAO%2FLeDWQ58Y%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314094500 -0300" stop="20250314114500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Live: Women's Alpine Skiing World Cup</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250314114500 -0300" stop="20250314130000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Live: Snowboard World Cup</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250314130000 -0300" stop="20250314134500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Sign Up - Into Football</title>
-    <sub-title lang="en">1:00 pm - 1:45 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make our coverage accessible to deaf and hearing audiences alike.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/fba088e0cfde4c2ff4d9fab2e2909f5a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f%2FAQuJDZszVNzMeaY%2Bc%2FYTvYjGWNzgEKWCB6lEcMKOuOU0Trttm9eaRMsrQrRaCHw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314134500 -0300" stop="20250314154500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Live: Men's Cycling World Tour</title>
-    <sub-title lang="en">1:45 pm - 3:45 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Coverage of stage six of the Paris-Nice, a 209.8km route from Saint-Julien-en-Saint-Alban to Berre l'Etang.</desc>
-    <category lang="en">Cycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c182a34e374990700b6fc8f952a3d056.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dV3Q6d7EN%2B2getJ%2Bod6QM%2Bww0bUPRY4Fp9JfHQLSBgjuh%2BUiOgDkLGiL2YP29vdnE%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314154500 -0300" stop="20250314160000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">TNT Sports Reload</title>
-    <sub-title lang="en">3:45 pm - 4:00 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314160000 -0300" stop="20250314161500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Under the Lights</title>
-    <sub-title lang="en">4:00 pm - 4:15 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A look at memorable European football nights at Ibrox.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250314161500 -0300" stop="20250314164500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Freestyle Skiing World Cup</title>
-    <sub-title lang="en">4:15 pm - 4:45 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Coverage of the women's slope style finals in Tignes, France.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/442940bc925190a4be6ac008b16795c2.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eXbb960okAAiOTgjcrVW%2FnRXNWh7hAFGO5swl6cw7Sz%2Bt1h9H07v9mQSzzOHMF9AA%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314164500 -0300" stop="20250314183000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Live: Freestyle Skiing World Cup</title>
-    <sub-title lang="en">4:45 pm - 6:30 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Coverage of the mixed ski cross event, which takes place in Craigleath, Scotland.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/40795205c8da03b03a72c188fc93147c.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eiRNdz12a%2BdlZOkRwqf9gY9EkdwbN8EPfIEsrzChN6DGcCIlX%2F1onNl6UecJytgl4%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314183000 -0300" stop="20250314184500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Under the Lights</title>
-    <sub-title lang="en">6:30 pm - 6:45 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A look at memorable European football nights at Ibrox.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250314184500 -0300" stop="20250314190000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Crouchy and Cole</title>
-    <sub-title lang="en">6:45 pm - 7:00 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Peter Crouch and Joe Cole visit Lords to try their hand at cricket, taught by England greats Lydia Greenway and Alastair Cook.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9057a49377601a64439da9277b418b98.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4crV2gP7gd58MoA7ZUu9pmyV1Se1XyKDxGKWfarWEzAuzAHVB4232zLuzADAu7LNkY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314190000 -0300" stop="20250314193000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">NBA on Fire</title>
-    <sub-title lang="en">7:00 pm - 7:30 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">The latest news from the world of the NBA.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dd17aef8edca4e395af093dc0b85a1ca.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eiDiU45qIlP08YE8Rj8hU1RpiwVKDVZ%2BERNxJ8Im6zEF5DT027Cp%2FVH0GimXgzOBY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314193000 -0300" stop="20250314200000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">SailGP - Racing on the Edge</title>
-    <sub-title lang="en">7:30 pm - 8:00 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">An unprecedented look at SailGP and the sport's best athletes.</desc>
-    <category lang="en">Sailing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/ba45c2d58b1ea90510262295f6af941b.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eFwQcBNdBic2fjiTQhmlLLxF41mX2lwlGUHVbbgVTgLwfIcFZeReYIq559QrBNWFc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314200000 -0300" stop="20250314210000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Fishing: On the Bank</title>
-    <sub-title lang="en">8:00 pm - 9:00 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Rob Highes makes history catching huge perch in Holland, carp expert Dan Hawkes offers some winter tips, while Andy Ford goes in search of grayling on the Upper Avon.</desc>
-    <category lang="en">Fishing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9220ef6b6ec311e21e4ce562b3b33c73.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d2yLkd%2FjiuNVuwTENgfu%2BfxGyk33yBHkqLeNrryTtclGzK3WDKA53BUWpdLJARQTQ%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314210000 -0300" stop="20250314230000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">9:00 pm - 11:00 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Hawthorn Hawks v Essendon Bombers.</desc>
-    <category lang="en">Australian Rules Football</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6d4a6f8ba2612b3b25353595f969f037.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cQS6boQY00aSdAXsxrXryMogOx6GJQ5gjfP74CbJCklV5BpGAwb%2FeQ8PKrCRNSuHM%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314230000 -0300" stop="20250314233000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Fight Week</title>
-    <sub-title lang="en">11:00 pm - 11:30 pm,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A review of UFC 313.</desc>
-    <category lang="en">Combat Sports (without Own Categ</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/73287e1be1528c591539fe243ba6c240.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eebavp6hc%2FKfvJOe7CtuSgKp49oDSvYUp8NTfESWIpNRG%2FK0Cs2BI8WhlT6hCN%2FV8%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314233000 -0300" stop="20250315003000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">UFC Main Event</title>
-    <sub-title lang="en">11:30 pm - 12:30 am,
- Friday, March 14
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A look back at a classic UFC bout.</desc>
-    <category lang="en">Martial Sports</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24ad7d3945e4ad8f47d04f1139468d0a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eU5IS6FoTWo%2Bgx78Qm1Cb44LuX%2FLyXR8y0x7zjN3Lfn8JCODBJKdUw4gumiPhcW%2Fg%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315003000 -0300" stop="20250315010000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">UFC Connected</title>
-    <sub-title lang="en">12:30 am - 01:00 am,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A unique look inside the UFC with exclusive access to fighters, teams and events.</desc>
-    <category lang="en">Martial Sports</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/39867a7e1e0cb6a90739521e1cffb834.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dJe3h3bDCuJZwq2uUtvnqN45GEdlcI8ZY57eCk6zPFlSxiM2Su%2Fe05uRSkZV9W7xM%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315010000 -0300" stop="20250315020000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Women's T20 International Cricket</title>
-    <sub-title lang="en">01:00 am - 02:00 am,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">New Zealand v Sri Lanka. Action from the first T20 in the three-match series from Hagley Oval in Christchurch.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7e3b147e0faee66015de1ec8b5dd6556.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e9mp3Vbihhuu6zhGR6ngyez6uYjzZ9gbh4FndPEjg9bPrY98Lk4g%2FMPj9BpNQHJB0%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250315020000 -0300" stop="20250315023000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Fight Week</title>
-    <sub-title lang="en">02:00 am - 02:30 am,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A review of UFC 313.</desc>
-    <category lang="en">Combat Sports (without Own Categ</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/73287e1be1528c591539fe243ba6c240.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eebavp6hc%2FKfvJOe7CtuSgKp49oDSvYUp8NTfESWIpNRG%2FK0Cs2BI8WhlT6hCN%2FV8%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315023000 -0300" stop="20250315033000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Men's Cycling World Tour</title>
-    <sub-title lang="en">02:30 am - 03:30 am,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Action from stage five of the Tirreno Adriatico.</desc>
-    <category lang="en">Cycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/751abf82904ae847011cfb634fded417.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cjAPPUEGt7h7hNvJAuB3%2FLb5DTBczKNyFWE6iWloQA2EcZ67wCpjL%2FtLRrpuixLKU%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315033000 -0300" stop="20250315043000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Men's Cycling World Tour</title>
-    <sub-title lang="en">03:30 am - 04:30 am,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Action from the sixth stage of the Paris-Nice.</desc>
-    <category lang="en">Cycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/87cd4dc24bb83dd7d95956dec15ad55c.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e1wnourKaLHUzbvQpNs%2B005sGmPFn9gx5qq8OlEIpw%2Fb0gUJ%2BqNSvhjRurt4fvCso%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315043000 -0300" stop="20250315053000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Women's Bundesliga</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250315053000 -0300" stop="20250315074500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Live: A-League Women</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250315074500 -0300" stop="20250315080000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Under the Lights</title>
-    <sub-title lang="en">07:45 am - 08:00 am,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A look at memorable European football nights at Ibrox.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/cf7ed4e1a02ab3f57fb159d846a22d68.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cpsLxCY7UbfD1vPgZj4LW%2BQYQaq4Ar%2BB1Q9ALM5dgIxxcxlS6j9zeJyLCHYzMyWAg%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315080000 -0300" stop="20250315083000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Premier League Preview</title>
-    <sub-title lang="en">08:00 am - 08:30 am,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A look ahead to all the upcoming action in the top flight, including Arsenal v Chelsea, Manchester City v Brighton &amp; Hove Albion, and Arsenal v Chelsea.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/85fc2df434f5fec64aca80d6998c91e8.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cWWoge1n7kmVmpKfiS1dY1%2Bt5LKFDQDN2w0lxpUI06AS3NjSuxkQxQsYhkHTrBqHY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315083000 -0300" stop="20250315104500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Live: Isuzu UTE A-League</title>
-    <sub-title lang="en">08:30 am - 10:45 am,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Western Sydney Wanderers v Melbourne Victory (Kick-off 8.30am). Coverage of the Australian top-flight match from CommBank Stadium in Sydney.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d6abf5ae673dc7bbfa9a2e23c6389fae.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f8ZTRwWW3sk%2B0DaYTiryUCluCB8sBcTAcj5bAmIrguP0IY4uBvzKG3frIeWYz9aEU%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315104500 -0300" stop="20250315111500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">MotoGP</title>
-    <sub-title lang="en">10:45 am - 11:15 am,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Action, news and reactions from the second round of the season. Suzi Perry and the team are trackside at Termas de Rio Hondo in Argentina.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315111500 -0300" stop="20250315113000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Under the Lights</title>
-    <sub-title lang="en">11:15 am - 11:30 am,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">A look at memorable European football nights at Ibrox.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/cf7ed4e1a02ab3f57fb159d846a22d68.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cpsLxCY7UbfD1vPgZj4LW%2BQYQaq4Ar%2BB1Q9ALM5dgIxxcxlS6j9zeJyLCHYzMyWAg%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315113000 -0300" stop="20250315123000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">The Ultimate Cycling Show</title>
-    <sub-title lang="en">11:30 am - 12:30 pm,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Orla Chennaoui and Adam Blythe are joined by the stars of cycling for a comprehensive guide to bike racing on the track, road and in the mountains.</desc>
-    <category lang="en">Cycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/fdfd9fa4da4ca113f056f59a410edeb6.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e4zIP%2FIIp1ITBjsqzndteMLEDcc44i1RNMY1P2BLb%2B9lkFMfHb%2BCzvvG71kvXtvfw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315123000 -0300" stop="20250315143000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Live: Men's Cycling World Tour</title>
-    <sub-title lang="en">12:30 pm - 2:30 pm,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Coverage of stage seven of the Paris-Nice, a 147.8km route from Nice to Auron.</desc>
-    <category lang="en">Cycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c182a34e374990700b6fc8f952a3d056.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dV3Q6d7EN%2B2getJ%2Bod6QM%2Bww0bUPRY4Fp9JfHQLSBgjuh%2BUiOgDkLGiL2YP29vdnE%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315143000 -0300" stop="20250315153000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Live: Biathlon World Cup</title>
-    <sub-title lang="en">2:30 pm - 3:30 pm,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Coverage of the men's 15km mass start event, which takes place in Pokljuka, Slovenia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/27f56988f81870bfd408279ec5beabf6.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eELAFB2fz%2F7WjBhS059%2BvJooAA9OvSrxqAp9M76R7SYqvq95S%2F2T%2FDRD8UfvWfaNs%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315153000 -0300" stop="20250315154500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">TNT Sports Reload</title>
-    <sub-title lang="en">3:30 pm - 3:45 pm,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315154500 -0300" stop="20250315174500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Live: Men's Ski Jumping World Cup</title>
-    <sub-title lang="en">3:45 pm - 5:45 pm,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Coverage from day one of the HS240 event, which takes place in Vikersund, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7d4d78cecd42ef22f375dca5fb8069d4.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cjHdGOPZzebJA68zTyUDf9%2BOkU0biu1%2BKqhvo1910o9d4URrSiImEYo8UzCE8qc1o%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315174500 -0300" stop="20250315181500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
-    <sub-title lang="en">5:45 pm - 6:15 pm,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Action from the Super G event in La Thuile, Italy.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/42f0fb2e8fc09a0f0484bb5497b2d900.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c1cF%2BV0DXbqU67R3tkme7MeS5rPwSknvU2IfgDgYTX9ksduZ7OMJvkuvn%2FItQtpTs%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315181500 -0300" stop="20250315183000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">TNT Sports Reload</title>
-    <sub-title lang="en">6:15 pm - 6:30 pm,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315183000 -0300" stop="20250315203000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">6:30 pm - 8:30 pm,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Western Bulldogs v North Melbourne Kangaroos.</desc>
-    <category lang="en">Australian Rules Football</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/da1dc56fba029cd10bcc796d01e8e4dd.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e2orH9hBFoFN7Munk1RF4%2Bgsq6QjmIAA0Ud4J2Bsu91idSvxv3OcZsOCAJHN0a8ac%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315203000 -0300" stop="20250315220000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">NBA</title>
-    <sub-title lang="en">8:30 pm - 10:00 pm,
- Saturday, March 15
- on TNT Sports 3 HD (432)</sub-title>
-    <desc lang="en">Memphis Grizzlies v Cleveland Cavaliers.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/819be87b10c5975d8ebbb9dd887156cd.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fsCmBgnz0o68IkeoKN2XGwFvMdQ7FRSeL7KrPDVMIFb7C%2BsmkErPkslSoXBZdpxXE%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315220000 -0300" stop="20250316003000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Live NBA</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250316003000 -0300" stop="20250316013000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Men's Cycling World Tour</title>
+  <programme start="20250316010000 -0300" stop="20250316013000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Biathlon World Cup</title>
     <previously-shown />
   </programme>
   <programme start="20250316013000 -0300" stop="20250316041500 -0300" channel="TNT Sports 3 HD">
@@ -722,645 +242,192 @@
     <title lang="en">Tom Aspinall's Fight Lab</title>
     <previously-shown />
   </programme>
-  <programme start="20250314003000 -0300" stop="20250314013000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Biathlon World Cup</title>
-    <sub-title lang="en">12:30 am - 01:30 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the men's 20km individual event in Pokljuka, Slovenia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/89b7639622a6f49e4130b44514924c77.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4efkS2%2BL52Ig17lpCF7icQtQJ%2F6SuVyaHsBXOg%2BkwXk5t6RYBKlkDDDxBrY7YrBLfw%3D" />
+  <programme start="20250316221500 -0300" stop="20250317011500 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">UFC</title>
     <previously-shown />
   </programme>
-  <programme start="20250314013000 -0300" stop="20250314023000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">UFC Main Event</title>
-    <sub-title lang="en">01:30 am - 02:30 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A look back at a classic UFC bout.</desc>
-    <category lang="en">Martial Sports</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24ad7d3945e4ad8f47d04f1139468d0a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eU5IS6FoTWo%2Bgx78Qm1Cb44LuX%2FLyXR8y0x7zjN3Lfn8JCODBJKdUw4gumiPhcW%2Fg%3D" />
+  <programme start="20250317011500 -0300" stop="20250317013000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Tom Aspinall's Fight Lab</title>
     <previously-shown />
   </programme>
-  <programme start="20250314023000 -0300" stop="20250314030000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">UFC Connected</title>
-    <sub-title lang="en">02:30 am - 03:00 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A unique look inside the UFC with exclusive access to fighters, teams and events.</desc>
-    <category lang="en">Martial Sports</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/39867a7e1e0cb6a90739521e1cffb834.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dJe3h3bDCuJZwq2uUtvnqN45GEdlcI8ZY57eCk6zPFlSxiM2Su%2Fe05uRSkZV9W7xM%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314030000 -0300" stop="20250314040000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Biathlon World Cup</title>
-    <sub-title lang="en">03:00 am - 04:00 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the women's 15km individual event in Pokljuka, Slovenia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/89b7639622a6f49e4130b44514924c77.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4efkS2%2BL52Ig17lpCF7icQtQJ%2F6SuVyaHsBXOg%2BkwXk5t6RYBKlkDDDxBrY7YrBLfw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314040000 -0300" stop="20250314050000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Biathlon World Cup</title>
-    <sub-title lang="en">04:00 am - 05:00 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the men's 20km individual event in Pokljuka, Slovenia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/89b7639622a6f49e4130b44514924c77.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4efkS2%2BL52Ig17lpCF7icQtQJ%2F6SuVyaHsBXOg%2BkwXk5t6RYBKlkDDDxBrY7YrBLfw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314050000 -0300" stop="20250314053000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Women's Ski Jumping World Cup</title>
-    <sub-title lang="en">05:00 am - 05:30 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the HS134 event in Oslo, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/a27490eaa2124afdb5232759b9b815e5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d79tvsLbmOkXMoh6Ha5pY53Y39qY6sPUGgOHKrxU4GhARq%2BqBPx93zSQMm3Nskin8%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314053000 -0300" stop="20250314060000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Men's Ski Jumping World Cup</title>
-    <sub-title lang="en">05:30 am - 06:00 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the HS134 event in Oslo, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/a03cce6d997246128f46a73c86549f36.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ffR4XGhfEO8eWZU0cGyFM93zF2wA9NfbUiK1j6YAftHJEIh8AGYynxdCagTD5ePRM%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314060000 -0300" stop="20250314070000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">UEFA Europa League</title>
-    <sub-title lang="en">06:00 am - 07:00 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Manchester United v Real Sociedad.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/4882b49a6c0d673e95dc84d29aad00c6.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eU8ElmIUNBvzMtoCiiqkC%2BO4TUhgZHI9V0KYzgugk8pG4EQ8Jctuq6W8Yx3R0F8ss%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314070000 -0300" stop="20250314080000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">UEFA Europa League</title>
-    <sub-title lang="en">07:00 am - 08:00 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Rangers v Fenerbahce.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b7f974203e70e1196274fbea9a416793.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dj%2F3IoSuP3qcLaekso%2B6n2vQieg2R2Jy68GMkcm%2BeNTgSgaPN3TKpDqeR4%2FzleR7o%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314080000 -0300" stop="20250314081500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Under the Lights</title>
-    <sub-title lang="en">08:00 am - 08:15 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A look at memorable European football nights at Ibrox.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250314081500 -0300" stop="20250314083000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Premier League Reload</title>
-    <sub-title lang="en">08:15 am - 08:30 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A whirlwind catch-up from the weekend's top-flight matches, featuring all the goals from Nottingham Forest v Manchester City and Manchester United v Arsenal.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/da51bfe499ca6c46c93b56207b732d9b.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d%2FM%2BsDl176SyEjw%2BBitgi51y41QPaktDy76O73n%2FwuNPJHdzf62pA46TtzX8Uf%2F4M%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314083000 -0300" stop="20250314103000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Isuzu UTE A-League</title>
-    <sub-title lang="en">08:30 am - 10:30 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Adelaide United v Macarthur FC (Kick-off 8.35am). Coverage of the Australian top-flight match from Coopers Stadium in Hindmarsh, Adelaide.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d6abf5ae673dc7bbfa9a2e23c6389fae.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f8ZTRwWW3sk%2B0DaYTiryUCluCB8sBcTAcj5bAmIrguP0IY4uBvzKG3frIeWYz9aEU%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314103000 -0300" stop="20250314104500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Training Day</title>
-    <sub-title lang="en">10:30 am - 10:45 am,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Peter Crouch and Joe Cole visit Nottingham Forest.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/4b9e74354fbcd038f393b515a03ff51a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eD6y%2F0ckTBy6QErGqmjj91K9ODecfaBeLNLd2q%2BxzJHhvKqZd7PtS5ccXdaRZ6%2Bhs%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314104500 -0300" stop="20250314121500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Freestyle Skiing World Cup</title>
-    <sub-title lang="en">10:45 am - 12:15 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Coverage of the men's slope style finals, which take place in Tignes, France.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/40795205c8da03b03a72c188fc93147c.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eiRNdz12a%2BdlZOkRwqf9gY9EkdwbN8EPfIEsrzChN6DGcCIlX%2F1onNl6UecJytgl4%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314121500 -0300" stop="20250314124500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Men's Ski Jumping World Cup</title>
-    <sub-title lang="en">12:15 pm - 12:45 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the HS134 event in Oslo, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/a03cce6d997246128f46a73c86549f36.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ffR4XGhfEO8eWZU0cGyFM93zF2wA9NfbUiK1j6YAftHJEIh8AGYynxdCagTD5ePRM%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314124500 -0300" stop="20250314130000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">TNT Sports Reload</title>
-    <sub-title lang="en">12:45 pm - 1:00 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314130000 -0300" stop="20250314140000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Biathlon World Cup</title>
-    <sub-title lang="en">1:00 pm - 2:00 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the women's 15km individual event in Pokljuka, Slovenia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/89b7639622a6f49e4130b44514924c77.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4efkS2%2BL52Ig17lpCF7icQtQJ%2F6SuVyaHsBXOg%2BkwXk5t6RYBKlkDDDxBrY7YrBLfw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314140000 -0300" stop="20250314143000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">NBA Action</title>
-    <sub-title lang="en">2:00 pm - 2:30 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A round-up of the latest action from the NBA.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9405dfecd1690fe7168e2177d2719f93.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dkIMS1ND7G1z8cyIOCibTNpCiJy7RWRyn3OYDISKU47NgQNRBDeOUDz4HBNK9KDxI%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314143000 -0300" stop="20250314160000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">NBA</title>
-    <sub-title lang="en">2:30 pm - 4:00 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Milwaukee Bucks v Los Angeles Lakers.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/0ed6d979465a3d0bc4c5f459e4676287.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dOAKjJqL2IxiHi%2Fvxvyh7qQUxeh%2Bi6cFKEV9zRU8lqXFOjoa3855wdhdZQfzxl8es%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314160000 -0300" stop="20250314170000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Men's Ski Jumping World Cup</title>
-    <sub-title lang="en">4:00 pm - 5:00 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Coverage from day one of the HS240 qualifying event, which takes place in Vikersund, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7d4d78cecd42ef22f375dca5fb8069d4.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cjHdGOPZzebJA68zTyUDf9%2BOkU0biu1%2BKqhvo1910o9d4URrSiImEYo8UzCE8qc1o%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314170000 -0300" stop="20250314173000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">The Fantasy Show</title>
-    <sub-title lang="en">5:00 pm - 5:30 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Insight and tips ahead of gameweek 29 in the Premier League.</desc>
-    <category lang="en">Football/Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c37cadf44a2640ddc626b0db7909f5f3.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ciN5UXLr4%2BSxXYlAFJbQf%2Bt%2F%2B2sFPgFYcuyyhNdPe1oaJHl%2B303xG9jix0js4bb9o%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314173000 -0300" stop="20250314180000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">NBA on Fire</title>
-    <sub-title lang="en">5:30 pm - 6:00 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">The latest news from the world of the NBA.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dd17aef8edca4e395af093dc0b85a1ca.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eiDiU45qIlP08YE8Rj8hU1RpiwVKDVZ%2BERNxJ8Im6zEF5DT027Cp%2FVH0GimXgzOBY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314180000 -0300" stop="20250314183000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250314183000 -0300" stop="20250314190000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Snowboard World Cup</title>
-    <sub-title lang="en">6:30 pm - 7:00 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the women's slope style finals in Flachauwinkl, Austria.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/75fab02cb5fc9f228e801339b68612e5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eOxzAQTxPF4D1fAE5XoH2HzXcdUI8JuACyH8%2FUX2wBTo9SqImm3CQasK3UWJBs9lw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314190000 -0300" stop="20250314193000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Snowboard World Cup</title>
-    <sub-title lang="en">7:00 pm - 7:30 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the men's slope style finals in Flachauwinkl, Austria.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/75fab02cb5fc9f228e801339b68612e5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eOxzAQTxPF4D1fAE5XoH2HzXcdUI8JuACyH8%2FUX2wBTo9SqImm3CQasK3UWJBs9lw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314193000 -0300" stop="20250314203000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Biathlon World Cup</title>
-    <sub-title lang="en">7:30 pm - 8:30 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the women's 15km individual event in Pokljuka, Slovenia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/89b7639622a6f49e4130b44514924c77.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4efkS2%2BL52Ig17lpCF7icQtQJ%2F6SuVyaHsBXOg%2BkwXk5t6RYBKlkDDDxBrY7YrBLfw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314203000 -0300" stop="20250314213000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Biathlon World Cup</title>
-    <sub-title lang="en">8:30 pm - 9:30 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the men's 20km individual event in Pokljuka, Slovenia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/89b7639622a6f49e4130b44514924c77.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4efkS2%2BL52Ig17lpCF7icQtQJ%2F6SuVyaHsBXOg%2BkwXk5t6RYBKlkDDDxBrY7YrBLfw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314213000 -0300" stop="20250314220000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Freestyle Skiing World Cup</title>
-    <sub-title lang="en">9:30 pm - 10:00 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Coverage of the women's slope style finals in Tignes, France.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/442940bc925190a4be6ac008b16795c2.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eXbb960okAAiOTgjcrVW%2FnRXNWh7hAFGO5swl6cw7Sz%2Bt1h9H07v9mQSzzOHMF9AA%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314220000 -0300" stop="20250314223000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250314223000 -0300" stop="20250314230000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Snowboard World Cup</title>
-    <sub-title lang="en">10:30 pm - 11:00 pm,
- Friday, March 14
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the women's slope style finals in Flachauwinkl, Austria.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/75fab02cb5fc9f228e801339b68612e5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eOxzAQTxPF4D1fAE5XoH2HzXcdUI8JuACyH8%2FUX2wBTo9SqImm3CQasK3UWJBs9lw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314230000 -0300" stop="20250314233000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Snowboard World Cup</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250314233000 -0300" stop="20250315000000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">MotoGP</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250315000000 -0300" stop="20250315010000 -0300" channel="TNT Sports 4 HD">
+  <programme start="20250317013000 -0300" stop="20250317023000 -0300" channel="TNT Sports 3 HD">
     <title lang="en">Isuzu UTE A-League</title>
     <previously-shown />
   </programme>
-  <programme start="20250315010000 -0300" stop="20250315020000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Vendee Globe Highlights</title>
+  <programme start="20250317023000 -0300" stop="20250317033000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Serie A</title>
     <previously-shown />
   </programme>
-  <programme start="20250315020000 -0300" stop="20250315023000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Freestyle Skiing World Cup</title>
+  <programme start="20250317033000 -0300" stop="20250317043000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Serie A</title>
     <previously-shown />
   </programme>
-  <programme start="20250315023000 -0300" stop="20250315030000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Women's Alpine Skiing World Cup</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250315030000 -0300" stop="20250315033000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Snowboard World Cup</title>
-    <sub-title lang="en">03:00 am - 03:30 am,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the women's slope style finals in Flachauwinkl, Austria.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/75fab02cb5fc9f228e801339b68612e5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eOxzAQTxPF4D1fAE5XoH2HzXcdUI8JuACyH8%2FUX2wBTo9SqImm3CQasK3UWJBs9lw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315033000 -0300" stop="20250315040000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Snowboard World Cup</title>
-    <sub-title lang="en">03:30 am - 04:00 am,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the men's slope style finals in Flachauwinkl, Austria.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Winter Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/75fab02cb5fc9f228e801339b68612e5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eOxzAQTxPF4D1fAE5XoH2HzXcdUI8JuACyH8%2FUX2wBTo9SqImm3CQasK3UWJBs9lw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315040000 -0300" stop="20250315050000 -0300" channel="TNT Sports 4 HD">
+  <programme start="20250317043000 -0300" stop="20250317053000 -0300" channel="TNT Sports 3 HD">
     <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
-    <sub-title lang="en">04:00 am - 05:00 am,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">All the best action from the last-16 second-leg fixtures, including Manchester United v Real Sociedad, and Tottenham Hotspur v AZ Alkmaar.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/85a2c2ddeabf8fd682acd9be18c256d3.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dEDpuvjGJMBASCQ1FZi1ppR4YZHZDXQpC2e6Em8x5hbfgAjUh%2FB68fZWabxm80yYA%3D" />
     <previously-shown />
   </programme>
-  <programme start="20250315050000 -0300" stop="20250315053000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <sub-title lang="en">05:00 am - 05:30 am,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Liverpool midfielder Ryan Gravenberch reflects on his improved form under Arne Slot. Plus, Inter Milan's Hakan Calhanoglu breaks down his rise to one of Europe's elite players.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/b7d121db7abb898fd38daaac2d4c6af0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4esp0dgEok2xWUIpD3IOijuCeun0Ta%2BgNtgBJXyxQqG1fbcLcwb8lqv9flwDJA2dxA%3D" />
+  <programme start="20250317053000 -0300" stop="20250317060000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">The Football Archives: UEFA Champions League</title>
     <previously-shown />
   </programme>
-  <programme start="20250315053000 -0300" stop="20250315054500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">UEFA Champions League - Stories of the Finals</title>
-    <sub-title lang="en">05:30 am - 05:45 am,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Take a look back at Borussia Dortmund's 1997 UEFA Champions League final success against Juventus. The German side conquered Europe after a 3-1 victory in Munich.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9024d0abd171835dde0b833bc50fba75.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fK8j0FVYv9oVAmejSS%2FrBk535JbqIx6QJYzgalda9n1QmEgMaN0w2SPOul%2B1VJMfA%3D" />
+  <programme start="20250317060000 -0300" stop="20250317080000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">AFL</title>
     <previously-shown />
   </programme>
-  <programme start="20250315054500 -0300" stop="20250315060000 -0300" channel="TNT Sports 4 HD">
+  <programme start="20250317080000 -0300" stop="20250317100000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">AFL</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317100000 -0300" stop="20250317120000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">AFL</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317120000 -0300" stop="20250317121500 -0300" channel="TNT Sports 3 HD">
     <title lang="en">TNT Sports Cricket Reload</title>
-    <sub-title lang="en">05:45 am - 06:00 am,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A look back at New Zealand Women v Sri Lanka Women in the third and final ODI in the series.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d0bda0d7991ffc46088b9ea2c1b5d4f5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fOY%2FXL7K%2FHeoE31bQuW6dzod2FTe6IZUAynnjI4fiI53YS08D3TSfX0%2FKAH4VeAKQ%3D" />
     <previously-shown />
   </programme>
-  <programme start="20250315060000 -0300" stop="20250315063000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">The Fantasy Show</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250315063000 -0300" stop="20250315064500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Superbike Rewind</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250315064500 -0300" stop="20250315074500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Men's Cycling World Tour</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250315074500 -0300" stop="20250315083000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Women's Nordic Combined Skiing World Cup</title>
-    <sub-title lang="en">07:45 am - 08:30 am,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Coverage from day one of the HS134 event, which takes place in Oslo, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7da2a5ddb7b97dc79daa8403bdf40730.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c65bXRPK5rAkfgGt0itiaXOzlnQ5cbLnT9LA5Ny2QAQSqXsRLCT60e8RQzq0YaRss%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315083000 -0300" stop="20250315094500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Men's Nordic Combined Skiing World Cup</title>
-    <sub-title lang="en">08:30 am - 09:45 am,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Coverage from day one of the HS134 event, which takes place in Oslo, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/4725840cbd853d139cfefc54aa30ac45.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fC4U7AEurazt452EVZhPlXxrvufc9TfqITPg4l6TTCvroCXCR0DhJWOozFlYWAZTw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315094500 -0300" stop="20250315100000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">TNT Sports Reload</title>
-    <sub-title lang="en">09:45 am - 10:00 am,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315100000 -0300" stop="20250315130000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Curling World Championship</title>
-    <sub-title lang="en">10:00 am - 1:00 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Scotland v Canada. Coverage of the round-robin match from Ujieongbu Indoor Ice Rink in Uijeongbu, South Korea.</desc>
-    <category lang="en">Curling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/0ec4122dd2ff0536f8281b8cfe77398a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e6vXSF%2BNMtwTkoyz6uVeJUuTqPHqnYHYASQHveVNG%2B4aMEtR77hwjdDDKPl5l4wrQ%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315130000 -0300" stop="20250315143000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Cross Country Skiing World Cup</title>
-    <sub-title lang="en">1:00 pm - 2:30 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Coverage from the men's 20km C competition, which takes place in Oslo, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/cad119b3095556c3e82fd245169db441.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dF1tBxAZPHGcwB37cA3n%2BoMTLhMlJDIC3DreqvOIFWYheVH6tXk2nbZ8KZGiU3z78%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315143000 -0300" stop="20250315144500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">TNT Sports Reload</title>
-    <sub-title lang="en">2:30 pm - 2:45 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315144500 -0300" stop="20250315153000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Women's Nordic Combined Skiing World Cup</title>
-    <sub-title lang="en">2:45 pm - 3:30 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Coverage from the Gundersen 5km event, which takes place in Oslo, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7da2a5ddb7b97dc79daa8403bdf40730.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c65bXRPK5rAkfgGt0itiaXOzlnQ5cbLnT9LA5Ny2QAQSqXsRLCT60e8RQzq0YaRss%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315153000 -0300" stop="20250315160000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Men's Nordic Combined Skiing World Cup</title>
-    <sub-title lang="en">3:30 pm - 4:00 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Coverage from the Gundersen 10km event, which takes place in Oslo, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/4725840cbd853d139cfefc54aa30ac45.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fC4U7AEurazt452EVZhPlXxrvufc9TfqITPg4l6TTCvroCXCR0DhJWOozFlYWAZTw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315160000 -0300" stop="20250315161500 -0300" channel="TNT Sports 4 HD">
+  <programme start="20250317121500 -0300" stop="20250317123000 -0300" channel="TNT Sports 3 HD">
     <title lang="en">TNT Sports Cricket Reload</title>
-    <sub-title lang="en">4:00 pm - 4:15 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A look back at New Zealand v Sri Lanka in the first ODI in the series.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1073e831084cef6b44a1582897444c42.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eYNPPGm64RCadvIms%2FL2M6ZhCAXRL4SjKuGBMaxz%2BiLaJKar4cctxzqCHmNl%2B1V1s%3D" />
     <previously-shown />
   </programme>
-  <programme start="20250315161500 -0300" stop="20250315163000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <sub-title lang="en">4:15 pm - 4:30 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A look back at New Zealand v Sri Lanka in the second ODI in the series.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/39d714bd04e4de4d45d7f7270eca4ebf.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eQThn8gONp3GeQ41AnaINvwGCUGadwpTEom6DRyyZ9XzIlrZd%2FlzRHx8F%2Frh4usHo%3D" />
+  <programme start="20250317123000 -0300" stop="20250317140000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">NBA</title>
     <previously-shown />
   </programme>
-  <programme start="20250315163000 -0300" stop="20250315164500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <sub-title lang="en">4:30 pm - 4:45 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">A look back at New Zealand v Sri Lanka in the third ODI in the series.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d0bda0d7991ffc46088b9ea2c1b5d4f5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fOY%2FXL7K%2FHeoE31bQuW6dzod2FTe6IZUAynnjI4fiI53YS08D3TSfX0%2FKAH4VeAKQ%3D" />
+  <programme start="20250317140000 -0300" stop="20250317153000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">NBA</title>
     <previously-shown />
   </programme>
-  <programme start="20250315164500 -0300" stop="20250315174500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Women's T20 International Cricket</title>
-    <sub-title lang="en">4:45 pm - 5:45 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">New Zealand v Sri Lanka. Action from the first T20 in the three-match series from Hagley Oval in Christchurch.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7e3b147e0faee66015de1ec8b5dd6556.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e9mp3Vbihhuu6zhGR6ngyez6uYjzZ9gbh4FndPEjg9bPrY98Lk4g%2FMPj9BpNQHJB0%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250315174500 -0300" stop="20250315190000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Ski Mountaineering World Cup</title>
-    <sub-title lang="en">5:45 pm - 7:00 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Coverage of the sprint competition, which takes place in Schladming, Austria.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9f4e592936695d50476855fa41c3271b.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fGLRM9RNYJ3hycXfJIyxtFzxS8gnc0QReoQw9FV%2FkpU1SXPuqR4yag5Zsvvzavpzo%3D" />
+  <programme start="20250317153000 -0300" stop="20250317160000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">NBA on Fire</title>
     <previously-shown />
   </programme>
-  <programme start="20250315190000 -0300" stop="20250315193000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Men's Alpine Skiing World Cup</title>
-    <sub-title lang="en">7:00 pm - 7:30 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from run one of the giant slalom in Hafjell, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f93d3ca339e2035eba6339ce76df6c78.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cCiUCzBow%2BYkZvMwWLHbFsxM6t3p37lOcRx1u41omnFLTLX4ypcWqeEgmcuriS0ww%3D" />
+  <programme start="20250317160000 -0300" stop="20250317170000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Premier League Review</title>
     <previously-shown />
   </programme>
-  <programme start="20250315193000 -0300" stop="20250315200000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Men's Alpine Skiing World Cup</title>
-    <sub-title lang="en">7:30 pm - 8:00 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from run two of the giant slalom in Hafjell, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/f93d3ca339e2035eba6339ce76df6c78.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cCiUCzBow%2BYkZvMwWLHbFsxM6t3p37lOcRx1u41omnFLTLX4ypcWqeEgmcuriS0ww%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315200000 -0300" stop="20250315203000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Women's Ski Jumping World Cup</title>
-    <sub-title lang="en">8:00 pm - 8:30 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from day one of the HS240 event in Vikersund, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/a27490eaa2124afdb5232759b9b815e5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d79tvsLbmOkXMoh6Ha5pY53Y39qY6sPUGgOHKrxU4GhARq%2BqBPx93zSQMm3Nskin8%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315203000 -0300" stop="20250315210000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Men's Ski Jumping World Cup</title>
-    <sub-title lang="en">8:30 pm - 9:00 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from day one of the HS240 event in Vikersund, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/a03cce6d997246128f46a73c86549f36.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ffR4XGhfEO8eWZU0cGyFM93zF2wA9NfbUiK1j6YAftHJEIh8AGYynxdCagTD5ePRM%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315210000 -0300" stop="20250315223000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live SailGP</title>
-    <sub-title lang="en">9:00 pm - 10:30 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Coverage from the first day of the fourth round of the season, which takes place in Los Angeles.</desc>
-    <category lang="en">Sailing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/0f9c9e5004c6768547fb9830bec1a2be.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eM1Ms6afIBhjSpOK0hB3CXMilhYbgZsirzhykeIdTT2z2L6UQYnXMQ6MW7288kbdw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315223000 -0300" stop="20250315230000 -0300" channel="TNT Sports 4 HD">
+  <programme start="20250317170000 -0300" stop="20250317180000 -0300" channel="TNT Sports 3 HD">
     <title lang="en">MotoGP</title>
-    <sub-title lang="en">10:30 pm - 11:00 pm,
- Saturday, March 15
- on TNT Sports 4 HD (434)</sub-title>
-    <desc lang="en">Action from the Grand Prix of Argentina sprint race.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
     <previously-shown />
   </programme>
-  <programme start="20250315230000 -0300" stop="20250315231500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Under the Lights</title>
+  <programme start="20250317180000 -0300" stop="20250317190000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">MotoGP Chequered Flag</title>
     <previously-shown />
   </programme>
-  <programme start="20250315231500 -0300" stop="20250315233000 -0300" channel="TNT Sports 4 HD">
+  <programme start="20250317190000 -0300" stop="20250317200000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Premiership Rugby Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317200000 -0300" stop="20250317210000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Allianz Premiership Women's Rugby</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317210000 -0300" stop="20250317220000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Fishing: On the Bank</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317220000 -0300" stop="20250317224500 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Fight Week</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317224500 -0300" stop="20250317230000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Tom Aspinall's Fight Lab</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317230000 -0300" stop="20250318020000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">UFC</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318020000 -0300" stop="20250318021500 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Tom Aspinall's Fight Lab</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318021500 -0300" stop="20250318024500 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Men's Cycling Pro Series</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318024500 -0300" stop="20250318033000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Motocross World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318033000 -0300" stop="20250318041500 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Motocross World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318041500 -0300" stop="20250318050000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Motocross World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318050000 -0300" stop="20250318054500 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Motocross World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318054500 -0300" stop="20250318060000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Tom Aspinall's Fight Lab</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318060000 -0300" stop="20250318080000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">AFL</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318080000 -0300" stop="20250318100000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">AFL</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318100000 -0300" stop="20250318120000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">AFL</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318120000 -0300" stop="20250318140000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">AFL</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318140000 -0300" stop="20250318150000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Fishing: On the Bank</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318150000 -0300" stop="20250318160000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Serie A</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318160000 -0300" stop="20250318170000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Serie A</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318170000 -0300" stop="20250318173000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Ninja A-League Women Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318173000 -0300" stop="20250318180000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Isuzu A-League Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318180000 -0300" stop="20250318190000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Allianz Premiership Women's Rugby</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318190000 -0300" stop="20250318200000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Premiership Rugby Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318200000 -0300" stop="20250318213000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">MLB</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318213000 -0300" stop="20250318220000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Men's Cycling Pro Series</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318220000 -0300" stop="20250318223000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">The WRC Magazine</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318223000 -0300" stop="20250318224500 -0300" channel="TNT Sports 3 HD">
     <title lang="en">UEFA Champions League Goals Reload</title>
     <previously-shown />
   </programme>
-  <programme start="20250315233000 -0300" stop="20250316014500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: NWSL</title>
+  <programme start="20250318224500 -0300" stop="20250318230000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">UEFA Conference League Goals Reload</title>
     <previously-shown />
   </programme>
   <programme start="20250316014500 -0300" stop="20250316021500 -0300" channel="TNT Sports 4 HD">
@@ -1431,11 +498,11 @@
     <title lang="en">Live: Biathlon World Cup</title>
     <previously-shown />
   </programme>
-  <programme start="20250316150000 -0300" stop="20250316153000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">The WRC Magazine</title>
+  <programme start="20250316150000 -0300" stop="20250316151500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">TNT Sports Reload</title>
     <previously-shown />
   </programme>
-  <programme start="20250316153000 -0300" stop="20250316173000 -0300" channel="TNT Sports 4 HD">
+  <programme start="20250316151500 -0300" stop="20250316173000 -0300" channel="TNT Sports 4 HD">
     <title lang="en">Live: Men's Ski Jumping World Cup</title>
     <previously-shown />
   </programme>
@@ -1475,78 +542,224 @@
     <title lang="en">Women's Cycling World Tour</title>
     <previously-shown />
   </programme>
-  <programme start="20250314000000 -0300" stop="20250314060000 -0300" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
-    <sub-title lang="en">12:00 am - 06:00 am,
- Friday, March 14
- on TNT Sports Box Office (494)</sub-title>
-    <category lang="en">Off-Air</category>
-    <category lang="en">Special</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7b8f3fde65dbcc90658ec72213d6439a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eSlVP%2FE%2BmQcZrZdBpYCJ2jAQhoOnY47KWnygAJxcJCOokcJO2%2FbGwhBDPs9tyBr54%3D" />
+  <programme start="20250316233000 -0300" stop="20250317013000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Fight Night Live</title>
     <previously-shown />
   </programme>
-  <programme start="20250314060000 -0300" stop="20250314120000 -0300" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
-    <sub-title lang="en">06:00 am - 12:00 pm,
- Friday, March 14
- on TNT Sports Box Office (494)</sub-title>
-    <category lang="en">Off-Air</category>
-    <category lang="en">Special</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7b8f3fde65dbcc90658ec72213d6439a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eSlVP%2FE%2BmQcZrZdBpYCJ2jAQhoOnY47KWnygAJxcJCOokcJO2%2FbGwhBDPs9tyBr54%3D" />
+  <programme start="20250317013000 -0300" stop="20250317024500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Born Racers</title>
     <previously-shown />
   </programme>
-  <programme start="20250314120000 -0300" stop="20250314180000 -0300" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
-    <sub-title lang="en">12:00 pm - 6:00 pm,
- Friday, March 14
- on TNT Sports Box Office (494)</sub-title>
-    <category lang="en">Off-Air</category>
-    <category lang="en">Special</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7b8f3fde65dbcc90658ec72213d6439a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eSlVP%2FE%2BmQcZrZdBpYCJ2jAQhoOnY47KWnygAJxcJCOokcJO2%2FbGwhBDPs9tyBr54%3D" />
+  <programme start="20250317024500 -0300" stop="20250317031500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
     <previously-shown />
   </programme>
-  <programme start="20250314180000 -0300" stop="20250315000000 -0300" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
-    <sub-title lang="en">6:00 pm - 12:00 am,
- Friday, March 14
- on TNT Sports Box Office (494)</sub-title>
-    <category lang="en">Off-Air</category>
-    <category lang="en">Special</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7b8f3fde65dbcc90658ec72213d6439a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eSlVP%2FE%2BmQcZrZdBpYCJ2jAQhoOnY47KWnygAJxcJCOokcJO2%2FbGwhBDPs9tyBr54%3D" />
+  <programme start="20250317031500 -0300" stop="20250317034500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
     <previously-shown />
   </programme>
-  <programme start="20250315000000 -0300" stop="20250315060000 -0300" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
-    <sub-title lang="en">12:00 am - 06:00 am,
- Saturday, March 15
- on TNT Sports Box Office (494)</sub-title>
-    <category lang="en">Off-Air</category>
-    <category lang="en">Special</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7b8f3fde65dbcc90658ec72213d6439a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eSlVP%2FE%2BmQcZrZdBpYCJ2jAQhoOnY47KWnygAJxcJCOokcJO2%2FbGwhBDPs9tyBr54%3D" />
+  <programme start="20250317034500 -0300" stop="20250317041500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Biathlon World Cup</title>
     <previously-shown />
   </programme>
-  <programme start="20250315060000 -0300" stop="20250315120000 -0300" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
-    <sub-title lang="en">06:00 am - 12:00 pm,
- Saturday, March 15
- on TNT Sports Box Office (494)</sub-title>
-    <category lang="en">Off-Air</category>
-    <category lang="en">Special</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7b8f3fde65dbcc90658ec72213d6439a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eSlVP%2FE%2BmQcZrZdBpYCJ2jAQhoOnY47KWnygAJxcJCOokcJO2%2FbGwhBDPs9tyBr54%3D" />
+  <programme start="20250317041500 -0300" stop="20250317044500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Biathlon World Cup</title>
     <previously-shown />
   </programme>
-  <programme start="20250315120000 -0300" stop="20250315180000 -0300" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
-    <sub-title lang="en">12:00 pm - 6:00 pm,
- Saturday, March 15
- on TNT Sports Box Office (494)</sub-title>
-    <category lang="en">Off-Air</category>
-    <category lang="en">Special</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7b8f3fde65dbcc90658ec72213d6439a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eSlVP%2FE%2BmQcZrZdBpYCJ2jAQhoOnY47KWnygAJxcJCOokcJO2%2FbGwhBDPs9tyBr54%3D" />
+  <programme start="20250317044500 -0300" stop="20250317051500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Women's Ski Jumping World Cup</title>
     <previously-shown />
   </programme>
-  <programme start="20250315180000 -0300" stop="20250316000000 -0300" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
+  <programme start="20250317051500 -0300" stop="20250317054500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Men's Ski Jumping World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317054500 -0300" stop="20250317060000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Kenny Allstar's Number 1's</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317060000 -0300" stop="20250317070000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Women's T20 International Cricket</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317070000 -0300" stop="20250317080000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">T20 Cricket Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317080000 -0300" stop="20250317090000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Isuzu UTE A-League</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317090000 -0300" stop="20250317100000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Isuzu UTE A-League</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317100000 -0300" stop="20250317110000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Isuzu UTE A-League</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317110000 -0300" stop="20250317120000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Isuzu UTE A-League</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317120000 -0300" stop="20250317130000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Isuzu UTE A-League</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317130000 -0300" stop="20250317140000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">T20 Cricket Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317140000 -0300" stop="20250317150000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Women's T20 International Cricket</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317150000 -0300" stop="20250317153000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317153000 -0300" stop="20250317160000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317160000 -0300" stop="20250317163000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Biathlon World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317163000 -0300" stop="20250317170000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Biathlon World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317170000 -0300" stop="20250317173000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Women's Ski Jumping World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317173000 -0300" stop="20250317180000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Men's Ski Jumping World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317180000 -0300" stop="20250317200000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Fight Night Live</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317200000 -0300" stop="20250317213000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">NBA</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317213000 -0300" stop="20250317230000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">NBA</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317230000 -0300" stop="20250318000000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">NWSL</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318000000 -0300" stop="20250318010000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">NWSL</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318010000 -0300" stop="20250318020000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Serie A</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318020000 -0300" stop="20250318030000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Serie A</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318030000 -0300" stop="20250318033000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318033000 -0300" stop="20250318040000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Men's Alpine Skiing World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318040000 -0300" stop="20250318043000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Biathlon World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318043000 -0300" stop="20250318050000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Biathlon World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318050000 -0300" stop="20250318053000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Women's Ski Jumping World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318053000 -0300" stop="20250318060000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Men's Ski Jumping World Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318060000 -0300" stop="20250318063000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">UEFA Champions League Highlights Show</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318063000 -0300" stop="20250318070000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">UEFA Champions League Highlights Show</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318070000 -0300" stop="20250318080000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318080000 -0300" stop="20250318090000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Serie A</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318090000 -0300" stop="20250318100000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Serie A</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318100000 -0300" stop="20250318103000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318103000 -0300" stop="20250318104500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318104500 -0300" stop="20250318110000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">UEFA Conference League Goals Reload</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318110000 -0300" stop="20250318120000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Fishing: On the Bank</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318120000 -0300" stop="20250318123000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">The WRC Magazine</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318123000 -0300" stop="20250318130000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Classic Premier League</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318130000 -0300" stop="20250318160000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Live: Powerlifting European Classic Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318160000 -0300" stop="20250318170000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">MotoGP</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318170000 -0300" stop="20250318180000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">MotoGP</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318180000 -0300" stop="20250318183000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">MotoGP</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318183000 -0300" stop="20250318193000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">MotoGP</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318193000 -0300" stop="20250318203000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318203000 -0300" stop="20250318210000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">NBA on Fire</title>
     <previously-shown />
   </programme>
   <programme start="20250316000000 -0300" stop="20250316060000 -0300" channel="TNT Sports Box Office">
@@ -1561,427 +774,36 @@
     <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
-  <programme start="20250314000000 -0300" stop="20250314020000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">12:00 am - 02:00 am,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Richmond Tigers v Carlton Blues.</desc>
-    <category lang="en">Australian Rules Football</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/6d4a6f8ba2612b3b25353595f969f037.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cQS6boQY00aSdAXsxrXryMogOx6GJQ5gjfP74CbJCklV5BpGAwb%2FeQ8PKrCRNSuHM%3D" />
+  <programme start="20250316180000 -0300" stop="20250317000000 -0300" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
-  <programme start="20250314020000 -0300" stop="20250314033000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Ultimate Pool</title>
-    <sub-title lang="en">02:00 am - 03:30 am,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Action from Group 10 of the Champions League.</desc>
-    <category lang="en">Pool</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/559939c2ca619b3bbc3783d4a811df8d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dVzu9FEsh3C6PM5sqde0IhnIXlYaeY2VNKScU%2Bu%2BbZcm7pHcoZ1xjJ4YI999CKStc%3D" />
+  <programme start="20250317000000 -0300" stop="20250317060000 -0300" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
-  <programme start="20250314033000 -0300" stop="20250314040000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Fight Week</title>
-    <sub-title lang="en">03:30 am - 04:00 am,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A review of UFC 313.</desc>
-    <category lang="en">Combat Sports (without Own Categ</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/73287e1be1528c591539fe243ba6c240.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eebavp6hc%2FKfvJOe7CtuSgKp49oDSvYUp8NTfESWIpNRG%2FK0Cs2BI8WhlT6hCN%2FV8%3D" />
+  <programme start="20250317060000 -0300" stop="20250317120000 -0300" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
-  <programme start="20250314040000 -0300" stop="20250314043000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">TNT Sports Reload</title>
-    <sub-title lang="en">04:00 am - 04:30 am,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
+  <programme start="20250317120000 -0300" stop="20250317180000 -0300" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
-  <programme start="20250314043000 -0300" stop="20250314050000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">SailGP - Racing on the Edge</title>
-    <sub-title lang="en">04:30 am - 05:00 am,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">An unprecedented look at SailGP and the sport's best athletes.</desc>
-    <category lang="en">Sailing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/ba45c2d58b1ea90510262295f6af941b.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eFwQcBNdBic2fjiTQhmlLLxF41mX2lwlGUHVbbgVTgLwfIcFZeReYIq559QrBNWFc%3D" />
+  <programme start="20250317180000 -0300" stop="20250318000000 -0300" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
-  <programme start="20250314050000 -0300" stop="20250314053000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Premier League Legends</title>
-    <sub-title lang="en">05:00 am - 05:30 am,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">In the latest episode of Premier League Legends, we look at the career of Manchester United full back, Gary Neville, who won eight Premier League titles.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dc4e43ef0b6c5dd7a53835922c51d78c.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fC7SNHbD66Ld%2FFtt6F75BnQyW4QVmyClJ1OGD0JHVpqik4HgcFT49O3tJ7%2F1Wh%2Bmc%3D" />
+  <programme start="20250318000000 -0300" stop="20250318060000 -0300" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
-  <programme start="20250314053000 -0300" stop="20250314060000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Serie A - Full Impact</title>
-    <sub-title lang="en">05:30 am - 06:00 am,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Action from the Italian top flight, including Juventus v Inter Milan, Lazio v Napoli and Parma v AS Roma.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/5132caa488df23b22bb8bd36ab403c91.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eeaChDVBODKw6txAbs3Q4s4L5QiXoj4caDKDZ%2BqTIQHdPrIzmKokOKD%2F%2F8OqUBs9c%3D" />
+  <programme start="20250318060000 -0300" stop="20250318120000 -0300" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
-  <programme start="20250314060000 -0300" stop="20250314063000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Premier League - The Big Interview</title>
-    <sub-title lang="en">06:00 am - 06:30 am,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">An interview with a Premier League star of the past or present.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/3f1c1e4da82bd076fbcc92c3ed8e3ecb.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4duHDJfqBwt6Xxnf9R182aFSrGGTJ%2BxYuCCZNaoGLqw%2FjATQQh4fQiTk4MVXTvC1E8%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314063000 -0300" stop="20250314073000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Men's Cycling World Tour</title>
-    <sub-title lang="en">06:30 am - 07:30 am,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Action from stage four of the Tirreno Adriatico.</desc>
-    <category lang="en">Cycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/751abf82904ae847011cfb634fded417.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cjAPPUEGt7h7hNvJAuB3%2FLb5DTBczKNyFWE6iWloQA2EcZ67wCpjL%2FtLRrpuixLKU%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314073000 -0300" stop="20250314083000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Men's Cycling World Tour</title>
-    <sub-title lang="en">07:30 am - 08:30 am,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Action from the fifth stage of the Paris-Nice.</desc>
-    <category lang="en">Cycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/751abf82904ae847011cfb634fded417.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cjAPPUEGt7h7hNvJAuB3%2FLb5DTBczKNyFWE6iWloQA2EcZ67wCpjL%2FtLRrpuixLKU%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314083000 -0300" stop="20250314113000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live AFL</title>
-    <sub-title lang="en">08:30 am - 11:30 am,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Hawthorn Hawks v Essendon Bombers (Bounce-up 8.40am). Coverage of the match from Melbourne Cricket Ground.</desc>
-    <category lang="en">Australian Rules Football</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/0f10b0a491939bf1d701faf131c376df.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cLL7JgZtLLmfd08LigEyGlnwLf510WEZFvqViOvKnhjjj3c0Ng56SJT%2Fx3AZdugEs%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314113000 -0300" stop="20250314120000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Crouchy and Cole</title>
-    <sub-title lang="en">11:30 am - 12:00 pm,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look back at the best of Crouchy and Cole.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9057a49377601a64439da9277b418b98.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4crV2gP7gd58MoA7ZUu9pmyV1Se1XyKDxGKWfarWEzAuzAHVB4232zLuzADAu7LNkY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314120000 -0300" stop="20250314151500 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Men's Cycling World Tour</title>
-    <sub-title lang="en">12:00 pm - 3:15 pm,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Coverage of stage five of the Tirreno Adriatico, a 196km route from Ascoli Piceno to Pergola.</desc>
-    <category lang="en">Cycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c182a34e374990700b6fc8f952a3d056.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dV3Q6d7EN%2B2getJ%2Bod6QM%2Bww0bUPRY4Fp9JfHQLSBgjuh%2BUiOgDkLGiL2YP29vdnE%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314151500 -0300" stop="20250314154500 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Serie A - Full Impact</title>
-    <sub-title lang="en">3:15 pm - 3:45 pm,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Action from the Italian top flight, including Juventus v Inter Milan, Lazio v Napoli and Parma v AS Roma.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/5132caa488df23b22bb8bd36ab403c91.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eeaChDVBODKw6txAbs3Q4s4L5QiXoj4caDKDZ%2BqTIQHdPrIzmKokOKD%2F%2F8OqUBs9c%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314154500 -0300" stop="20250314180000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Women's Bundesliga</title>
-    <sub-title lang="en">3:45 pm - 6:00 pm,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Bayern Munich Women v VfL Wolfsburg Women (Kick-off TBA). Coverage of the match from FC Bayern Campus Kunstrasen 1.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/49ed81f13e7f0a318386a165f1df48bc.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cBIaZdh0O%2BStoXYd0PPY54pk8y91KHyUd%2FrCtQD4VGGTgWYJ1d6X9Nnuw7%2BmDQmsw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314180000 -0300" stop="20250314183000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Premier League Preview</title>
-    <sub-title lang="en">6:00 pm - 6:30 pm,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look ahead to all the upcoming action in the top flight, including Arsenal v Chelsea, Manchester City v Brighton &amp; Hove Albion, and Arsenal v Chelsea.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/85fc2df434f5fec64aca80d6998c91e8.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cWWoge1n7kmVmpKfiS1dY1%2Bt5LKFDQDN2w0lxpUI06AS3NjSuxkQxQsYhkHTrBqHY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314183000 -0300" stop="20250314190000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">The Fantasy Show</title>
-    <sub-title lang="en">6:30 pm - 7:00 pm,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Insight and tips ahead of gameweek 29 in the Premier League.</desc>
-    <category lang="en">Football/Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c37cadf44a2640ddc626b0db7909f5f3.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ciN5UXLr4%2BSxXYlAFJbQf%2Bt%2F%2B2sFPgFYcuyyhNdPe1oaJHl%2B303xG9jix0js4bb9o%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314190000 -0300" stop="20250314200000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
-    <sub-title lang="en">7:00 pm - 8:00 pm,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">All the best action from the latest round of fixtures.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/85a2c2ddeabf8fd682acd9be18c256d3.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dEDpuvjGJMBASCQ1FZi1ppR4YZHZDXQpC2e6Em8x5hbfgAjUh%2FB68fZWabxm80yYA%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314200000 -0300" stop="20250314203000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250314203000 -0300" stop="20250314213000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Men's Cycling World Tour</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250314213000 -0300" stop="20250314223000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Men's Cycling World Tour</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250314223000 -0300" stop="20250314230000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">MotoGP</title>
-    <sub-title lang="en">10:30 pm - 11:00 pm,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Action from MotoGP.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314230000 -0300" stop="20250314231500 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Premier League Reload</title>
-    <sub-title lang="en">11:00 pm - 11:15 pm,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A whirlwind catch-up from the weekend's top-flight matches, featuring all the goals from Nottingham Forest v Manchester City and Manchester United v Arsenal.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/da51bfe499ca6c46c93b56207b732d9b.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d%2FM%2BsDl176SyEjw%2BBitgi51y41QPaktDy76O73n%2FwuNPJHdzf62pA46TtzX8Uf%2F4M%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314231500 -0300" stop="20250314234500 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Premier League Preview</title>
-    <sub-title lang="en">11:15 pm - 11:45 pm,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look ahead to all the upcoming action in the top flight, including Arsenal v Chelsea, Manchester City v Brighton &amp; Hove Albion, and Arsenal v Chelsea.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/85fc2df434f5fec64aca80d6998c91e8.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cWWoge1n7kmVmpKfiS1dY1%2Bt5LKFDQDN2w0lxpUI06AS3NjSuxkQxQsYhkHTrBqHY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314234500 -0300" stop="20250315000000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <sub-title lang="en">11:45 pm - 12:00 am,
- Friday, March 14
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look back at New Zealand Women v Sri Lanka Women in the first T20 in the series.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d0bda0d7991ffc46088b9ea2c1b5d4f5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fOY%2FXL7K%2FHeoE31bQuW6dzod2FTe6IZUAynnjI4fiI53YS08D3TSfX0%2FKAH4VeAKQ%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315000000 -0300" stop="20250315010000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Women's Bundesliga</title>
-    <sub-title lang="en">12:00 am - 01:00 am,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Bayern Munich Women v VfL Wolfsburg Women.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/004ea8019e49cc6f221c52269fc89132.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWljE8yFFqeCmY31HHDPuMlFUyoGuGnHz%2BR%2BJKx7i%2Bv4MEZlyL5%2B1EKjGkUdzqlUM%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315010000 -0300" stop="20250315013000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">The Fantasy Show</title>
-    <sub-title lang="en">01:00 am - 01:30 am,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Insight and tips ahead of gameweek 29 in the Premier League.</desc>
-    <category lang="en">Football/Soccer</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c37cadf44a2640ddc626b0db7909f5f3.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ciN5UXLr4%2BSxXYlAFJbQf%2Bt%2F%2B2sFPgFYcuyyhNdPe1oaJHl%2B303xG9jix0js4bb9o%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315013000 -0300" stop="20250315020000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Premier League Preview</title>
-    <sub-title lang="en">01:30 am - 02:00 am,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look ahead to all the upcoming action in the top flight, including Arsenal v Chelsea, Manchester City v Brighton &amp; Hove Albion, and Arsenal v Chelsea.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/85fc2df434f5fec64aca80d6998c91e8.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cWWoge1n7kmVmpKfiS1dY1%2Bt5LKFDQDN2w0lxpUI06AS3NjSuxkQxQsYhkHTrBqHY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315020000 -0300" stop="20250315050000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live AFL</title>
-    <sub-title lang="en">02:00 am - 05:00 am,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Geelong Cats v Fremantle Dockers (Bounce-up 2.20am). Coverage of the match from GMHBA Stadium in Geelong.</desc>
-    <category lang="en">Australian Rules Football</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2ae14befa79e0a37cca720bea44f3bae.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dPoZ81OQBGc02TVb%2FBpEs%2B69GzQHoqGOeh5Crsum%2FTi8BzxEBoAT8M3%2FL5lh7MPWY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315050000 -0300" stop="20250315080000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live AFL</title>
-    <sub-title lang="en">05:00 am - 08:00 am,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Sydney Swans v Brisbane Lions (Bounce-up 5.15am). Coverage of the match from Sydney Cricket Ground.</desc>
-    <category lang="en">Australian Rules Football</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/fc78a7d419b93b8073ce2723627e235b.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eufPU7wDg8BQoSN5tDjvQjY%2F7prWTZ9tFjOFrJT2%2FNuwUWDyksUV4%2BTrTOaaGLUcI%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315080000 -0300" stop="20250315081500 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Rio Ferdinand Meets</title>
-    <sub-title lang="en">08:00 am - 08:15 am,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">An interview with Manchester United manager Ruben Amorim.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/8d8496207ff756a34e6fb4e3fda2e74e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dz4aBUubnRwEH0odQ1znOpATVW2ReJSzl%2F%2FvTSJ2WEcJtw70MTbKeJ4gk4k5Rsu5Y%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315081500 -0300" stop="20250315094500 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Men's Alpine Skiing World Cup</title>
-    <sub-title lang="en">08:15 am - 09:45 am,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Coverage of run one of the men's giant slalom, which takes place in Hafjell, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/667c5c43b4c927bdc201d85f5701f95e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cyBn1ZXxHK0aEipDDokk3YCfAUPChigrVxNiDssSnxzH79V44rgDenF7hmg4aI1%2Fw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315094500 -0300" stop="20250315111500 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Women's Ski Jumping World Cup</title>
-    <sub-title lang="en">09:45 am - 11:15 am,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Coverage from day one of the HS240 event, which takes place in Vikersund, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/ec0c0bfa61945f3508fbc7124d9e2815.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4d2PElTxdrRDtQ%2FNqWC5WLgwIRdNiq%2FXXy%2B7tzsDw14VjOgaEJQATjz7UBK0o4B%2Bu8%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315111500 -0300" stop="20250315123000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Men's Alpine Skiing World Cup</title>
-    <sub-title lang="en">11:15 am - 12:30 pm,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Coverage of run two of the men's giant slalom, which takes place in Hafjell, Norway.</desc>
-    <category lang="en">Skiing</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/667c5c43b4c927bdc201d85f5701f95e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cyBn1ZXxHK0aEipDDokk3YCfAUPChigrVxNiDssSnxzH79V44rgDenF7hmg4aI1%2Fw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315123000 -0300" stop="20250315131500 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Sign Up - Into Football</title>
-    <sub-title lang="en">12:30 pm - 1:15 pm,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Fulham head coach Marco Silva and centre-back Joachim Andersen talk about their fantastic season so far.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/fba088e0cfde4c2ff4d9fab2e2909f5a.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f%2FAQuJDZszVNzMeaY%2Bc%2FYTvYjGWNzgEKWCB6lEcMKOuOU0Trttm9eaRMsrQrRaCHw%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315131500 -0300" stop="20250315163000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Men's Cycling World Tour</title>
-    <sub-title lang="en">1:15 pm - 4:30 pm,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Coverage of stage six of the Tirreno Adriatico, a 162km route from Cartoceto to Frontignano.</desc>
-    <category lang="en">Cycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c182a34e374990700b6fc8f952a3d056.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dV3Q6d7EN%2B2getJ%2Bod6QM%2Bww0bUPRY4Fp9JfHQLSBgjuh%2BUiOgDkLGiL2YP29vdnE%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315163000 -0300" stop="20250315173000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Original Documentary</title>
-    <sub-title lang="en">4:30 pm - 5:30 pm,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look at the life of the Danish cyclist.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/185e959bd6d8a600c921a290830c04c0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dFAfU2uHWz7j2jFxxAeHu2Y1j%2BD1KdMiGB%2FtT4sR5PyKbZXf4zxzY3flUqJrllYP4%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315173000 -0300" stop="20250315180000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">The WRC Magazine</title>
-    <sub-title lang="en">5:30 pm - 6:00 pm,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Action from the Safari Rally Kenya.</desc>
-    <category lang="en">Rallying</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e92c2b5abaeab71bab7ff9441adb815e.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c534cBm9WPeuZ%2B9zWI8gz41Fqjw5EbiRP9DO8Sw8bZgpO3zzkTFWbLnArhroncD6s%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315180000 -0300" stop="20250315181500 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Crouchy and Cole</title>
-    <sub-title lang="en">6:00 pm - 6:15 pm,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">Peter Crouch and Joe Cole try their hand at rugby.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9057a49377601a64439da9277b418b98.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4crV2gP7gd58MoA7ZUu9pmyV1Se1XyKDxGKWfarWEzAuzAHVB4232zLuzADAu7LNkY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315181500 -0300" stop="20250315183000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Under the Lights</title>
-    <sub-title lang="en">6:15 pm - 6:30 pm,
- Saturday, March 15
- on TNT Sports 1 HD (430)</sub-title>
-    <desc lang="en">A look at memorable European football nights at Ibrox.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/cf7ed4e1a02ab3f57fb159d846a22d68.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cpsLxCY7UbfD1vPgZj4LW%2BQYQaq4Ar%2BB1Q9ALM5dgIxxcxlS6j9zeJyLCHYzMyWAg%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315183000 -0300" stop="20250316000000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Fight Night Live</title>
+  <programme start="20250318120000 -0300" stop="20250318180000 -0300" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
   <programme start="20250316000000 -0300" stop="20250316010000 -0300" channel="TNT Sports 1 HD">
@@ -2036,396 +858,184 @@
     <title lang="en">Premiership Rugby Cup</title>
     <previously-shown />
   </programme>
-  <programme start="20250314020000 -0300" stop="20250314043000 -0300" channel="TNT Sports 2 HD">
+  <programme start="20250316224500 -0300" stop="20250317010000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Live: NWSL</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317010000 -0300" stop="20250317033000 -0300" channel="TNT Sports 1 HD">
     <title lang="en">Live NBA</title>
-    <sub-title lang="en">02:00 am - 04:30 am,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Golden State Warriors v Sacramento Kings (Tip-off 2.00am). Coverage of the Western Conference match from Chase Centre.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/8f84624e280e003409f45a0f23b0cd5f.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cMSGjAo9xd4S%2F62e%2BXhUM5fX3Xb8KqZdnMH0WyAql74YQomSM1%2Fr4pFVuCHuXARsQ%3D" />
     <previously-shown />
   </programme>
-  <programme start="20250314043000 -0300" stop="20250314053000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Inside the NBA</title>
-    <sub-title lang="en">04:30 am - 05:30 am,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Post-game analysis of tonight's NBA matches.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/94b915ef10aaa03ab7fa45f401ca2b2f.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4ewGn5kYtRjMke4HocPV4hxN%2B9MEkdkelk0gfIBlKQMTwJ3ik%2BWW5tJYoCS0o%2BOdqA%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250314053000 -0300" stop="20250314060000 -0300" channel="TNT Sports 2 HD">
+  <programme start="20250317033000 -0300" stop="20250317040000 -0300" channel="TNT Sports 1 HD">
     <title lang="en">NBA Action</title>
-    <sub-title lang="en">05:30 am - 06:00 am,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A round-up of the latest action from the NBA.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/9405dfecd1690fe7168e2177d2719f93.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dkIMS1ND7G1z8cyIOCibTNpCiJy7RWRyn3OYDISKU47NgQNRBDeOUDz4HBNK9KDxI%3D" />
     <previously-shown />
   </programme>
-  <programme start="20250314060000 -0300" stop="20250314100000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live Women's International T20 Cricket</title>
-    <sub-title lang="en">06:00 am - 10:00 am,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">New Zealand v Sri Lanka. Coverage of the first T20 in the three-match series from Hagley Oval in Christchurch.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/93cc829e722b65e9081ed528013a1c71.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eSV%2FDpc7RViNF08I6HTm%2B8RJY1PKtkcxC8ytOwDVErr94tIRjursL0D8XgBPHD0pM%3D" />
+  <programme start="20250317040000 -0300" stop="20250317043000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">NBA on Fire</title>
     <previously-shown />
   </programme>
-  <programme start="20250314100000 -0300" stop="20250314110000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">UEFA Europa League</title>
-    <sub-title lang="en">10:00 am - 11:00 am,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Tottenham v AZ Alkmaar.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/1a02dc14f6aa6bcae970d33accda6baf.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e%2FAAyDeD4WdPAawrklrgDVN8g3AnxTZ8Wm3bW0GawMMu6CMe2vda6ojKm1%2Ff60p%2F4%3D" />
+  <programme start="20250317043000 -0300" stop="20250317050000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League Legends</title>
     <previously-shown />
   </programme>
-  <programme start="20250314110000 -0300" stop="20250314120000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">UEFA Conference League</title>
-    <sub-title lang="en">11:00 am - 12:00 pm,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Chelsea v FC Copenhagen.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/8b62df2105396bf4785768712a40a890.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fkHge52CGlBesip07fYplFWuocMyg3JW1LX4tsBQgNxe3eXXjxfuD3cLBYY4sRj4k%3D" />
+  <programme start="20250317050000 -0300" stop="20250317053000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League Legends</title>
     <previously-shown />
   </programme>
-  <programme start="20250314120000 -0300" stop="20250314144500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live MotoGP</title>
-    <sub-title lang="en">12:00 pm - 2:45 pm,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The Grand Prix of Argentina MotoGP, Moto2 and Moto3 free practice sessions. Coverage from the second round of the season at Termas de Rio Hondo.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250314144500 -0300" stop="20250314153000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">MotoGP Films</title>
-    <sub-title lang="en">2:45 pm - 3:30 pm,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Marc Marquez's switch from Honda to Gresini Ducati was a headline-grabbing storyline all season long. We track his return to winning ways for the first time in 1043 days.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c81cacb1259f8c86b007a5299c1050f9.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dYq4sujZBnuGfie8UOMtO6uVZILMykKshtaSYZG9O04PGErfQPnbNelaqIX92B3P0%3D" />
+  <programme start="20250317053000 -0300" stop="20250317060000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">TNT Sports Reload</title>
     <previously-shown />
   </programme>
-  <programme start="20250314153000 -0300" stop="20250314161500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">MotoGP Films</title>
-    <sub-title lang="en">3:30 pm - 4:15 pm,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Ducati's big decision is the focal point as the manufacturer's war to try to dethrone the Bologna factory begins.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/c81cacb1259f8c86b007a5299c1050f9.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dYq4sujZBnuGfie8UOMtO6uVZILMykKshtaSYZG9O04PGErfQPnbNelaqIX92B3P0%3D" />
+  <programme start="20250317060000 -0300" stop="20250317070000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League Review</title>
     <previously-shown />
   </programme>
-  <programme start="20250314161500 -0300" stop="20250314191500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live MotoGP</title>
-    <sub-title lang="en">4:15 pm - 7:15 pm,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The Grand Prix of Argentina MotoGP, Moto2 and Moto3 first practice sessions. Coverage from the second round of the season at Termas de Rio Hondo.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250314191500 -0300" stop="20250314193000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">MotoGP Rewind</title>
-    <sub-title lang="en">7:15 pm - 7:30 pm,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A look back at the best of the action from the Grand Prix of Thailand.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/d2f47a44beec1371e80d725cde633b82.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c%2FAqZO7kzgurSmMpY%2FP3cOOf5vac3OUtCvvYJdHE05NsVxLLsESvvl77FQPMzIlk0%3D" />
+  <programme start="20250317070000 -0300" stop="20250317080000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Serie A</title>
     <previously-shown />
   </programme>
-  <programme start="20250314193000 -0300" stop="20250314203000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Isuzu UTE A-League</title>
-    <sub-title lang="en">7:30 pm - 8:30 pm,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Adelaide United v Macarthur FC.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/48aa2c6d11e22708f2243a18ef8727a3.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fpV%2FuE%2BZDmvSRGtUpF6PUPiHzDFcbN%2Bx24l79C0PAMqgedhhYTFBa%2F5eyb6QONVw4%3D" />
+  <programme start="20250317080000 -0300" stop="20250317090000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Serie A</title>
     <previously-shown />
   </programme>
-  <programme start="20250314203000 -0300" stop="20250314213000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Women's T20 International Cricket</title>
-    <sub-title lang="en">8:30 pm - 9:30 pm,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">New Zealand v Sri Lanka. Action from the first T20 in the three-match series from Hagley Oval in Christchurch.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7e3b147e0faee66015de1ec8b5dd6556.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e9mp3Vbihhuu6zhGR6ngyez6uYjzZ9gbh4FndPEjg9bPrY98Lk4g%2FMPj9BpNQHJB0%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250314213000 -0300" stop="20250314220000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">The Fantasy Show</title>
+  <programme start="20250317090000 -0300" stop="20250317100000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premiership Rugby Cup</title>
     <previously-shown />
   </programme>
-  <programme start="20250314220000 -0300" stop="20250314223000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">SailGP - Racing on the Edge</title>
+  <programme start="20250317100000 -0300" stop="20250317110000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Allianz Premiership Women's Rugby</title>
     <previously-shown />
   </programme>
-  <programme start="20250314223000 -0300" stop="20250314233000 -0300" channel="TNT Sports 2 HD">
+  <programme start="20250317110000 -0300" stop="20250317130000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Fight Night Live</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317130000 -0300" stop="20250317131500 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Tom Aspinall's Fight Lab</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317131500 -0300" stop="20250317141500 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League Review</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317141500 -0300" stop="20250317144500 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League Stories</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317144500 -0300" stop="20250317151500 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League - The Big Interview</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317151500 -0300" stop="20250317161500 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">NWSL</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317161500 -0300" stop="20250317171500 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">NWSL</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317171500 -0300" stop="20250317180000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Ally's Social Club</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317180000 -0300" stop="20250317213000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Live: Ultimate Pool</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317213000 -0300" stop="20250317233000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Fight Night Live</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317233000 -0300" stop="20250318020000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Live NBA</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318020000 -0300" stop="20250318043000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Live NBA</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318043000 -0300" stop="20250318050000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">NBA on Fire</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318050000 -0300" stop="20250318053000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">NBA Action</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318053000 -0300" stop="20250318060000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">NBA Originals</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318060000 -0300" stop="20250318070000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Fishing: On the Bank</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318070000 -0300" stop="20250318073000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League - The Big Interview</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318073000 -0300" stop="20250318080000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League Stories</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318080000 -0300" stop="20250318090000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League Review</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318090000 -0300" stop="20250318100000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">MLB Classic</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318100000 -0300" stop="20250318131500 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Live MLB</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318131500 -0300" stop="20250318134500 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League - The Big Interview</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318134500 -0300" stop="20250318141500 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318141500 -0300" stop="20250318151500 -0300" channel="TNT Sports 1 HD">
     <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
     <previously-shown />
   </programme>
-  <programme start="20250314233000 -0300" stop="20250315000000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">NBA on Fire</title>
-    <sub-title lang="en">11:30 pm - 12:00 am,
- Friday, March 14
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The latest news from the world of the NBA.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dd17aef8edca4e395af093dc0b85a1ca.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eiDiU45qIlP08YE8Rj8hU1RpiwVKDVZ%2BERNxJ8Im6zEF5DT027Cp%2FVH0GimXgzOBY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315000000 -0300" stop="20250315023000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live NBA</title>
-    <sub-title lang="en">12:00 am - 02:30 am,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Memphis Grizzlies v Cleveland Cavaliers (Tip-off 12.00am). Coverage of the inter-conference match at FedExForum.</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/85969d7cbbdf348b191810210305a7cc.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eNdDKlPw1RC8oqr76a05E3pCJmGBZci8XAX8%2FX2fmUSPYeqxqRGAzHAqOCmsR5peE%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315023000 -0300" stop="20250315030000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">MotoGP</title>
-    <sub-title lang="en">02:30 am - 03:00 am,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Action, news and reactions from the second round of the season. Suzi Perry and the team are trackside at Termas de Rio Hondo in Argentina.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/24c29c034fffcc14f7e4e66f05911e12.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fAl5ieOFwVEmT5%2Bp9BKLwAZPWHmrY3UsmFkKsFyrk%2FQsxKRBy%2BnsDQO3FgjjF%2Bdbs%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315030000 -0300" stop="20250315040000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Isuzu UTE A-League</title>
-    <sub-title lang="en">03:00 am - 04:00 am,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Adelaide United v Macarthur FC.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/48aa2c6d11e22708f2243a18ef8727a3.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fpV%2FuE%2BZDmvSRGtUpF6PUPiHzDFcbN%2Bx24l79C0PAMqgedhhYTFBa%2F5eyb6QONVw4%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315040000 -0300" stop="20250315050000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Women's T20 International Cricket</title>
-    <sub-title lang="en">04:00 am - 05:00 am,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">New Zealand v Sri Lanka. Action from the first T20 in the three-match series from Hagley Oval in Christchurch.</desc>
-    <category lang="en">Cricket - International</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7e3b147e0faee66015de1ec8b5dd6556.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4e9mp3Vbihhuu6zhGR6ngyez6uYjzZ9gbh4FndPEjg9bPrY98Lk4g%2FMPj9BpNQHJB0%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250315050000 -0300" stop="20250315053000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Premier League Legends</title>
-    <sub-title lang="en">05:00 am - 05:30 am,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">This episode looks at the career of Michael Owen, who burst onto the scene as a teenager at Liverpool and went on to make his name as one of the most talented players of his time.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/5a1807f6ef2949ae8bdccd198c7cfc3f.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eDGpczZk8MiFdDGHLIYyDWKwt6M81JdI8ofplzCd9FHGFTqUu6V1ZJQX4KAY%2FxiAI%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315053000 -0300" stop="20250315060000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Premier League Preview</title>
-    <sub-title lang="en">05:30 am - 06:00 am,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">A look ahead to all the upcoming action in the top flight, including Arsenal v Chelsea, Manchester City v Brighton &amp; Hove Albion, and Arsenal v Chelsea.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/85fc2df434f5fec64aca80d6998c91e8.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cWWoge1n7kmVmpKfiS1dY1%2Bt5LKFDQDN2w0lxpUI06AS3NjSuxkQxQsYhkHTrBqHY%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315060000 -0300" stop="20250315080000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live: A-League Women</title>
-    <sub-title lang="en">06:00 am - 08:00 am,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Sydney FC Women v Wellington Phoenix Women (Kick-off 6.00am). Coverage of the match from Leichhardt Oval in Lilyfield, New South Wales.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/7d181dc2a4af8e01d0e26ea3b988e464.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dH9yhqn020NXI1pQLdhI8Kfhk4VLpEkchpuXPYmYBAYBy7iI8O%2FNjrqmDEDeKUBY8%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315080000 -0300" stop="20250315081500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">TNT Sports Reload</title>
-    <sub-title lang="en">08:00 am - 08:15 am,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/2fe4aafdbe83f7eb0189e76981cbde30.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fWA7Cf4RJ778Tpez9N9pJSozskYrKet%2BhbvlTqguSgez3v7zRzBh6fQAewjRLN8fc%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315081500 -0300" stop="20250315111500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live AFL</title>
-    <sub-title lang="en">08:15 am - 11:15 am,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Collingwood Magpies v Port Adelaide Power (Bounce-up 8.35am). Coverage of the match from Melbourne Cricket Ground.</desc>
-    <category lang="en">Australian Rules Football</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/454f03b18a830ea7096c3870774ce49b.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4f2UE1wPeZPrKqmWKI8E372yNY8%2FlVqPt4jkxOg30mRvTM82EjkhL81s7Yevuucvh0%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315111500 -0300" stop="20250315113000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Superbike Rewind</title>
-    <sub-title lang="en">11:15 am - 11:30 am,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Action from the first round of the Superbike World Championship in Australia.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/becca2d3c26b5e3d9529c7d57b0c0b81.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cZQfyi%2FepY49iaespu8Gu%2FEkNda1mYg7Mk8elvv1Rdf5uz%2FUkhqMrTBFNEk1VdfrU%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315113000 -0300" stop="20250315130000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live MotoGP</title>
-    <sub-title lang="en">11:30 am - 1:00 pm,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The Grand Prix of Argentina Moto2 and Moto3 second practice sessions. Coverage from the second round of the season at Termas de Rio Hondo.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250315130000 -0300" stop="20250315154500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live MotoGP</title>
-    <sub-title lang="en">1:00 pm - 3:45 pm,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The Grand Prix of Argentina qualifying session (Start-time 1.50pm). Coverage from the second round of the season at Termas de Rio Hondo.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250315154500 -0300" stop="20250315174500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live MotoGP</title>
-    <sub-title lang="en">3:45 pm - 5:45 pm,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The Grand Prix of Argentina Moto3 and Moto2 qualifying sessions (Start-time 3.50pm). Coverage from the second round of the season at Termas de Rio Hondo.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250315174500 -0300" stop="20250315184500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live MotoGP</title>
-    <sub-title lang="en">5:45 pm - 6:45 pm,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">The Grand Prix of Argentina MotoGP sprint race (Start-time 6.00pm). Coverage from the second round of the season at Termas de Rio Hondo.</desc>
-    <category lang="en">Motorcycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/e69223b90f18d0a0a51ba3eee42012c5.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cIbtGoLgal986IYCEg1R1kIgju5uvNaRl%2BntsiZX3fP5vrvoiFltw2eQVX%2BXTzKmM%3D" />
-    <previously-shown />
-    <star-rating system="User">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250315184500 -0300" stop="20250315194500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Men's Cycling World Tour</title>
-    <sub-title lang="en">6:45 pm - 7:45 pm,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Action from the seventh stage of the Paris-Nice.</desc>
-    <category lang="en">Cycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/751abf82904ae847011cfb634fded417.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cjAPPUEGt7h7hNvJAuB3%2FLb5DTBczKNyFWE6iWloQA2EcZ67wCpjL%2FtLRrpuixLKU%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315194500 -0300" stop="20250315204500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Men's Cycling World Tour</title>
-    <sub-title lang="en">7:45 pm - 8:45 pm,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Action from stage six of the Tirreno Adriatico.</desc>
-    <category lang="en">Cycling</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/751abf82904ae847011cfb634fded417.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cjAPPUEGt7h7hNvJAuB3%2FLb5DTBczKNyFWE6iWloQA2EcZ67wCpjL%2FtLRrpuixLKU%3D" />
-    <previously-shown />
-  </programme>
-  <programme start="20250315204500 -0300" stop="20250315210000 -0300" channel="TNT Sports 2 HD">
+  <programme start="20250318151500 -0300" stop="20250318153000 -0300" channel="TNT Sports 1 HD">
     <title lang="en">UEFA Champions League Goals Reload</title>
-    <sub-title lang="en">8:45 pm - 9:00 pm,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Action from the latest round of 16 matches.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/33a770299fe4f0b2f7191d8ac896da2c.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eE7xjud2oVYgplYi7QDKESoghpwtvGBhu4FQcrTEEAw2C%2FoC4cxZQK9y1KJ2luA2w%3D" />
     <previously-shown />
   </programme>
-  <programme start="20250315210000 -0300" stop="20250315230000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live UFC</title>
-    <sub-title lang="en">9:00 pm - 11:00 pm,
- Saturday, March 15
- on TNT Sports 2 HD (431)</sub-title>
-    <desc lang="en">Coverage of the preliminary bouts from UFC Fight Night, which takes place at UFC Apex in Las Vegas, Nevada.</desc>
-    <category lang="en">Martial Sports</category>
-    <category lang="en">Sports</category>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/dea50d45ce8a7583acccd4ff6b158f38.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fDtT0VkvH%2FA6DBCb%2FWqeYLe8LgNfR40K7Cj7r8SDcj5BE42lbofPW%2BNb%2F1wQFmSAk%3D" />
+  <programme start="20250318153000 -0300" stop="20250318160000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">UEFA Champions League Magazine</title>
     <previously-shown />
   </programme>
-  <programme start="20250315230000 -0300" stop="20250316023000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live UFC</title>
+  <programme start="20250318160000 -0300" stop="20250318170000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League Review</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318170000 -0300" stop="20250318173000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League Netbusters</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318173000 -0300" stop="20250318200000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Live UEFA Women's Champions League</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318200000 -0300" stop="20250318220000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Live UEFA Women's Champions League</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318220000 -0300" stop="20250318221500 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Premier League Reload</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318221500 -0300" stop="20250318223000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">MotoGP Rewind</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318223000 -0300" stop="20250318233000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Original Documentary</title>
     <previously-shown />
   </programme>
   <programme start="20250316023000 -0300" stop="20250316040000 -0300" channel="TNT Sports 2 HD">
@@ -2496,137 +1106,275 @@
     <title lang="en">T20 Cricket Highlights</title>
     <previously-shown />
   </programme>
-  <programme start="20250315072000 +0000" stop="20250315094000 +0000" channel="Optus Sport 12">
-    <title lang="en">Gangwon v Seoul</title>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/acad6678-cf7c-4bbc-bd1f-c94457e79c0e_klrd5assetcleangangwonseoul15mar620pm.png" />
+  <programme start="20250316233000 -0300" stop="20250317003000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Women's T20 International Cricket</title>
+    <previously-shown />
   </programme>
-  <programme start="20250315140000 +0000" stop="20250315172000 +0000" channel="Optus Sport 1">
-    <title lang="en">Goal Rush - Overnight Saturday</title>
-    <desc lang="en">Here's your hub for the matches ahead, as you watch Manchester City v Brighton plus updates of every goal and key moment from around the grounds!</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/82ef55f7-00a9-4287-8b6c-9173f66584ad_plpgoalrush169.jpg" />
+  <programme start="20250317003000 -0300" stop="20250317013000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Allianz Premiership Women's Rugby</title>
+    <previously-shown />
   </programme>
-  <programme start="20250315172000 +0000" stop="20250315200000 +0000" channel="Optus Sport 1">
-    <title lang="en">Bournemouth v Brentford</title>
-    <sub-title lang="en">Premier League</sub-title>
-    <desc lang="en">Season: 2024/2025.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/e7ee3c21-a615-4119-bc2f-c45a8c435176_plmw29assetcleanbournemouthbrentford16mar420am.png" />
+  <programme start="20250317013000 -0300" stop="20250317014500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">UEFA Conference League Goals Reload</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317014500 -0300" stop="20250317024500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Men's Cycling World Tour</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317024500 -0300" stop="20250317034500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Men's Cycling World Tour</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317034500 -0300" stop="20250317044500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Women's Cycling World Tour</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317044500 -0300" stop="20250317050000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">In My Blood</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317050000 -0300" stop="20250317051500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Rio Ferdinand Meets</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317051500 -0300" stop="20250317053000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">What I Wore</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317053000 -0300" stop="20250317060000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">The WRC Magazine</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317060000 -0300" stop="20250317070000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">MotoGP</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317070000 -0300" stop="20250317080000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">MotoGP</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317080000 -0300" stop="20250317083000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">MotoGP</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317083000 -0300" stop="20250317093000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">MotoGP</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317093000 -0300" stop="20250317103000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317103000 -0300" stop="20250317111500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Motocross World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317111500 -0300" stop="20250317120000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Motocross World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317120000 -0300" stop="20250317124500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Motocross World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317124500 -0300" stop="20250317133000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Motocross World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317133000 -0300" stop="20250317140000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">The WRC Magazine</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317140000 -0300" stop="20250317150000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Premiership Rugby Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317150000 -0300" stop="20250317160000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Men's Cycling World Tour</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317160000 -0300" stop="20250317170000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Men's Cycling World Tour</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317170000 -0300" stop="20250317173000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Men's Cycling Pro Series</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317173000 -0300" stop="20250317183000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Women's Cycling World Tour</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317183000 -0300" stop="20250317184500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Tom Aspinall's Fight Lab</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317184500 -0300" stop="20250317190000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317190000 -0300" stop="20250317200000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">T20 Cricket Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317200000 -0300" stop="20250317210000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Women's T20 International Cricket</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250317210000 -0300" stop="20250318010000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Live Women's International T20 Cricket</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318010000 -0300" stop="20250318050000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Live T20 Cricket</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318050000 -0300" stop="20250318051500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318051500 -0300" stop="20250318053000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318053000 -0300" stop="20250318060000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318060000 -0300" stop="20250318070000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Allianz Premiership Women's Rugby</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318070000 -0300" stop="20250318080000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Premiership Rugby Cup</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318080000 -0300" stop="20250318100000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Fight Night Live</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318100000 -0300" stop="20250318130000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Live: Curling World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318130000 -0300" stop="20250318143000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">NBA</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318143000 -0300" stop="20250318160000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">NBA</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318160000 -0300" stop="20250318161500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318161500 -0300" stop="20250318163000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">UEFA Conference League Goals Reload</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318163000 -0300" stop="20250318173000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Original Documentary</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318173000 -0300" stop="20250318180000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Men's Cycling Pro Series</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318180000 -0300" stop="20250318183000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">The WRC Magazine</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318183000 -0300" stop="20250318190000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Premier League Stories</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318190000 -0300" stop="20250318200000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">SailGP Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318200000 -0300" stop="20250318210000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Women's T20 International Cricket</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250318210000 -0300" stop="20250318220000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">T20 Cricket Highlights</title>
+    <previously-shown />
   </programme>
   <programme start="20250316123000 +0000" stop="20250316163000 +0000" channel="Optus Sport 1">
     <title lang="en">Goal Rush - Overnight Sunday</title>
-    <desc lang="en">Here's your hub for the matches ahead, as you watch Arsenal v Chelsea plus updates of every goal and key moment from around the grounds!(n)</desc>
+    <desc lang="en">Here's your hub for the matches ahead, as you watch Arsenal v Chelsea plus updates of every goal and key moment from around the grounds!</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/82ef55f7-00a9-4287-8b6c-9173f66584ad_plpgoalrush169.jpg" />
   </programme>
   <programme start="20250316183000 +0000" stop="20250316213000 +0000" channel="Optus Sport 1">
     <title lang="en">Leicester City v Manchester United</title>
     <sub-title lang="en">Premier League</sub-title>
-    <desc lang="en">Season: 2024/2025.(n)</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/798ab0cb-b255-4b77-9bf7-9a58bb7b1d66_plmw29assetcleanleicesterman-united17mar530am.png" />
-  </programme>
-  <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 3">
-    <title lang="en">Manchester City v Brighton</title>
-    <sub-title lang="en">Premier League</sub-title>
     <desc lang="en">Season: 2024/2025.</desc>
     <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/2bfe6092-a674-4efd-a22d-8611a26c4b48_plmw29assetcleanman-citybrighton16mar150am.png" />
+    <icon src="https://static.sport.optus.com.au/resources/static/798ab0cb-b255-4b77-9bf7-9a58bb7b1d66_plmw29assetcleanleicesterman-united17mar530am.png" />
   </programme>
   <programme start="20250316132000 +0000" stop="20250316154000 +0000" channel="Optus Sport 3">
     <title lang="en">Arsenal v Chelsea</title>
     <sub-title lang="en">Premier League</sub-title>
-    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <desc lang="en">Season: 2024/2025.</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/068856e4-4113-4598-821a-013d8d6b5fca_plmw29assetcleanarsenalchelsea17mar1220am.png" />
   </programme>
-  <programme start="20250314103000 +0000" stop="20250314110000 +0000" channel="Optus Sport 11">
-    <title lang="en">Fantasy Premier League</title>
-    <desc lang="en">A fantasy manager's best friend. Have a watch of all you need to know ahead of the weekend.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/30a50af6-8c6a-4eb0-9c3b-f2d94792a183_plpfantasyshow169.png" />
-  </programme>
-  <programme start="20250314120000 +0000" stop="20250314130000 +0000" channel="Optus Sport 11">
-    <title lang="en">Welcome to the Weekend</title>
-    <desc lang="en">Light-hearted, inclusive and entertaining, Welcome to the Weekend focuses on not just the football but also on the lifestyle topics that footballers and fans love.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/4c03c317-b2b8-46a6-9c0b-73864133c06e_plpwelcometotheweekend169.png" />
-  </programme>
-  <programme start="20250314163000 +0000" stop="20250314170000 +0000" channel="Optus Sport 11">
-    <title lang="en">Premier League Preview</title>
-    <desc lang="en">Preview all the upcoming Premier League fixtures.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/c00cd439-9265-4fbb-a47b-d0a754fb8f2a_plppreview169.png" />
-  </programme>
-  <programme start="20250314180000 +0000" stop="20250314190000 +0000" channel="Optus Sport 11">
-    <title lang="en">Team Talks</title>
-    <desc lang="en">Join the team as they tackle all the major talking points as the players and the managers have their say ahead of the weekend action.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/45b95619-53f9-4613-bdca-1fe32d222411_plpteamtalks169.png" />
-  </programme>
-  <programme start="20250315200000 +0000" stop="20250315210000 +0000" channel="Optus Sport 11">
-    <title lang="en">Matchday Live Extra</title>
-    <desc lang="en">Join us for a complete review of all the day’s Premier League football, with highlights and studio discussion.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/73fbdff5-84a9-4c4a-9ce8-15b4d08d0998_plpmatchdayliveextra169.jpg" />
-  </programme>
   <programme start="20250316230000 +0000" stop="20250317003000 +0000" channel="Optus Sport 11">
     <title lang="en">The Weekend Wrap</title>
-    <desc lang="en">The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.(n)</desc>
+    <desc lang="en">The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/edd9c20a-3f74-48f1-9723-2e4d85800765_plptheweekendwrap169.png" />
   </programme>
-  <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 5">
-    <title lang="en">Southampton v Wolverhampton Wanderers</title>
-    <sub-title lang="en">Premier League</sub-title>
-    <desc lang="en">Season: 2024/2025.</desc>
+  <programme start="20250317003000 +0000" stop="20250317013000 +0000" channel="Optus Sport 11">
+    <title lang="en">Premier League Highlights Show</title>
+    <desc lang="en">Catch up on all the latest action from the Premier League.(n)</desc>
     <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/aa44bd3f-717b-4c58-b748-6f89720e212f_plmw29assetcleansouthamptonwolves16mar150am.png" />
+    <icon src="https://static.sport.optus.com.au/resources/static/cfe8438f-0db2-43cb-8008-80ed6eccfa9d_plpreview169.png" />
   </programme>
-  <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 4">
-    <title lang="en">Ipswich v Nottingham Forest</title>
-    <sub-title lang="en">Premier League</sub-title>
-    <desc lang="en">Season: 2024/2025.</desc>
+  <programme start="20250317130000 +0000" stop="20250317140000 +0000" channel="Optus Sport 11">
+    <title lang="en">The Kelly &amp; Wrighty Show</title>
+    <desc lang="en">Arsenal legend Ian Wright is joined by Kelly Cates and a host of Premier League personalities as they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.(n)</desc>
     <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/0310b925-4631-4dcd-b0da-883a685acfc0_plmw29assetcleanipswichforest16mar150am.png" />
+    <icon src="https://static.sport.optus.com.au/resources/static/98e974b8-b73e-419c-86c9-2a3c34df367e_plpkellywrighty169.png" />
   </programme>
-  <programme start="20250315145000 +0000" stop="20250315171000 +0000" channel="Optus Sport 2">
-    <title lang="en">Everton v West Ham United</title>
-    <sub-title lang="en">Premier League</sub-title>
-    <desc lang="en">Season: 2024/2025.</desc>
+  <programme start="20250317170000 +0000" stop="20250317180000 +0000" channel="Optus Sport 11">
+    <title lang="en">Generation xG</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the fanalytics community.(n)</desc>
     <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/cf8be649-af89-437d-b570-6fea47f156cb_plmw29assetcleanevertonwest-ham16mar150am.png" />
+    <icon src="https://static.sport.optus.com.au/resources/static/82479dbd-826d-4995-9cbb-5b3f2912466f_plpgenerationxg169.png" />
+  </programme>
+  <programme start="20250317183000 +0000" stop="20250317190000 +0000" channel="Optus Sport 11">
+    <title lang="en">Netbusters</title>
+    <desc lang="en">All the best angles of all the best goals from the latest Premier League action.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/1c18dc95-934b-4186-b386-45aaef1a3145_plpnetbusters169.png" />
+  </programme>
+  <programme start="20250318090000 +0000" stop="20250318100000 +0000" channel="Optus Sport 11">
+    <title lang="en">PL GOATs: Spanish Stars</title>
+    <desc lang="en">Just who is the greatest? Our panel will discuss and then decide with the help of archive, stats and first-hand testimony.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/03f71716-8fcc-42ad-a94f-f47c0e478fa2_plpplgoats169.png" />
+  </programme>
+  <programme start="20250318153000 +0000" stop="20250318160000 +0000" channel="Optus Sport 11">
+    <title lang="en">Premier League Rewind</title>
+    <desc lang="en">Relive classic matches, seasons and moments in the company of those who starred in them.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/c3c817ab-2195-4e0f-b939-5e56526a43b0_plprewind169.png" />
   </programme>
   <programme start="20250316132000 +0000" stop="20250316154000 +0000" channel="Optus Sport 2">
     <title lang="en">Fulham v Tottenham Hotspur</title>
     <sub-title lang="en">Premier League</sub-title>
-    <desc lang="en">Season: 2024/2025.(n)</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/aa16bada-d351-46f2-963d-276fd4ff6cb8_plmw29assetcleanfulhamtottenham17mar1220am.png" />
-  </programme>
-  <programme start="20250314185500 +0000" stop="20250314211000 +0000" channel="Optus Sport 7">
-    <title lang="en">Everton v Arsenal</title>
-    <sub-title lang="en">Women's Super League</sub-title>
     <desc lang="en">Season: 2024/2025.</desc>
     <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/27a4cdf0-7ae5-44d1-9396-5afc327f1aaa_wslmw16assetcleanevertonarsenal15mar555am.png" />
-  </programme>
-  <programme start="20250315045000 +0000" stop="20250315071000 +0000" channel="Optus Sport 7">
-    <title lang="en">Jeju v Daejeon</title>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/bf284868-a0df-4ac9-a4e3-f5d51c4ee0fb_klrd5assetcleanjejudaejeon15mar350pm.png" />
-  </programme>
-  <programme start="20250315121000 +0000" stop="20250315152500 +0000" channel="Optus Sport 7">
-    <title lang="en">Chelsea v Manchester City</title>
-    <desc lang="en">Women's League Cup Final.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/97fd0d77-615d-4006-a977-a90f96de36aa_wlcfinalchemancitytimed16x9-1.jpg" />
+    <icon src="https://static.sport.optus.com.au/resources/static/aa16bada-d351-46f2-963d-276fd4ff6cb8_plmw29assetcleanfulhamtottenham17mar1220am.png" />
   </programme>
   <programme start="20250316035500 +0000" stop="20250316061000 +0000" channel="Optus Sport 7">
     <title lang="en">Shimizu v Kyoto</title>
     <sub-title lang="en">J1 League</sub-title>
-    <desc lang="en">Season: 2025.(n)</desc>
+    <desc lang="en">Season: 2025.</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/9078562b-4070-4b46-9ac9-7d47b52b699d_jlmw6assetcleanshimizukyoto-sanga16mar255pm.png" />
   </programme>
@@ -2638,7 +1386,7 @@
   <programme start="20250316135500 +0000" stop="20250316161000 +0000" channel="Optus Sport 7">
     <title lang="en">Crystal Palace v Aston Villa</title>
     <sub-title lang="en">Women's Super League</sub-title>
-    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <desc lang="en">Season: 2024/2025.</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/73c7b67f-16f1-4a15-8ced-07bb0d652515_wslmw16assetcleancrystal-palaceaston-villa17mar1255am.png" />
   </programme>
