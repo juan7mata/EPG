@@ -165,45 +165,6 @@
     <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
     <url>http://www.optussport.com.au</url>
   </channel>
-  <programme start="20250511100000 +0000" stop="20250511130500 +0000" channel="Optus Sport 1">
-    <title lang="en">Newcastle United v Chelsea</title>
-    <sub-title lang="en">Premier League</sub-title>
-    <desc lang="en">Season: 2024/2025.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/11332dce-d428-4eaa-a867-888608a41d18_plmw36assetcleannewcastlechelsea11may800pm.png" />
-  </programme>
-  <programme start="20250511130500 +0000" stop="20250511152000 +0000" channel="Optus Sport 1">
-    <title lang="en">Goal Rush - Overnight Sunday</title>
-    <desc lang="en">Here's your hub for the matches ahead, as you watch Nottingham Forest v Leicester plus updates of every goal and key moment from around the grounds!</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/82ef55f7-00a9-4287-8b6c-9173f66584ad_plpgoalrush169.jpg" />
-  </programme>
-  <programme start="20250511152000 +0000" stop="20250511183000 +0000" channel="Optus Sport 1">
-    <title lang="en">Liverpool v Arsenal</title>
-    <sub-title lang="en">Premier League</sub-title>
-    <desc lang="en">Season: 2024/2025.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/88f264d2-4e5f-4e5a-84f8-2049c2c35690_plmw36assetcleanliverpoolarsenal12may120am.png" />
-  </programme>
-  <programme start="20250511130500 +0000" stop="20250511152500 +0000" channel="Optus Sport 3">
-    <title lang="en">Tottenham Hotspur v Crystal Palace</title>
-    <sub-title lang="en">Premier League</sub-title>
-    <desc lang="en">Season: 2024/2025.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/b4c1c47a-fca9-4731-9d09-44678ac8594a_plmw36assetcleanspurscrystal-palace11may1105pm.png" />
-  </programme>
-  <programme start="20250511193000 +0000" stop="20250511210000 +0000" channel="Optus Sport 11">
-    <title lang="en">The Weekend Wrap</title>
-    <desc lang="en">The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/edd9c20a-3f74-48f1-9723-2e4d85800765_plptheweekendwrap169.png" />
-  </programme>
-  <programme start="20250511220000 +0000" stop="20250511230000 +0000" channel="Optus Sport 11">
-    <title lang="en">Premier League Highlights Show</title>
-    <desc lang="en">Catch up on all the latest action from the Premier League.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/cfe8438f-0db2-43cb-8008-80ed6eccfa9d_plpreview169.png" />
-  </programme>
   <programme start="20250512120000 +0000" stop="20250512130000 +0000" channel="Optus Sport 11">
     <title lang="en">The Kelly &amp; Wrighty Show</title>
     <desc lang="en">Arsenal legend Ian Wright is joined by Kelly Cates and a host of Premier League personalities as they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.</desc>
@@ -224,46 +185,32 @@
   </programme>
   <programme start="20250513080000 +0000" stop="20250513090000 +0000" channel="Optus Sport 11">
     <title lang="en">PL Moments: Robert Pires</title>
-    <desc lang="en">Take a look at some of the moments that have shaped the Premier League.(n)</desc>
+    <desc lang="en">Take a look at some of the moments that have shaped the Premier League.</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/4ae21df9-fda7-4975-af35-0f0e0ec2875b_pl-moments16x9.jpeg" />
   </programme>
   <programme start="20250513143000 +0000" stop="20250513150000 +0000" channel="Optus Sport 11">
     <title lang="en">Premier League Rewind</title>
-    <desc lang="en">Manchester City v QPR on the final day of the 2011/12 season will forever be remembered as the most dramatic of finales to a Premier League season. Shaun Wright-Phillips and Joleon Lescott offer the perspective from both sides, with the final day drama at the Etihad set in the context of Manchester City’s Run-In and their pursuit of a first Premier League Title.(n)</desc>
+    <desc lang="en">Manchester City v QPR on the final day of the 2011/12 season will forever be remembered as the most dramatic of finales to a Premier League season. Shaun Wright-Phillips and Joleon Lescott offer the perspective from both sides, with the final day drama at the Etihad set in the context of Manchester City’s Run-In and their pursuit of a first Premier League Title.</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/c3c817ab-2195-4e0f-b939-5e56526a43b0_plprewind169.png" />
   </programme>
   <programme start="20250513180000 +0000" stop="20250513183000 +0000" channel="Optus Sport 11">
     <title lang="en">Match Officials Mic'd Up</title>
-    <desc lang="en">PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in studio to provide context and explanation behind refereeing decisions from the season so far using match footage and previously un-released audio between the on-field officials and the VAR Teams.(n)</desc>
+    <desc lang="en">PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in studio to provide context and explanation behind refereeing decisions from the season so far using match footage and previously un-released audio between the on-field officials and the VAR Teams.</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/d3a7034b-53f0-49c0-a069-c4d0e9de64f7_plpmatchofficialsmicdupwebbowen169.png" />
   </programme>
-  <programme start="20250511130500 +0000" stop="20250511152500 +0000" channel="Optus Sport 4">
-    <title lang="en">Nottingham Forest v Leicester City</title>
-    <sub-title lang="en">Premier League</sub-title>
-    <desc lang="en">Season: 2024/2025.</desc>
+  <programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="Optus Sport 11">
+    <title lang="en">The Catch-Up Show</title>
+    <desc lang="en">Miss some of the action over the last round of Premier League matches? The Catch-Up Show covers everything you need to know.(n)</desc>
     <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/8dbd8b99-d42c-489d-8d7c-a302aeeb9941_plmw36assetcleanforestleicester11may1105pm.png" />
+    <icon src="https://static.sport.optus.com.au/resources/static/38bcf692-9aa2-4907-b1d2-c269c38d6620_plpthecatchupshow169.png" />
   </programme>
-  <programme start="20250511130500 +0000" stop="20250511152500 +0000" channel="Optus Sport 2">
-    <title lang="en">Manchester United v West Ham United</title>
-    <sub-title lang="en">Premier League</sub-title>
-    <desc lang="en">Season: 2024/2025.</desc>
+  <programme start="20250514170000 +0000" stop="20250514173000 +0000" channel="Optus Sport 11">
+    <title lang="en">PL Stories: Chris Wood</title>
+    <desc lang="en">We follow New Zealand striker Chris Wood during a crucial World Cup Qualifier on home soil, at the peak of one of the most impressive seasons of his career. Back in his hometown, we meet the family, coaches and friends who helped shape the player and the person he’s become. From humble beginnings to Premier League mainstay, Wood reflects on the pressures he's faced, the pride of leading his country, and the mindset that's driven him every step of the way.(n)</desc>
     <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/cf7fe24b-059a-4b58-a72d-da86db724095_plmw36assetcleanman-unitedwest-ham11may1105pm.png" />
-  </programme>
-  <programme start="20250511040000 +0000" stop="20250511061500 +0000" channel="Optus Sport 7">
-    <title lang="en">Kashima v Kawasaki</title>
-    <sub-title lang="en">J1 League</sub-title>
-    <desc lang="en">Season: 2025.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/e70ddaa3-86e3-4512-a046-377bac8677ce_jlmw16assetcleankashimakawasaki11may200pm.png" />
-  </programme>
-  <programme start="20250511095000 +0000" stop="20250511121000 +0000" channel="Optus Sport 7">
-    <title lang="en">Gwangju v Jeonbuk</title>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/bd26c26c-c9ce-486a-b518-c03531228ef0_klrd13assetcleangwangjujeonbuk11may750pm.png" />
+    <icon src="https://static.sport.optus.com.au/resources/static/48f51ed9-0d41-4d9e-8bfc-b5eb404505b7_pl-stories.png" />
   </programme>
 </tv>
