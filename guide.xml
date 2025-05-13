@@ -165,24 +165,6 @@
     <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
     <url>http://www.optussport.com.au</url>
   </channel>
-  <programme start="20250512120000 +0000" stop="20250512130000 +0000" channel="Optus Sport 11">
-    <title lang="en">The Kelly &amp; Wrighty Show</title>
-    <desc lang="en">Arsenal legend Ian Wright is joined by Kelly Cates and a host of Premier League personalities as they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/98e974b8-b73e-419c-86c9-2a3c34df367e_plpkellywrighty169.png" />
-  </programme>
-  <programme start="20250512160000 +0000" stop="20250512170000 +0000" channel="Optus Sport 11">
-    <title lang="en">Generation xG</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the fanalytics community.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/82479dbd-826d-4995-9cbb-5b3f2912466f_plpgenerationxg169.png" />
-  </programme>
-  <programme start="20250512173000 +0000" stop="20250512180000 +0000" channel="Optus Sport 11">
-    <title lang="en">Netbusters</title>
-    <desc lang="en">All the best angles of all the best goals from the latest Premier League action.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/1c18dc95-934b-4186-b386-45aaef1a3145_plpnetbusters169.png" />
-  </programme>
   <programme start="20250513080000 +0000" stop="20250513090000 +0000" channel="Optus Sport 11">
     <title lang="en">PL Moments: Robert Pires</title>
     <desc lang="en">Take a look at some of the moments that have shaped the Premier League.</desc>
@@ -203,14 +185,20 @@
   </programme>
   <programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="Optus Sport 11">
     <title lang="en">The Catch-Up Show</title>
-    <desc lang="en">Miss some of the action over the last round of Premier League matches? The Catch-Up Show covers everything you need to know.(n)</desc>
+    <desc lang="en">Miss some of the action over the last round of Premier League matches? The Catch-Up Show covers everything you need to know.</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/38bcf692-9aa2-4907-b1d2-c269c38d6620_plpthecatchupshow169.png" />
   </programme>
   <programme start="20250514170000 +0000" stop="20250514173000 +0000" channel="Optus Sport 11">
     <title lang="en">PL Stories: Chris Wood</title>
-    <desc lang="en">We follow New Zealand striker Chris Wood during a crucial World Cup Qualifier on home soil, at the peak of one of the most impressive seasons of his career. Back in his hometown, we meet the family, coaches and friends who helped shape the player and the person he’s become. From humble beginnings to Premier League mainstay, Wood reflects on the pressures he's faced, the pride of leading his country, and the mindset that's driven him every step of the way.(n)</desc>
+    <desc lang="en">We follow New Zealand striker Chris Wood during a crucial World Cup Qualifier on home soil, at the peak of one of the most impressive seasons of his career. Back in his hometown, we meet the family, coaches and friends who helped shape the player and the person he’s become. From humble beginnings to Premier League mainstay, Wood reflects on the pressures he's faced, the pride of leading his country, and the mindset that's driven him every step of the way.</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/48f51ed9-0d41-4d9e-8bfc-b5eb404505b7_pl-stories.png" />
+  </programme>
+  <programme start="20250515123000 +0000" stop="20250515130000 +0000" channel="Optus Sport 11">
+    <title lang="en">The Big Interview</title>
+    <desc lang="en">Catch a unique sit-down with one of the Premier League's biggest names.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/5df659c3-202b-4234-9742-f2031ea34abd_tbi16x9.jpeg" />
   </programme>
 </tv>
