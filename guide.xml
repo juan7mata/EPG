@@ -1,5 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <programme start="20250516180000 +0000" stop="20250516220000 +0000" channel="Optus Sport 1">
+    <title lang="en">Goal Rush - Saturday Morning</title>
+    <desc lang="en">Here's your hub for the matches ahead, as you watch Aston Villa v Tottenham plus updates of every goal and key moment from around the grounds!(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/82ef55f7-00a9-4287-8b6c-9173f66584ad_plpgoalrush169.jpg" />
+  </programme>
+  <programme start="20250516190500 +0000" stop="20250516212500 +0000" channel="Optus Sport 3">
+    <title lang="en">Chelsea v Manchester United</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/7a459a35-312c-464e-8ea9-f89e2b9e8461_plmw37assetcleanchelseaman-united17may505am.png" />
+  </programme>
   <channel id="WBBM HDTV (WBBMDT) [2.1]">
     <display-name lang="en">WBBM HDTV (WBBMDT) [2.1]</display-name>
     <url>http://www.tvguide.com</url>
@@ -165,24 +178,6 @@
     <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
     <url>http://www.optussport.com.au</url>
   </channel>
-  <programme start="20250513080000 +0000" stop="20250513090000 +0000" channel="Optus Sport 11">
-    <title lang="en">PL Moments: Robert Pires</title>
-    <desc lang="en">Take a look at some of the moments that have shaped the Premier League.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/4ae21df9-fda7-4975-af35-0f0e0ec2875b_pl-moments16x9.jpeg" />
-  </programme>
-  <programme start="20250513143000 +0000" stop="20250513150000 +0000" channel="Optus Sport 11">
-    <title lang="en">Premier League Rewind</title>
-    <desc lang="en">Manchester City v QPR on the final day of the 2011/12 season will forever be remembered as the most dramatic of finales to a Premier League season. Shaun Wright-Phillips and Joleon Lescott offer the perspective from both sides, with the final day drama at the Etihad set in the context of Manchester City’s Run-In and their pursuit of a first Premier League Title.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/c3c817ab-2195-4e0f-b939-5e56526a43b0_plprewind169.png" />
-  </programme>
-  <programme start="20250513180000 +0000" stop="20250513183000 +0000" channel="Optus Sport 11">
-    <title lang="en">Match Officials Mic'd Up</title>
-    <desc lang="en">PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in studio to provide context and explanation behind refereeing decisions from the season so far using match footage and previously un-released audio between the on-field officials and the VAR Teams.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://static.sport.optus.com.au/resources/static/d3a7034b-53f0-49c0-a069-c4d0e9de64f7_plpmatchofficialsmicdupwebbowen169.png" />
-  </programme>
   <programme start="20250514140000 +0000" stop="20250514150000 +0000" channel="Optus Sport 11">
     <title lang="en">The Catch-Up Show</title>
     <desc lang="en">Miss some of the action over the last round of Premier League matches? The Catch-Up Show covers everything you need to know.</desc>
@@ -197,8 +192,39 @@
   </programme>
   <programme start="20250515123000 +0000" stop="20250515130000 +0000" channel="Optus Sport 11">
     <title lang="en">The Big Interview</title>
-    <desc lang="en">Catch a unique sit-down with one of the Premier League's biggest names.(n)</desc>
+    <desc lang="en">Catch a unique sit-down with one of the Premier League's biggest names.</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/5df659c3-202b-4234-9742-f2031ea34abd_tbi16x9.jpeg" />
+  </programme>
+  <programme start="20250516093000 +0000" stop="20250516100000 +0000" channel="Optus Sport 11">
+    <title lang="en">Fantasy Premier League</title>
+    <desc lang="en">A fantasy manager's best friend. Have a watch of all you need to know ahead of the weekend.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/30a50af6-8c6a-4eb0-9c3b-f2d94792a183_plpfantasyshow169.png" />
+  </programme>
+  <programme start="20250516110000 +0000" stop="20250516120000 +0000" channel="Optus Sport 11">
+    <title lang="en">Welcome to the Weekend</title>
+    <desc lang="en">Light-hearted, inclusive and entertaining, Welcome to the Weekend focuses on not just the football but also on the lifestyle topics that footballers and fans love.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/4c03c317-b2b8-46a6-9c0b-73864133c06e_plpwelcometotheweekend169.png" />
+  </programme>
+  <programme start="20250516153000 +0000" stop="20250516160000 +0000" channel="Optus Sport 11">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">Preview all the upcoming Premier League fixtures.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/c00cd439-9265-4fbb-a47b-d0a754fb8f2a_plppreview169.png" />
+  </programme>
+  <programme start="20250516220000 +0000" stop="20250516230000 +0000" channel="Optus Sport 11">
+    <title lang="en">Team Talks</title>
+    <desc lang="en">Join the team as they tackle all the major talking points as the players and the managers have their say ahead of the weekend action.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/45b95619-53f9-4613-bdca-1fe32d222411_plpteamtalks169.png" />
+  </programme>
+  <programme start="20250516182000 +0000" stop="20250516204000 +0000" channel="Optus Sport 2">
+    <title lang="en">Aston Villa v Tottenham Hotspur</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/c632a2c7-8dcc-46d7-92d0-5ef18c17644f_plmw37assetcleanaston-villaspurs17may420am.png" />
   </programme>
 </tv>
