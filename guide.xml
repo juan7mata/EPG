@@ -170,94 +170,6 @@
     <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
     <url>http://www.optussport.com.au</url>
   </channel>
-  <programme start="20250602001500 -0300" stop="20250602004500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">UCI Mountain Bike World Series Women</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602004500 -0300" stop="20250602011500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">UCI Mountain Bike World Series Men</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602011500 -0300" stop="20250602021500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Giro d'Italia Men Highlights</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602021500 -0300" stop="20250602031500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Men's Cycling Pro Series</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602031500 -0300" stop="20250602044500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">NBA</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602044500 -0300" stop="20250602054500 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Isuzu UTE A-League</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602054500 -0300" stop="20250602060000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">TNT Sports Reload</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602060000 -0300" stop="20250602073000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">AFL</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602073000 -0300" stop="20250602090000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">AFL</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602090000 -0300" stop="20250602103000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">AFL</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602103000 -0300" stop="20250602113000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Isuzu UTE A-League</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602113000 -0300" stop="20250602130000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">UEFA Champions League</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602130000 -0300" stop="20250602143000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">NBA</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602143000 -0300" stop="20250602153000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">WNBA</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602153000 -0300" stop="20250602160000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">SailGP - Racing on the Edge</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602160000 -0300" stop="20250602170000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Giro d'Italia Men Highlights</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602170000 -0300" stop="20250602173000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">UCI Mountain Bike World Series Women</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602173000 -0300" stop="20250602180000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">UCI Mountain Bike World Series Men</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602180000 -0300" stop="20250602213000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Live: Ultimate Pool</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602213000 -0300" stop="20250602223000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Fishing: On the Bank</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602223000 -0300" stop="20250602233000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">IFSC Climbing World Cup Highlights</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602233000 -0300" stop="20250603003000 -0300" channel="TNT Sports 3 HD">
-    <title lang="en">Giro d'Italia Men Highlights</title>
-    <previously-shown />
-  </programme>
   <programme start="20250603003000 -0300" stop="20250603010000 -0300" channel="TNT Sports 3 HD">
     <title lang="en">The WRC Magazine</title>
     <previously-shown />
@@ -442,68 +354,108 @@
     <title lang="en">Giro d'Italia Men Highlights</title>
     <previously-shown />
   </programme>
-  <programme start="20250602023000 -0300" stop="20250602033000 -0300" channel="TNT Sports 4 HD">
+  <programme start="20250604233000 -0300" stop="20250605003000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Men's Cycling Pro Series</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605003000 -0300" stop="20250605013000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">T100 Triathlon World Tour Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605013000 -0300" stop="20250605023000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">WNBA</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605023000 -0300" stop="20250605031500 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Fight Week</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605031500 -0300" stop="20250605041500 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">UFC Countdown</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605041500 -0300" stop="20250605051500 -0300" channel="TNT Sports 3 HD">
     <title lang="en">UFC Main Event</title>
     <previously-shown />
   </programme>
-  <programme start="20250602033000 -0300" stop="20250602040000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">SailGP - Racing on the Edge</title>
+  <programme start="20250605051500 -0300" stop="20250605054500 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Tom Aspinall's Fight Lab</title>
     <previously-shown />
   </programme>
-  <programme start="20250602040000 -0300" stop="20250602043000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">UCI Mountain Bike World Series Women</title>
+  <programme start="20250605054500 -0300" stop="20250605060000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">TNT Sports Reload</title>
     <previously-shown />
   </programme>
-  <programme start="20250602043000 -0300" stop="20250602050000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">UCI Mountain Bike World Series Men</title>
+  <programme start="20250605060000 -0300" stop="20250605070000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Gallagher Premiership Rugby Union</title>
     <previously-shown />
   </programme>
-  <programme start="20250602050000 -0300" stop="20250602060000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">FIM Speedway Grand Prix Highlights</title>
+  <programme start="20250605070000 -0300" stop="20250605080000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Gallagher Premiership Rugby Union</title>
     <previously-shown />
   </programme>
-  <programme start="20250602060000 -0300" stop="20250602061500 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">UEFA Europa League Goals Reload</title>
+  <programme start="20250605080000 -0300" stop="20250605090000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Gallagher Premiership Rugby Union</title>
     <previously-shown />
   </programme>
-  <programme start="20250602061500 -0300" stop="20250602063000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">UEFA Conference League Goals Reload</title>
+  <programme start="20250605090000 -0300" stop="20250605100000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Gallagher Premiership Rugby Union</title>
     <previously-shown />
   </programme>
-  <programme start="20250602063000 -0300" stop="20250602073000 -0300" channel="TNT Sports 4 HD">
+  <programme start="20250605100000 -0300" stop="20250605110000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Gallagher Premiership Rugby Union</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605110000 -0300" stop="20250605120000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Men's Cycling Pro Series</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605120000 -0300" stop="20250605141500 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Live: Men's Cycling Pro Series</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605141500 -0300" stop="20250605151500 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Giro d'Italia Men Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605151500 -0300" stop="20250605161500 -0300" channel="TNT Sports 3 HD">
     <title lang="en">Porsche Supercup</title>
     <previously-shown />
   </programme>
-  <programme start="20250602073000 -0300" stop="20250602090000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Roland Garros</title>
+  <programme start="20250605161500 -0300" stop="20250605164500 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">European Rally Championship Highlights</title>
     <previously-shown />
   </programme>
-  <programme start="20250602090000 -0300" stop="20250602100000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Court Side</title>
+  <programme start="20250605164500 -0300" stop="20250605170000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">UEFA Champions League Goals Reload</title>
     <previously-shown />
   </programme>
-  <programme start="20250602100000 -0300" stop="20250602120000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Roland Garros</title>
+  <programme start="20250605170000 -0300" stop="20250605173000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">NBA Action</title>
     <previously-shown />
   </programme>
-  <programme start="20250602120000 -0300" stop="20250602150000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Roland Garros</title>
+  <programme start="20250605173000 -0300" stop="20250605183000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">MLB Highlights</title>
     <previously-shown />
   </programme>
-  <programme start="20250602150000 -0300" stop="20250602170000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Roland Garros</title>
+  <programme start="20250605183000 -0300" stop="20250605200100 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">AFL</title>
     <previously-shown />
   </programme>
-  <programme start="20250602170000 -0300" stop="20250602200000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Roland Garros</title>
+  <programme start="20250605200100 -0300" stop="20250605210100 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Women's Cycling World Tour</title>
     <previously-shown />
   </programme>
-  <programme start="20250602200000 -0300" stop="20250602230000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Live: Roland Garros</title>
+  <programme start="20250605210100 -0300" stop="20250605220000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Men's Cycling Pro Series</title>
     <previously-shown />
   </programme>
-  <programme start="20250602230000 -0300" stop="20250603003000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">Roland Garros</title>
+  <programme start="20250605220000 -0300" stop="20250605223000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Golden Trail World Series</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605223000 -0300" stop="20250605230000 -0300" channel="TNT Sports 3 HD">
+    <title lang="en">Golden Trail World Series</title>
     <previously-shown />
   </programme>
   <programme start="20250603003000 -0300" stop="20250603033000 -0300" channel="TNT Sports 4 HD">
@@ -511,7 +463,7 @@
     <previously-shown />
   </programme>
   <programme start="20250603033000 -0300" stop="20250603043000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">IFSC Climbing World Cup Highlights</title>
+    <title lang="en">UFC Main Event</title>
     <previously-shown />
   </programme>
   <programme start="20250603043000 -0300" stop="20250603053000 -0300" channel="TNT Sports 4 HD">
@@ -538,11 +490,11 @@
     <title lang="en">Live: Court Side</title>
     <previously-shown />
   </programme>
-  <programme start="20250603100000 -0300" stop="20250603130000 -0300" channel="TNT Sports 4 HD">
+  <programme start="20250603100000 -0300" stop="20250603123000 -0300" channel="TNT Sports 4 HD">
     <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
-  <programme start="20250603130000 -0300" stop="20250603150000 -0300" channel="TNT Sports 4 HD">
+  <programme start="20250603123000 -0300" stop="20250603150000 -0300" channel="TNT Sports 4 HD">
     <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
@@ -550,12 +502,8 @@
     <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
-  <programme start="20250603180000 -0300" stop="20250603183000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">UCI Mountain Bike World Series Women</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250603183000 -0300" stop="20250603190000 -0300" channel="TNT Sports 4 HD">
-    <title lang="en">UCI Mountain Bike World Series Men</title>
+  <programme start="20250603180000 -0300" stop="20250603190000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
   <programme start="20250603190000 -0300" stop="20250603230000 -0300" channel="TNT Sports 4 HD">
@@ -634,20 +582,104 @@
     <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
-  <programme start="20250602010000 -0300" stop="20250602070000 -0300" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
+  <programme start="20250604230000 -0300" stop="20250605000000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Grand Slam Track Athletics</title>
     <previously-shown />
   </programme>
-  <programme start="20250602070000 -0300" stop="20250602130000 -0300" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
+  <programme start="20250605000000 -0300" stop="20250605003000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">European Rally Championship Highlights</title>
     <previously-shown />
   </programme>
-  <programme start="20250602130000 -0300" stop="20250602190000 -0300" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
+  <programme start="20250605003000 -0300" stop="20250605010000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">The WRC Magazine</title>
     <previously-shown />
   </programme>
-  <programme start="20250602190000 -0300" stop="20250603010000 -0300" channel="TNT Sports Box Office">
-    <title lang="en">Welcome to TNT Sports Box Office</title>
+  <programme start="20250605010000 -0300" stop="20250605020000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">ABB FIA Formula E World Championship Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605020000 -0300" stop="20250605030000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">ABB FIA Formula E World Championship Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605030000 -0300" stop="20250605034500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Motocross World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605034500 -0300" stop="20250605043000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Motocross World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605043000 -0300" stop="20250605051500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Motocross World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605051500 -0300" stop="20250605060000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Motocross World Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605060000 -0300" stop="20250605070000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Grand Slam Track Athletics</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605070000 -0300" stop="20250605080000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">UEFA Europa League &amp; Conference League Magazine</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605080000 -0300" stop="20250605083000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">The WRC Magazine</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605083000 -0300" stop="20250605090000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">European Rally Championship Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605090000 -0300" stop="20250605093000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Tom Aspinall's Fight Lab</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605093000 -0300" stop="20250605110000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Roland Garros</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605110000 -0300" stop="20250605133000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Live: Roland Garros</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605133000 -0300" stop="20250605140000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Live: Court Side</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605140000 -0300" stop="20250605160000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Live: Roland Garros</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605160000 -0300" stop="20250605190000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">Live: Roland Garros</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605190000 -0300" stop="20250605194500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">FIM JuniorGP Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605194500 -0300" stop="20250605203000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">FIM JuniorGP Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605203000 -0300" stop="20250605211500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">FIM JuniorGP Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605211500 -0300" stop="20250605220000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">FIM JuniorGP Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605220000 -0300" stop="20250605224500 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">FIM JuniorGP Championship</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605224500 -0300" stop="20250605233000 -0300" channel="TNT Sports 4 HD">
+    <title lang="en">FIM JuniorGP Championship</title>
     <previously-shown />
   </programme>
   <programme start="20250603010000 -0300" stop="20250603070000 -0300" channel="TNT Sports Box Office">
@@ -678,84 +710,36 @@
     <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
-  <programme start="20250602003000 -0300" stop="20250602013000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">ABB FIA Formula E World Championship Highlights</title>
+  <programme start="20250604190000 -0300" stop="20250605010000 -0300" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
-  <programme start="20250602013000 -0300" stop="20250602023000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">ABB FIA Formula E World Championship Highlights</title>
+  <programme start="20250605010000 -0300" stop="20250605070000 -0300" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
-  <programme start="20250602023000 -0300" stop="20250602040000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">UEFA Champions League</title>
+  <programme start="20250605070000 -0300" stop="20250605130000 -0300" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
-  <programme start="20250602040000 -0300" stop="20250602043000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">The WRC Magazine</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602043000 -0300" stop="20250602060000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Roland Garros</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602060000 -0300" stop="20250602063000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">UCI Mountain Bike World Series Women</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602063000 -0300" stop="20250602070000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">UCI Mountain Bike World Series Men</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602070000 -0300" stop="20250602080000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Men's Cycling Pro Series</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602080000 -0300" stop="20250602090000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Giro d'Italia Men Highlights</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602090000 -0300" stop="20250602100000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Court Side</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602100000 -0300" stop="20250602130000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Roland Garros</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602130000 -0300" stop="20250602160000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Roland Garros</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602160000 -0300" stop="20250602180000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Roland Garros</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602180000 -0300" stop="20250602190000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Roland Garros</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602190000 -0300" stop="20250602230000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live: Roland Garros</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602230000 -0300" stop="20250602234500 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Fight Week</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602234500 -0300" stop="20250603000000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">UEFA Conference League Goals Reload</title>
+  <programme start="20250605130000 -0300" stop="20250605190000 -0300" channel="TNT Sports Box Office">
+    <title lang="en">Welcome to TNT Sports Box Office</title>
     <previously-shown />
   </programme>
   <programme start="20250603000000 -0300" stop="20250603010000 -0300" channel="TNT Sports 1 HD">
     <title lang="en">NBA Tip-Off</title>
     <previously-shown />
   </programme>
-  <programme start="20250603010000 -0300" stop="20250603033000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Live NBA</title>
+  <programme start="20250603010000 -0300" stop="20250603020000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Gallagher Premiership Rugby Union</title>
     <previously-shown />
   </programme>
-  <programme start="20250603033000 -0300" stop="20250603043000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Inside the NBA</title>
+  <programme start="20250603020000 -0300" stop="20250603030000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">WNBA</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250603030000 -0300" stop="20250603043000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">NBA</title>
     <previously-shown />
   </programme>
   <programme start="20250603043000 -0300" stop="20250603050000 -0300" channel="TNT Sports 1 HD">
@@ -782,11 +766,11 @@
     <title lang="en">Live: Court Side</title>
     <previously-shown />
   </programme>
-  <programme start="20250603100000 -0300" stop="20250603130000 -0300" channel="TNT Sports 1 HD">
+  <programme start="20250603100000 -0300" stop="20250603123000 -0300" channel="TNT Sports 1 HD">
     <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
-  <programme start="20250603130000 -0300" stop="20250603150000 -0300" channel="TNT Sports 1 HD">
+  <programme start="20250603123000 -0300" stop="20250603150000 -0300" channel="TNT Sports 1 HD">
     <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
@@ -794,12 +778,8 @@
     <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
-  <programme start="20250603180000 -0300" stop="20250603183000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250603183000 -0300" stop="20250603190000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Premier League Stories</title>
+  <programme start="20250603180000 -0300" stop="20250603190000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
   <programme start="20250603190000 -0300" stop="20250603230000 -0300" channel="TNT Sports 1 HD">
@@ -819,7 +799,7 @@
     <previously-shown />
   </programme>
   <programme start="20250604041500 -0300" stop="20250604043000 -0300" channel="TNT Sports 1 HD">
-    <title lang="en">Kenny Allstar's Number 1's</title>
+    <title lang="en">Reframe the Game</title>
     <previously-shown />
   </programme>
   <programme start="20250604043000 -0300" stop="20250604060000 -0300" channel="TNT Sports 1 HD">
@@ -866,104 +846,84 @@
     <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
-  <programme start="20250602000000 -0300" stop="20250602031500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live MLB</title>
+  <programme start="20250604230000 -0300" stop="20250605003000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Roland Garros</title>
     <previously-shown />
   </programme>
-  <programme start="20250602031500 -0300" stop="20250602034500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">MLB Plays of the Week</title>
+  <programme start="20250605003000 -0300" stop="20250605020000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">UEFA Champions League</title>
     <previously-shown />
   </programme>
-  <programme start="20250602034500 -0300" stop="20250602040000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">TNT Sports Reload</title>
+  <programme start="20250605020000 -0300" stop="20250605030000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">UEFA Europa League &amp; Conference League Magazine</title>
     <previously-shown />
   </programme>
-  <programme start="20250602040000 -0300" stop="20250602050000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">IFSC Climbing World Cup Highlights</title>
+  <programme start="20250605030000 -0300" stop="20250605040000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">UEFA Europa League &amp; Conference League Magazine</title>
     <previously-shown />
   </programme>
-  <programme start="20250602050000 -0300" stop="20250602060000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">HSBC SVNS Highlights</title>
+  <programme start="20250605040000 -0300" stop="20250605050000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Serie A - Full Impact</title>
     <previously-shown />
   </programme>
-  <programme start="20250602060000 -0300" stop="20250602070000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Gallagher Premiership Rugby Union</title>
+  <programme start="20250605050000 -0300" stop="20250605060000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Men's Cycling Pro Series</title>
     <previously-shown />
   </programme>
-  <programme start="20250602070000 -0300" stop="20250602080000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Gallagher Premiership Rugby Union</title>
+  <programme start="20250605060000 -0300" stop="20250605070000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">ABB FIA Formula E World Championship Highlights</title>
     <previously-shown />
   </programme>
-  <programme start="20250602080000 -0300" stop="20250602090000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Gallagher Premiership Rugby Union</title>
+  <programme start="20250605070000 -0300" stop="20250605080000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">ABB FIA Formula E World Championship Highlights</title>
     <previously-shown />
   </programme>
-  <programme start="20250602090000 -0300" stop="20250602100000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Gallagher Premiership Rugby Union</title>
+  <programme start="20250605080000 -0300" stop="20250605090000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Serie A - Full Impact</title>
     <previously-shown />
   </programme>
-  <programme start="20250602100000 -0300" stop="20250602110000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Gallagher Premiership Rugby Union</title>
+  <programme start="20250605090000 -0300" stop="20250605093000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">UEFA Champions League Magazine</title>
     <previously-shown />
   </programme>
-  <programme start="20250602110000 -0300" stop="20250602114500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Motocross World Championship</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602114500 -0300" stop="20250602123000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Motocross World Championship</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602123000 -0300" stop="20250602131500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Motocross World Championship</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602131500 -0300" stop="20250602140000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Motocross World Championship</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602140000 -0300" stop="20250602150000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">MLB Highlights</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602150000 -0300" stop="20250602153000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">MLB: Off the Bat</title>
-    <previously-shown />
-  </programme>
-  <programme start="20250602153000 -0300" stop="20250602163000 -0300" channel="TNT Sports 2 HD">
+  <programme start="20250605093000 -0300" stop="20250605100000 -0300" channel="TNT Sports 1 HD">
     <title lang="en">Premier League Stories</title>
     <previously-shown />
   </programme>
-  <programme start="20250602163000 -0300" stop="20250602170000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">The Fantasy Show</title>
+  <programme start="20250605100000 -0300" stop="20250605110000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Giro d'Italia Men Highlights</title>
     <previously-shown />
   </programme>
-  <programme start="20250602170000 -0300" stop="20250602171500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Reframe the Game</title>
+  <programme start="20250605110000 -0300" stop="20250605133000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
-  <programme start="20250602171500 -0300" stop="20250602173000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Reframe the Game</title>
+  <programme start="20250605133000 -0300" stop="20250605140000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Live: Court Side</title>
     <previously-shown />
   </programme>
-  <programme start="20250602173000 -0300" stop="20250602183000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">FIM Speedway Grand Prix Highlights</title>
+  <programme start="20250605140000 -0300" stop="20250605160000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
-  <programme start="20250602183000 -0300" stop="20250602193000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">British Speedway</title>
+  <programme start="20250605160000 -0300" stop="20250605190000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Live: Roland Garros</title>
     <previously-shown />
   </programme>
-  <programme start="20250602193000 -0300" stop="20250602220000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Live: British Speedway</title>
+  <programme start="20250605190000 -0300" stop="20250605200000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Roland Garros</title>
     <previously-shown />
   </programme>
-  <programme start="20250602220000 -0300" stop="20250602223000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">UEFA Women's Champions League</title>
+  <programme start="20250605200000 -0300" stop="20250605213000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Roland Garros</title>
     <previously-shown />
   </programme>
-  <programme start="20250602223000 -0300" stop="20250603000000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">UEFA Champions League</title>
+  <programme start="20250605213000 -0300" stop="20250605230000 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Original Documentary</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605230000 -0300" stop="20250605234500 -0300" channel="TNT Sports 1 HD">
+    <title lang="en">Fight Week</title>
     <previously-shown />
   </programme>
   <programme start="20250603000000 -0300" stop="20250603031500 -0300" channel="TNT Sports 2 HD">
@@ -1034,8 +994,12 @@
     <title lang="en">European Rally Championship Highlights</title>
     <previously-shown />
   </programme>
-  <programme start="20250603183000 -0300" stop="20250603193000 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Porsche Supercup</title>
+  <programme start="20250603183000 -0300" stop="20250603190000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250603190000 -0300" stop="20250603193000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Premier League Stories</title>
     <previously-shown />
   </programme>
   <programme start="20250603193000 -0300" stop="20250603203000 -0300" channel="TNT Sports 2 HD">
@@ -1051,7 +1015,7 @@
     <previously-shown />
   </programme>
   <programme start="20250603220000 -0300" stop="20250603221500 -0300" channel="TNT Sports 2 HD">
-    <title lang="en">Kenny Allstar's Number 1's</title>
+    <title lang="en">Reframe the Game</title>
     <previously-shown />
   </programme>
   <programme start="20250603221500 -0300" stop="20250603233000 -0300" channel="TNT Sports 2 HD">
@@ -1150,17 +1114,102 @@
     <title lang="en">Fight Week</title>
     <previously-shown />
   </programme>
+  <programme start="20250604233000 -0300" stop="20250605000000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Tom Aspinall's Fight Lab</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605000000 -0300" stop="20250605031500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Live MLB</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605031500 -0300" stop="20250605034500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">MLB Plays of the Week</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605034500 -0300" stop="20250605040000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">TNT Sports Reload</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605040000 -0300" stop="20250605053000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Roland Garros</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605053000 -0300" stop="20250605060000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Discovery Golf</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605060000 -0300" stop="20250605073000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Ultimate Pool</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605073000 -0300" stop="20250605080000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Discovery Golf</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605080000 -0300" stop="20250605090000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">British Speedway</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605090000 -0300" stop="20250605100000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">FIM Speedway Grand Prix Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605100000 -0300" stop="20250605101500 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Reframe the Game</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605101500 -0300" stop="20250605133000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Live AFL</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605133000 -0300" stop="20250605143000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">MLB Highlights</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605143000 -0300" stop="20250605153000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Isuzu UTE A-League</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605153000 -0300" stop="20250605170000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">UEFA Conference League</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605170000 -0300" stop="20250605183000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">UEFA Europa League</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605183000 -0300" stop="20250605200000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">UEFA Champions League</title>
+    <previously-shown />
+  </programme>
+  <programme start="20250605200000 -0300" stop="20250605210000 -0300" channel="TNT Sports 2 HD">
+    <title lang="en">Premier League Review</title>
+    <previously-shown />
+  </programme>
   <programme start="20250604185000 +0000" stop="20250604221000 +0000" channel="Optus Sport 1">
     <title lang="en">Germany v Portugal</title>
     <sub-title lang="en">UEFA Nations League</sub-title>
-    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <desc lang="en">Season: 2024/2025.</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/b9d98c3a-f16d-467d-a211-bfb0b5a378e3_unlsfassetcleangermanyportugal05jun450am.png" />
   </programme>
+  <programme start="20250605185000 +0000" stop="20250605221000 +0000" channel="Optus Sport 1">
+    <title lang="en">Spain v France</title>
+    <sub-title lang="en">UEFA Nations League</sub-title>
+    <desc lang="en">Season: 2024/2025.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/f94ed99c-3550-4dd9-97d5-6be42a16bcb6_unlsfassetcleanspainfrance06jun450am.png" />
+  </programme>
   <programme start="20250604170000 +0000" stop="20250604173000 +0000" channel="Optus Sport 11">
     <title lang="en">PL Stories: Juan Mata</title>
-    <desc lang="en">We catch up with Juan Mata in Australia, where the former Premier League star is now playing with Western Sydney Wanderers.  The Spaniard reflects on his memorable years in England with Chelsea and Manchester United, sharing insights into his greatest moments, personal growth, and connection with fans. As he begins a new chapter down under, he also opens up about life after the Premier League and what lies ahead both on and off the pitch.(n)</desc>
+    <desc lang="en">We catch up with Juan Mata in Australia, where the former Premier League star is now playing with Western Sydney Wanderers.  The Spaniard reflects on his memorable years in England with Chelsea and Manchester United, sharing insights into his greatest moments, personal growth, and connection with fans. As he begins a new chapter down under, he also opens up about life after the Premier League and what lies ahead both on and off the pitch.</desc>
     <category lang="en">Soccer</category>
     <icon src="https://static.sport.optus.com.au/resources/static/48f51ed9-0d41-4d9e-8bfc-b5eb404505b7_pl-stories.png" />
+  </programme>
+  <programme start="20250605133000 +0000" stop="20250605143000 +0000" channel="Optus Sport 11">
+    <title lang="en">PL Originals: Masterclass Special</title>
+    <desc lang="en">Some of the Premier League's biggest stars take us onto the pitch to discuss the techniques and thought processes that allow them to perform at the highest level. Featuring Brennan Johnson, Matheus Cunha, Bernd Leno, Diogo Dalot and Ipswich Town goals recreated.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://static.sport.optus.com.au/resources/static/84b71e35-0c58-43f5-97ca-586e36d12650_plmasterclass16x9.jpg" />
   </programme>
 </tv>
